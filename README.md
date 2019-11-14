@@ -1,2 +1,2 @@
 # WynnText
-Resource Pack for WynnTextReplacer
+Resource Pack for [WynnTextReplacer](https://github.com/kyaco/WynnTextReplacer).
