@@ -1,0 +1,13 @@
+{
+    "pack": {
+        "pack_format": 4,
+        "description": "Wynncraft text for WynnTextReplacer."
+    },
+    "language": {
+        "wynntr": {
+            "name": "WynnText",
+            "region": "wynncraft",
+            "bidirectional": "false"
+        }
+    }
+}
