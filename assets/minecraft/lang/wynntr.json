@@ -161,5 +161,6 @@
 	"chat.f15feca13876cef0032819b0814275d628e7d21a":"§cThe server is restarting in 1 seconds.§r",
 	"chat.38b8d5edc4c724cff4f277c76dcf73207c10b451":"§cThe server is restarting in 0 seconds.§r",
 	"title.32e0dc94203740de988fa58d038f6f0b3fcd6048":"§bServer restarting!",
+	"title.a5a1e14b8f00587ee2df329723caace4c917e283":"§cThe server you were previously on went down, you have been connected to a fallback server§r",
 	"title.da39a3ee5e6b4b0d3255bfef95601890afd80709":""
 }
