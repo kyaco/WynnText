@@ -1,0 +1,19 @@
+{
+	"_":"------------------------------------------- King's recruit --------------------------------",
+	"entity_name.9a48e444f3f822f53efbbb3f2ce7f01c09db8bd9":"§2Caravan Driver",
+	"chat.d7e4befe8c70e89c9d102806ab036b86f7fbc834":"§7[1/1] §r§2Tasim: §r§aHey, kyaco! You alright in there? Looks like we hit something.§r",
+	"chat.f2ea675dd5955f0b9ab97ccbb350f9874a2ac872":"§4You can skip the tutorial by typing: §r§c/skiptutorial§r§4. You will not receive resources, tools, or a crafted item by doing this.§r",
+	"chat.bb6345d99b732a700f8f858d79970b484d1016a1":"§7[1/1] §r§2Tasim: §r§aHey, kyaco! Come over here, we need to talk to you!§r",
+	"item_lore.45ad0538b4a17a2d83707dcd42a041cd621bf318":"§7Exit the caravan §r",
+
+
+
+	"chat.9036f499bef043b6a3a1752c50b15ade9e550753":"§7[1/1] §r§2Aledar: §r§aHey, %s, the castle\u0027s the other way!§r",
+	"chat.9036f499bef043b6a3a1752c50b15ade9e550753.regexp":"§7[1/1] §r§2Aledar: §r§aHey, (\\w+), the castle\u0027s the other way!§r",
+	"quest.king's_recruit.stage2.1": "§7[1/3]§r§2タシム:§r§aこれがウィン、か。§r",
+	"quest.king's_recruit.stage2.2": "§7[2/3]§r§2アレダー:§r§aいい眺めだ。戦いの影響もここまではきていないようだな。§r",
+	"quest.king's_recruit.stage2.3": "§7[3/3]§r§2老人:§r§aおーい、三人とも！こっちへ来て話を聞いておくれ。§r",
+	"quest.king's_recruit.stage2.10": "§7[1/1]§r§2タシム:§r§aおい、%1$s!まだ先に行くんじゃない。そこの爺さんに話しかけるんだ。（§r§b§l右クリック§r§aで話しかけましょう）§r",
+	"quest.king's_recruit.stage2.10.regexp": "^§7\\[1/1\\] §r§2Tasim: §r§aHey, (\\w+)! Don't leave yet, let's talk to this old man. §r§b§lRight-click§r§a on him to talk.§r$",
+	"quest.king's_recruit.stage2.11": "§7[1/1]§r§2タシム:§r§b§l右クリック§r§aでそこの爺さんに話しかけるんだ。§r"
+}

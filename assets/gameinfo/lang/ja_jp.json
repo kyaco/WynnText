@@ -1,0 +1,124 @@
+{
+	
+	"chat.bc2bc9482b526964258b6287957323d1f780d85b":"§c%s§r§4 requires your agility skill to be at least §r§c%s.§r",
+	"chat.0943f74dbe606cef43a04fa2e6807469d9278b28":"§c%s§r§4 requires your dexterity skill to be at least §r§c%s.§r",
+	"chat.bc2bc9482b526964258b6287957323d1f780d85b.regexp":"^§c(\\.+)§r§4 requires your agility skill to be at least §r§c(\\d{1,3})\\.§r$",
+	"chat.0943f74dbe606cef43a04fa2e6807469d9278b28.regexp":"^§c(\\.+)§r§4 requires your dexterity skill to be at least §r§c(\\d{1,3})\\.§r$",
+
+	"_":"---------------------------------------------------- SOUL POINT ------------------------------------------------------",
+	"chat.5af5eba02e2962bdc22bfd187aa1129fa75214cc":"§5As the sun rises, you feel a little bit safer...§r",
+	"chat.d45c46a7523395da6bdbe6e8a100149c2ca4c0c2":"§d[+1 Soul Point]§r",
+
+	
+	"_":"---------------------------------------------------- TRADE ------------------------------------------------------",
+	"chat.5fabf52d5b1d39a83465189cb8acbd2c42b2eeb7":"§5The trade request has been sent! Waiting for them to accept...§r",
+	"chat.14138f91f772e972eca99a8d8e3d27b22bc3d693":"§5%s would like to trade! Type §r§6/trade %s§r§5 to accept.§r",
+	"chat.14138f91f772e972eca99a8d8e3d27b22bc3d693.regexp":"^§5(\\w+) would like to trade! Type §r§6/trade (\\w+)§r§5 to accept\\.§r$",
+	"container_name.trade.screen":"%s         %s",
+	"item_name.trade.partner.side":"§f<< §7%s's Side",
+	"item_lore.trade.your.side":"§7%s's Side §r§f>>§r",
+	"item_name.001f9c3366edc876949feed6bc2a1f2e666c28ab":"§6%s: §eClick here to accept the trade.",
+	"item_name.ab9c201aa64d3c4df7eea5362d1322b8d43dfede":"§4%s: §cClick here to continue the trade.",
+	"item_name.361af59ec671740907d0ee9fc778e77f61ec8866":"§2%s§a has accepted the trade!",
+	"chat.59750715487b821faf61f37587644c6b2565e80d":"§5The trade has been completed!§r",
+	"container_name.trade.screen.regexp":"^(\\w+)         (\\w+)$",
+	"item_name.trade.partner.side.regexp":"^§f<< §7(\\w+)'s Side$",
+	"item_lore.trade.your.side.regexp":"^§7(\\w+)'s Side §r§f>>§r$",
+	"item_name.001f9c3366edc876949feed6bc2a1f2e666c28ab.regexp":"^§6(\\w+): §eClick here to accept the trade\\.$",
+	"item_name.ab9c201aa64d3c4df7eea5362d1322b8d43dfede.regexp":"^§4(\\w+): §cClick here to continue the trade\\.$",
+	"item_name.361af59ec671740907d0ee9fc778e77f61ec8866.regexp":"^§2(\\w+)§a has accepted the trade!$",
+
+
+	"_":"---------------------------------------------------- DUEL ------------------------------------------------------",
+	"chat.fbd0bfa299c3064617a71f880a0c7bb2ef31a4c3":"§9The duel request has been sent! Waiting for them to accept...§r",
+	"chat.057a24a46dd1e1b0059da2d82bb9846f99c8e6d7":"§5Wait a bit before trying to duel again!§r",
+	"chat.6f2778163c0c2688205a08a7ef09a098db8e00d5":"§9The duel is starting in §r§e10 seconds§r§9...§r",
+	"chat.8bde339a82e909d7af35a01bd511b6974d07e8f0":"§93...§r",
+	"chat.c858f0bafee8f741babac27b35683567d0d2616b":"§92...§r",
+	"chat.561b1adede9a05ad7f566c1ebf7cd3f05bfcb053":"§91...§r",
+	"chat.b65da10f7ecc5164870458817d05bde10ad9d064":"§9The duel has started! Fight to the death...§r",
+	"chat.19f40edb64662e1cf08ac6b84bd70a4b7ec71aaa":"§6%s§r§9 has won the duel!§r",
+	"chat.19f40edb64662e1cf08ac6b84bd70a4b7ec71aaa.regexp":"^§6(\\w+)§r§9 has won the duel!§r$",
+	"title.3ec26c49be377d0f8fc2e1a8c829abce758d5540":"§3The duel is over",
+	"title.64c793e88a818c9bdb0516c1f2bf6f7ba392312a":"§%s has been killed",
+	"title.64c793e88a818c9bdb0516c1f2bf6f7ba392312a.regexp":"^§b(\\w+) has been killed$",
+
+
+	"_":"---------------------------------------------------- BOMB ------------------------------------------------------",
+	"chat.49eeb09857148dfccd34a3f0dfee485c0ac8be5f":"§b%s§r§3 has thrown a §r§bDungeon Bomb§r§3! Every dungeon entrance is free for the next §r§b10 minutes§r§3!§r",
+	"chat.49eeb09857148dfccd34a3f0dfee485c0ac8be5f.regexp":"^§b(\\w+)§r§3 has thrown a §r§bDungeon Bomb§r§3! Every dungeon entrance is free for the next §r§b10 minutes§r§3!§r$",
+
+	"boss_bar.0c7ac1e401351a438e4f1ca70d975ebe9401907f":"§3Double Combat XP from §b%s§7 [§f1%s§7 min]",
+	"boss_bar.923160f65a4630cd37a39e7b8c07796891b06d76":"§3Free Dungeon Entry from §b%1$s§7 [§f%2$s§7 min]",
+	"boss_bar.0c7ac1e401351a438e4f1ca70d975ebe9401907f.regexp":"^§3Double Combat XP from §b(\\w+)§7 \\[§f(\\d{1,2})§7 min\\]$",
+	"boss_bar.923160f65a4630cd37a39e7b8c07796891b06d76.regexp":"^§3Free Dungeon Entry from §b(\\w+)§7 \\[§f(\\d{1,2})§7 min\\]$",
+	
+	"chat.b8dd22e236f8a60476edd1c1b5dafa77a7a16e8b":"§7Want to thank §r§f1%s§r§7? §r§b§nClick here to thank them!§r",
+	"chat.b8dd22e236f8a60476edd1c1b5dafa77a7a16e8b.regexp":"^§7Want to thank §r§f(\\w+)§r§7\\? §r§b§nClick here to thank them!§r$",
+	
+	"_":"---------------------------------------------------- REGION ------------------------------------------------------",
+	"title.f50b5876509476379e2a656cf75f2c949041c452":"§aThe Province of Wynn",
+	"title.374dd318e3233b0f4c178eba7bf0dfb61a28099f":"§0",
+
+
+	"_":"---------------------------------------------------- SPELL ------------------------------------------------------",
+	"item_name.94edb661fe6d4dfbcd5522301007377d10af6c37":"§7Bomb spell cast!§3 [§b-4 ✺§3]",
+	"item_name.f08d7b805a9c93dcc6b1d97f4e79f9cbacbacb98":"§7Bomb spell cast!§3 [§b-5 ✺§3]",
+	"item_name.c7aecf1f21be1922d1fd15f0a9b3f3cd4b6c8182":"§7Bomb spell cast!§3 [§b-6 ✺§3]",
+	"item_name.0a36d4ea0eab4b44b8c4254e5e9321c135b74d7a":"§7Bomb spell cast!§3 [§b-7 ✺§3]",
+	"item_name.f8f77ae51e3b98f2fadd339be1c643e29df1a4a8":"§7Escape spell cast!§3 [§b-2 ✺§3]",
+	"item_name.1d186cea4ea0a3979594e8e541785f093d7660d4":"§7Escape spell cast!§3 [§b-3 ✺§3]",
+	"item_name.31997aa3bbb4ca1c45bdbca5a6f42cd7510ebc01":"§7Escape spell cast!§3 [§b-4 ✺§3]",
+	"item_name.34bdc62db21b5d8f0a34a84eb9645f7517c9c09b":"§7Escape spell cast!§3 [§b-5 ✺§3]",
+	"item_name.42362796b0a30368b059fc851cbd8440b7e90d06":"§7Arrow Storm spell cast!§3 [§b-3 ✺§3]",
+	"item_name.0748bb97a110d7fd25468eea5e043d1740729550":"§7Arrow Storm spell cast!§3 [§b-4 ✺§3]",
+	"item_name.17919a724552a2b243296a8f5aa97ad228071354":"§7Arrow Storm spell cast!§3 [§b-5 ✺§3]",
+	"item_name.45349ae8d874325281cedda19338b3b4fcf3b77a":"§7Arrow Storm spell cast!§3 [§b-6 ✺§3]",
+	"item_name.684cd578ea2313dc1a213c69cf4f81b3cfa81192":"§7Arrow Storm spell cast!§3 [§b-7 ✺§3]",
+	"item_name.ef091cbaa2aef2f17bafe138bbbe3e4065573a62":"§7Arrow Shield spell cast!§3 [§b-5 ✺§3]",
+	"item_name.d781f004178e4a31a714573a3fcd8b88822e7964":"§7Arrow Shield spell cast!§3 [§b-6 ✺§3]",
+	"item_name.87f2f7c0051e2460d421f9b6fbbf826e9133f5e5":"§7Arrow Shield spell cast!§3 [§b-7 ✺§3]",
+	
+	"chat.19e6ee1eeb2a5fd7e8d82496eba09118826bb32d":"§4You don\u0027t have enough mana to do that spell!§r",
+	"item_name.1b304c13c90f1fc3680c35af466b109171cd7a7f":"§4You don\u0027t have enough mana to do that spell!",
+
+	"chat.c69350ab00af2d4524257ea1869322d157ed0325":"§b+3 minutes§r§7 speed boost.§r",
+
+	"_":"---------------------------------------------------- COMBAT ------------------------------------------------------",
+	"entity_name.combat.killer":"§7[%s1$s]",
+	"entity_name.combat.killer.regexp":"^§7\\[(\\w+)\\]$",
+	"entity_name.b42f773b5165f41639b46bafa4f1e88ebee7e423":"§7[§f+§f%s§f Combat XP§7]",
+	"entity_name.b42f773b5165f41639b46bafa4f1e88ebee7e423.regexp":"^§7\\[§f\\+§f(\\d{1,5})§f Combat XP§7\\]$",
+
+	"entity_name.58518f8cf6b06a36e805bd0f7dc0e61d80a62b3d":"%s",
+	"entity_name.58518f8cf6b06a36e805bd0f7dc0e61d80a62b3d.regexp":"^(§4\\[(?:§c|§0|§4|§8|\\d{1,7}|\\|)+§4\\])$",
+	
+	"entity_name.194502669a0203099206ed35c93538c10712a81d":"%s",
+	"entity_name.194502669a0203099206ed35c93538c10712a81d.regexp":"^((?:§c-\\d+ ❤ |§c-\\d+ ✹ |§b-\\d+ ❉ |§f-\\d+ ❋ |§e-\\d+ ✦ |§2-\\d+ ✤ )+)$",
+
+	
+
+	"_":"---------------------------------------------------- HUD ------------------------------------------------------",
+	"chat.hud.status.N": "§c❤ %1$d/%2$d§0    §7%3$d§f 北§7 %4$d    §b✺ %5$d/%6$d",
+	"chat.hud.status.S": "§c❤ %1$d/%2$d§0    §7%3$d§f 南§7 %4$d    §b✺ %5$d/%6$d",
+	"chat.hud.status.E": "§c❤ %1$d/%2$d§0    §7%3$d§f 東§7 %4$d    §b✺ %5$d/%6$d",
+	"chat.hud.status.W": "§c❤ %1$d/%2$d§0    §7%3$d§f 西§7 %4$d    §b✺ %5$d/%6$d",
+	"chat.hud.status.NE": "§c❤ %1$d/%2$d§0    §7%3$d§f 北東§7 %4$d    §b✺ %5$d/%6$d",
+	"chat.hud.status.NW": "§c❤ %1$d/%2$d§0    §7%3$d§f 北西§7 %4$d    §b✺ %5$d/%6$d",
+	"chat.hud.status.SE": "§c❤ %1$d/%2$d§0    §7%3$d§f 南東§7 %4$d    §b✺ %5$d/%6$d",
+	"chat.hud.status.SW": "§c❤ %1$d/%2$d§0    §7%3$d§f 南西§7 %4$d    §b✺ %5$d/%6$d",
+	"chat.hud.status.N.regexp":"^§c❤ (\\d+)/(\\d+)§0    §7(\\-?\\d+)§f N§7 (\\-?\\d+)    §b✺ (\\-?\\d+)/(\\-?\\d+)$",
+	"chat.hud.status.S.regexp":"^§c❤ (\\d+)/(\\d+)§0    §7(\\-?\\d+)§f S§7 (\\-?\\d+)    §b✺ (\\-?\\d+)/(\\-?\\d+)$",
+	"chat.hud.status.E.regexp":"^§c❤ (\\d+)/(\\d+)§0    §7(\\-?\\d+)§f E§7 (\\-?\\d+)    §b✺ (\\-?\\d+)/(\\-?\\d+)$",
+	"chat.hud.status.W.regexp":"^§c❤ (\\d+)/(\\d+)§0    §7(\\-?\\d+)§f W§7 (\\-?\\d+)    §b✺ (\\-?\\d+)/(\\-?\\d+)$",
+	"chat.hud.status.NE.regexp":"^§c❤ (\\d+)/(\\d+)§0    §7(\\-?\\d+)§f NE§7 (\\-?\\d+)    §b✺ (\\-?\\d+)/(\\-?\\d+)$",
+	"chat.hud.status.NW.regexp":"^§c❤ (\\d+)/(\\d+)§0    §7(\\-?\\d+)§f NW§7 (\\-?\\d+)    §b✺ (\\-?\\d+)/(\\-?\\d+)$",
+	"chat.hud.status.SE.regexp":"^§c❤ (\\d+)/(\\d+)§0    §7(\\-?\\d+)§f SE§7 (\\-?\\d+)    §b✺ (\\-?\\d+)/(\\-?\\d+)$",
+	"chat.hud.status.SW.regexp":"^§c❤ (\\d+)/(\\d+)§0    §7(\\-?\\d+)§f SW§7 (\\-?\\d+)    §b✺ (\\-?\\d+)/(\\-?\\d+)$",
+	"chat.hud.status.sprint": "§c❤ %1$s/%2$s§0    §%3$s[%4$s]    §b✺ %5$s/%6$s",
+	"chat.hud.status.sprint.regexp":"^§c❤ (\\d+)/(\\d+)§0    §([246])\\[([\\|§ace2468Sprint]+)\\]    §b✺ (\\d+)/(\\d+)$",
+
+	"chat.hud.status.spell":"§c❤ %1$d/%2$d§0    §a%3$s§r    §b✺ %4$d/%5$d",
+	"chat.hud.status.spell.regexp":"^§c❤ (\\d+)/(\\d+)§0    §a([(?:§[a7nr])\\-RL]+)§r    §b✺ (\\-?\\d+)/(\\-?\\d+)$"
+
+}

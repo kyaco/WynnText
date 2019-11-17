@@ -1,0 +1,14 @@
+{
+	"entity_name.1137fd06f6909452ca6e0f2f35aeee804a550eb8":"§aWheat",
+	"entity_name.312f7cb7956e17de7a93741e75bdb6a89c896940":"§aCopper",
+	
+	"entity_name.gameinfo.profession.target.farming": "§a✔§f Ⓙ§7 Farming Lv. Min: §f%1$s",
+	"entity_name.gameinfo.profession.target.mining" : "§a✔§f Ⓑ§7 Mining Lv. Min: §f%1$s",
+	"entity_name.gameinfo.profession.target.farming.regexp": "^§a✔§f Ⓙ§7 Farming Lv. Min: §f(\\d+)$",
+	"entity_name.gameinfo.profession.target.mining.regexp" : "^§a✔§f Ⓑ§7 Mining Lv. Min: §f(\\d+)$",
+	"chat.gameinfo.profession.levelup.farming":"§6%1$s is now level %2$s in §r§fⒿ§r§6 Farming§r",
+	"chat.gameinfo.profession.levelup.mining" :"§6%1$s is now level %2$s in §r§fⒷ§r§6 Mining§r",
+	"chat.gameinfo.profession.levelup.farming.regexp":"^§6(\\w+) is now level (\\d+) in §r§fⒿ§r§6 Farming§r$",
+	"chat.gameinfo.profession.levelup.mining.regexp" :"^§6(\\w+) is now level (\\d+) in §r§fⒷ§r§6 Mining§r$"
+	
+}
