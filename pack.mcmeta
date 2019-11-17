@@ -1,7 +1,7 @@
 {
     "pack": {
         "pack_format": 4,
-        "description": "Wynncraft text for WynnTextReplacer."
+        "description": "Wynncraft text for WynnTextReplacer. version 0.1"
     },
     "language": {
         "wynntr": {
