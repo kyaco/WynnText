@@ -17,6 +17,7 @@
 	"chat.wynncraft.chat.content.regexp": "^(§[7a]\\[\\d+/(?:Ar|Wa|Ma|As|Hu|Kn|Da|Ni)(?:/[✫★]+\\w+)?\\]§r(?:§b \\[§r§3VIP\\+§r§b\\]§r|§5 \\[§r§dHERO§r§5\\]§r)? §.+§r)$",
 	"show_text.wynncraft.chat.playerstatus.archer":"§7%1$s\n\n§7Class: §f%2$s\n§7Combat Level: §f%3$s\n\n§fⒸ §7Woodcutting Lv: §f%4$s\n§fⒷ §7Mining Lv: §f%5$s\n§fⒿ §7Farming Lv: §f%6$s\n§fⓀ §7Fishing Lv: §f%7$s\n\n§fⒽ §7Armouring Lv: §f%8$s\n§fⒼ §7Weaponsmithing Lv: §f%9$s\n§fⒻ §7Tailoring Lv: §f%10$s\n§fⒾ §7Woodworking Lv: §f%11$s\n§fⒹ §7Jeweling Lv: §f%12$s\n§fⒶ §7Cooking Lv: §f%13$s\n§fⒺ §7Scribing Lv: §f%13$s\n§fⓁ §7Alchemism Lv: §f%14$s\n\n§6Total Level: §e%15$s$",
 	"show_text.wynncraft.chat.playerstatus.archer.regexp":"^§7(\\w+)\\n\\n§7Class: §f(Archer|Warrior|Mage|Assassin|Hunter|Knight|Dark Wizard|Ninja)\\n§7Combat Level: §f(\\d+)\\n\\n§fⒸ §7Woodcutting Lv: §f(\\d+)\\n§fⒷ §7Mining Lv: §f(\\d+)\\n§fⒿ §7Farming Lv: §f(\\d+)\\n§fⓀ §7Fishing Lv: §f(\\d+)\\n\\n§fⒽ §7Armouring Lv: §f(\\d+)\\n§fⒼ §7Weaponsmithing Lv: §f(\\d+)\\n§fⒻ §7Tailoring Lv: §f(\\d+)\\n§fⒾ §7Woodworking Lv: §f(\\d+)\\n§fⒹ §7Jeweling Lv: §f(\\d+)\\n§fⒶ §7Cooking Lv: §f(\\d+)\\n§fⒺ §7Scribing Lv: §f(\\d+)\\n§fⓁ §7Alchemism Lv: §f(\\d+)\\n\\n§6Total Level: §e(\\d+)$",
+	"show_text.dafaf178aab81990c14b271bb5ab7688c7c35cfa":"§f§lPrevious Names:\n§7 - No former names available",
 
 	"chat.private.message":"%s",
 	"chat.private.message.regexp":"^(§7\\[§r§\\w+§r§6 ➤ §r§\\w+§r§7\\] §r§f.+§r)$",
@@ -51,7 +52,8 @@
 	"chat.4dd16caa2a501dddaa9881caf6b2c97cf484f057":"§6[Info] §r§7Low tier items are a great source of scrap! §r§fFor more information, visit wynncraft.com!§r",
 	"chat.59fe9a838783224126bf634bf0a68ddf6f797503":"§6[Info] §r§eLost? Use our live web map to find your way through the world at §r§6map.wynncraft.com§r§e!§r",
 	"chat.29758514f224f405f8ffc1d4cc4e2e73a55bbbea":"§6[Info] §r§7Notice somebody breaking the rules? Type \"/report [name] [reason]\" to anonymously report them! §r§fFor more information, visit wynncraft.com!§r",
-	"chat.62106eb4441fd8cb207ee52ff350bba19c7b3fae":"§5[Info] §r§dPurchase a rank for daily crates/mob totems, market/class slots, crafted item perks, beta access, and much more! §r§5Visit store.wynncraft.com for more!§r",
+	"chat.62106eb4441fd8cb207ee52ff350bba19c7b3fae":"§5[Info] §r§dPurchase a rank for daily crates/mob totems, market/class slots, crafted item perks, beta access, and much more! §r§5Visit store.wynncraft.com for more!§r",,
+	"chat.a3ea8aa986a9248ae620589b353bf28dc634cc5f":"§5[Info] §r§dPurchase bombs to get global effects like Double XP, Free Items, Shouts, Free Dungeon Entries and much more! §r§5Visit store.wynncraft.com for more!§r",
 	"chat.0a8cbc61cfe0267a9bf6e6e33bccc5a1441cc9e3":"§5[Info] §r§dPurchase crates for cosmetic items like Weapon Skins, Wybels, Particle Effects, Hats and much more! §r§5Visit store.wynncraft.com for more!§r",
 	"chat.0f847902be87d9dee18926fbe363b511aebd573e":"§6[Info] §r§eRedditor? Join our official subreddit at §r§6reddit.com/r/wynncraft§r§e!§r",
 	"chat.60ac03fd0defed0edb719b5672d31a0af4ae792e":"§6[Info] §r§7Scared you'll accidentally drop your item? Try /itemlock! §r§fFor more information, visit wynncraft.com!§r",
