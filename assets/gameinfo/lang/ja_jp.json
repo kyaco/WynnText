@@ -52,6 +52,7 @@
 	"boss_bar.923160f65a4630cd37a39e7b8c07796891b06d76":"§3Free Dungeon Entry from §b%1$s§7 [§f%2$s§7 min]",
 	"boss_bar.0c7ac1e401351a438e4f1ca70d975ebe9401907f.regexp":"^§3Double Combat XP from §b(\\w+)§7 \\[§f(\\d{1,2})§7 min\\]$",
 	"boss_bar.923160f65a4630cd37a39e7b8c07796891b06d76.regexp":"^§3Free Dungeon Entry from §b(\\w+)§7 \\[§f(\\d{1,2})§7 min\\]$",
+	"chat.f4c8d637fb1ab756dc788fcf67e5bca602474a3f.regexp":"^§b(\\w+)'s §r§3bomb has expired. You can buy dungeon bombs at our website, §r§bwynncraft.com/store§r$",
 	
 	"chat.b8dd22e236f8a60476edd1c1b5dafa77a7a16e8b":"§7Want to thank §r§f1%s§r§7? §r§b§nClick here to thank them!§r",
 	"chat.b8dd22e236f8a60476edd1c1b5dafa77a7a16e8b.regexp":"^§7Want to thank §r§f(\\w+)§r§7\\? §r§b§nClick here to thank them!§r$",
