@@ -5,6 +5,11 @@
 	"chat.bc2bc9482b526964258b6287957323d1f780d85b.regexp":"^§c(\\.+)§r§4 requires your agility skill to be at least §r§c(\\d{1,3})\\.§r$",
 	"chat.0943f74dbe606cef43a04fa2e6807469d9278b28.regexp":"^§c(\\.+)§r§4 requires your dexterity skill to be at least §r§c(\\d{1,3})\\.§r$",
 
+
+	"chat.58d626435c04143b9c3d1643a320a5ece7daa5c8":"§7%s has gotten a §r§cGodly Dern Dagger§r§7 from their crate. Buy your own at wynncraft.com/store§r",
+	"chat.58d626435c04143b9c3d1643a320a5ece7daa5c8.regexp":"^§7(\\w+) has gotten a §r§cGodly Dern Dagger§r§7 from their crate\\. Buy your own at wynncraft\\.com/store§r$",
+
+
 	"_":"---------------------------------------------------- SOUL POINT ------------------------------------------------------",
 	"chat.5af5eba02e2962bdc22bfd187aa1129fa75214cc":"§5As the sun rises, you feel a little bit safer...§r",
 	"chat.d45c46a7523395da6bdbe6e8a100149c2ca4c0c2":"§d[+1 Soul Point]§r",
@@ -31,6 +36,8 @@
 
 	"_":"---------------------------------------------------- DUEL ------------------------------------------------------",
 	"chat.fbd0bfa299c3064617a71f880a0c7bb2ef31a4c3":"§9The duel request has been sent! Waiting for them to accept...§r",
+	"chat.faffa8ba8a40f3e3274a70ee717da05035092fe4":"§9%1$s [Lv. %2$s] would like to duel! Type §r§6/duel %3$s§r§9 to accept.§r",
+	"chat.faffa8ba8a40f3e3274a70ee717da05035092fe4.regexp":"^§9(\\w+) \\[Lv\\. (\\d+)\\] would like to duel! Type §r§6/duel (\\w+)§r§9 to accept\\.§r$",
 	"chat.057a24a46dd1e1b0059da2d82bb9846f99c8e6d7":"§5Wait a bit before trying to duel again!§r",
 	"chat.6f2778163c0c2688205a08a7ef09a098db8e00d5":"§9The duel is starting in §r§e10 seconds§r§9...§r",
 	"chat.8bde339a82e909d7af35a01bd511b6974d07e8f0":"§93...§r",
@@ -48,16 +55,30 @@
 	"chat.49eeb09857148dfccd34a3f0dfee485c0ac8be5f":"§b%s§r§3 has thrown a §r§bDungeon Bomb§r§3! Every dungeon entrance is free for the next §r§b10 minutes§r§3!§r",
 	"chat.49eeb09857148dfccd34a3f0dfee485c0ac8be5f.regexp":"^§b(\\w+)§r§3 has thrown a §r§bDungeon Bomb§r§3! Every dungeon entrance is free for the next §r§b10 minutes§r§3!§r$",
 
+	"chat.459ad8692ef0ad7b6c65169d5455753507fbd0ab":"§b%s§r§3 has thrown a §r§bCombat XP Bomb§r§3! The entire server gets §r§bdouble combat xp §r§3for §r§b20 minutes§r§3!§r",
+	"chat.459ad8692ef0ad7b6c65169d5455753507fbd0ab.regexp":"^§b(\\w+)§r§3 has thrown a §r§bCombat XP Bomb§r§3! The entire server gets §r§bdouble combat xp §r§3for §r§b20 minutes§r§3!§r$",
 	"boss_bar.0c7ac1e401351a438e4f1ca70d975ebe9401907f":"§3Double Combat XP from §b%s§7 [§f1%s§7 min]",
-	"boss_bar.923160f65a4630cd37a39e7b8c07796891b06d76":"§3Free Dungeon Entry from §b%1$s§7 [§f%2$s§7 min]",
 	"boss_bar.0c7ac1e401351a438e4f1ca70d975ebe9401907f.regexp":"^§3Double Combat XP from §b(\\w+)§7 \\[§f(\\d{1,2})§7 min\\]$",
+	"chat.3f085d3a50716ab770e23b8fa88d29e0f2bacbfc":"§b%s's §r§3bomb has expired. You can buy Combat XP bombs at our website, §r§bwynncraft.com/store§r",
+	"chat.3f085d3a50716ab770e23b8fa88d29e0f2bacbfc.regexp":"^§b(\\w+)'s §r§3bomb has expired\\. You can buy Combat XP bombs at our website, §r§bwynncraft\\.com/store§r$",
+
+	"boss_bar.923160f65a4630cd37a39e7b8c07796891b06d76":"§3Free Dungeon Entry from §b%1$s§7 [§f%2$s§7 min]",
 	"boss_bar.923160f65a4630cd37a39e7b8c07796891b06d76.regexp":"^§3Free Dungeon Entry from §b(\\w+)§7 \\[§f(\\d{1,2})§7 min\\]$",
 	"chat.f4c8d637fb1ab756dc788fcf67e5bca602474a3f":"§b%s's §r§3bomb has expired. You can buy dungeon bombs at our website, §r§bwynncraft.com/store§r",
 	"chat.f4c8d637fb1ab756dc788fcf67e5bca602474a3f.regexp":"^§b(\\w+)'s §r§3bomb has expired. You can buy dungeon bombs at our website, §r§bwynncraft.com/store§r$",
 	
+	
+	"chat.c74fb119073f6dc9f6fbaaf0f6bdf61725afbdf2":"§b%s§r§3 has thrown an §r§bItem Bomb§r§3!§r",
+	"chat.c74fb119073f6dc9f6fbaaf0f6bdf61725afbdf2.regexp":"^§b(\\w+)§r§3 has thrown an §r§bItem Bomb§r§3!§r$",
+	"chat.7eefeeda975e110439ea9679aa55b3df0615c843":"§7Everybody gets §r§f2 Random Items§r§7! §r§e§nClick here to claim them!§r",
+	"title.a84907285db7da6c6c87d47036dc2b51a7bb72e8":"§3%s threw an item bomb",
+	"title.a84907285db7da6c6c87d47036dc2b51a7bb72e8.regexp":"^§3(\\w+) threw an item bomb$",
+	"title.309d07e3ed1160575b7cfe16568196dba9404c9f":"§7See chat to claim your prize",
+	
 	"chat.b8dd22e236f8a60476edd1c1b5dafa77a7a16e8b":"§7Want to thank §r§f1%s§r§7? §r§b§nClick here to thank them!§r",
 	"chat.b8dd22e236f8a60476edd1c1b5dafa77a7a16e8b.regexp":"^§7Want to thank §r§f(\\w+)§r§7\\? §r§b§nClick here to thank them!§r$",
-	"chat.1205b5877fa08fabbf7f28e61551d0d5f48af446":"§7You have thanked ohyeeC§r",
+	"chat.1205b5877fa08fabbf7f28e61551d0d5f48af446":"§7You have thanked %s§r",
+	"chat.1205b5877fa08fabbf7f28e61551d0d5f48af446.regexp":"^§7You have thanked (\\w+)§r$",
 	
 	"_":"---------------------------------------------------- REGION ------------------------------------------------------",
 	"title.f50b5876509476379e2a656cf75f2c949041c452":"§aThe Province of Wynn",

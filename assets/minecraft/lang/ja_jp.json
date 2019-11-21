@@ -2,4 +2,6 @@
 	"scoreboard_player.45f9f8a1ec85797c0e1659165016dd6972ff106c":"  §7Lv. 1-10 Newbie: §f23§7/24",
 	"scoreboard_player.3936eeba9ef251404d016ace52cce9ab5f3ab6d5":"  §7Lv. 1-10 Newbie: §f0§7/24",
 	"entity_name.0692465cf407122121b0cda62fa4d6e3be78ad00":"Chocolate Wybel"
-}
+,
+	"item_lore.a4ec7d49ce90c142d673532fe61bcab0c367f7a6":"§a- §r§7+25% §r§6✣ Neutral§r§7 to §r§2✤ Earth§r",
+	"scoreboard_player.e5987c039900903caf4651b7e3f57577a85cbd39":"§c- §7Loot Chests: §f0§7/10"}

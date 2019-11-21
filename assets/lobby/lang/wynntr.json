@@ -115,7 +115,7 @@
 	"item_lore.lobby.quickjoin.players"       :"§2Players: §r§a%1$s/%2$s§r",
 	"item_lore.lobby.quickjoin.players.regexp":"^§2Players: §r§a(\\d+)/(\\d+)§r$",
 	"item_lore.lobby.quickjoin.lag"       :"§%sLag: §r%s%%§r",
-	"item_lore.lobby.quickjoin.lag.regexp":"§([246])Lag: §r(§[ae]\\d{1,3})%§r",
+	"item_lore.lobby.quickjoin.lag.regexp":"§([246])Lag: §r(§[aec]\\d{1,3})%§r",
 	"container_name.86be2480b89f74fdbfcb673951b28fced3c3092b":"Wynncraft Servers: Page 1",
 	"item_name.5cfd2516198ac1f50960558ae453cc34005ccd41"       :"§a§lWorld %1$s",
 	"item_name.5cfd2516198ac1f50960558ae453cc34005ccd41.regexp":"^§a§lWorld (\\d\\d?)$",
@@ -162,5 +162,6 @@
 	"chat.9ca0fb8d58530a6ca37cbdbf9a775a31a1c0571b":"§cThe server is restarting§r",
 	"title.32e0dc94203740de988fa58d038f6f0b3fcd6048":"§bServer restarting!",
 	"title.a5a1e14b8f00587ee2df329723caace4c917e283":"§cThe server you were previously on went down, you have been connected to a fallback server§r",
-	"title.da39a3ee5e6b4b0d3255bfef95601890afd80709":""
+	"title.da39a3ee5e6b4b0d3255bfef95601890afd80709":"",
+	"title.a029c424083a6133ea312f181e35645aed615f0b":"You're rejoining too quickly! Give us a moment to save your data."
 }

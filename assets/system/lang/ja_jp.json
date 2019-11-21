@@ -13,9 +13,9 @@
 
 
 	"_":"---------------------------------------------------- PLAYER ------------------------------------------------------",
-	"chat.wynncraft.chat.content": "%s",
-	"chat.wynncraft.chat.content.regexp": "^(§[7a]\\[\\d+/(?:Ar|Wa|Ma|As|Hu|Kn|Da|Ni)(?:/[✫★]+\\w+)?\\]§r(?:§b \\[§r§3VIP\\+§r§b\\]§r|§5 \\[§r§dHERO§r§5\\]§r)? §.+§r)$",
-	"show_text.wynncraft.chat.playerstatus.archer":"§7%1$s\n\n§7Class: §f%2$s\n§7Combat Level: §f%3$s\n\n§fⒸ §7Woodcutting Lv: §f%4$s\n§fⒷ §7Mining Lv: §f%5$s\n§fⒿ §7Farming Lv: §f%6$s\n§fⓀ §7Fishing Lv: §f%7$s\n\n§fⒽ §7Armouring Lv: §f%8$s\n§fⒼ §7Weaponsmithing Lv: §f%9$s\n§fⒻ §7Tailoring Lv: §f%10$s\n§fⒾ §7Woodworking Lv: §f%11$s\n§fⒹ §7Jeweling Lv: §f%12$s\n§fⒶ §7Cooking Lv: §f%13$s\n§fⒺ §7Scribing Lv: §f%13$s\n§fⓁ §7Alchemism Lv: §f%14$s\n\n§6Total Level: §e%15$s$",
+	"chat.wynncraft.chat.content": "%s%s§r%s",
+	"chat.wynncraft.chat.content.regexp": "^(§[7a]\\[\\d+/(?:Ar|Wa|Ma|As|Hu|Kn|Da|Ni)(?:/[✫★]+\\w+)?\\]§r(?:§b \\[§r§3VIP\\+§r§b\\]§r|§5 \\[§r§dHERO§r§5\\]§r)? )(§.\\w+: )(.+§r)$",
+	"show_text.wynncraft.chat.playerstatus.archer":"§7%1$s\n\n§7Class: §f%2$s\n§7Combat Level: §f%3$s\n\n§fⒸ §7Woodcutting Lv: §f%4$s\n§fⒷ §7Mining Lv: §f%5$s\n§fⒿ §7Farming Lv: §f%6$s\n§fⓀ §7Fishing Lv: §f%7$s\n\n§fⒽ §7Armouring Lv: §f%8$s\n§fⒼ §7Weaponsmithing Lv: §f%9$s\n§fⒻ §7Tailoring Lv: §f%10$s\n§fⒾ §7Woodworking Lv: §f%11$s\n§fⒹ §7Jeweling Lv: §f%12$s\n§fⒶ §7Cooking Lv: §f%13$s\n§fⒺ §7Scribing Lv: §f%14$s\n§fⓁ §7Alchemism Lv: §f%15$s\n\n§6Total Level: §e%16$s",
 	"show_text.wynncraft.chat.playerstatus.archer.regexp":"^§7(\\w+)\\n\\n§7Class: §f(Archer|Warrior|Mage|Assassin|Hunter|Knight|Dark Wizard|Ninja)\\n§7Combat Level: §f(\\d+)\\n\\n§fⒸ §7Woodcutting Lv: §f(\\d+)\\n§fⒷ §7Mining Lv: §f(\\d+)\\n§fⒿ §7Farming Lv: §f(\\d+)\\n§fⓀ §7Fishing Lv: §f(\\d+)\\n\\n§fⒽ §7Armouring Lv: §f(\\d+)\\n§fⒼ §7Weaponsmithing Lv: §f(\\d+)\\n§fⒻ §7Tailoring Lv: §f(\\d+)\\n§fⒾ §7Woodworking Lv: §f(\\d+)\\n§fⒹ §7Jeweling Lv: §f(\\d+)\\n§fⒶ §7Cooking Lv: §f(\\d+)\\n§fⒺ §7Scribing Lv: §f(\\d+)\\n§fⓁ §7Alchemism Lv: §f(\\d+)\\n\\n§6Total Level: §e(\\d+)$",
 	"show_text.dafaf178aab81990c14b271bb5ab7688c7c35cfa":"§f§lPrevious Names:\n§7 - No former names available",
 
@@ -46,13 +46,15 @@
 	"chat.adc4bcce78191e2a35637daf1a38fbd5186ff02f":"§6[Info] §r§eFollow us on Twitter to stay up to date with Wynncraft at §r§6twitter.com/wynncraft§r§e!§r",
 	"chat.70967f52a6f58beaee04c3ef722c800c64ebfdea":"§5[Info] §r§dGet 2 XP Bombs, 2 Item Bombs and 5 Crates for FREE by purchasing your first rank! §r§5Visit store.wynncraft.com for more!§r",
 	"chat.bf80da38ad38f3abe6a1fb349649bbef2399ed48":"§6[Info] §r§eGrab yourself §r§d24h of DOUBLE XP§r§e by linking your Discord account! Read the discord_link channel at §r§6discord.gg/yJkSQwp§r§e to learn more.§r",
+	"chat.d03878081b155f9ef56dc70a043acb86b73952b6":"§6[Info] §r§eJoin thousands others on our Discord and stay up to date with Wynncraft at §r§6discord.gg/yJkSQwp§r§e!§r",
 	"chat.3bfc02e8fbaadd3026b0f3a55e0218e4fd408fa7":"§6[Info] §r§eJoin thousands others on our forums and stay up to date with Wynncraft at §r§6forums.wynncraft.com§r§e!§r",
 	"chat.19025ee3eac44c4a96f520761a9168af356adfac":"§6[Info] §r§eLooking for a specific area? Use our live web map at §r§6map.wynncraft.com§r§e!§r",
 	"chat.453e939f4b9adfa58b98223e50d3fbfbf85846e8":"§6[Info] §r§eLink your Wynncraft forum account with \"/forum\" and get a stylish white username in chat! Visit §r§6https://forums.wynncraft.com/threads/forum-account-linking.153758/ §r§efor more!§r",
+	"chat.294a2c31f53606713a3f1dcff05bc3c7bcf7280e":"§6[Info] §r§eLook at your own personal stats at §r§6wynncraft.com/stats/player/kyaco§r§e!§r",
 	"chat.4dd16caa2a501dddaa9881caf6b2c97cf484f057":"§6[Info] §r§7Low tier items are a great source of scrap! §r§fFor more information, visit wynncraft.com!§r",
 	"chat.59fe9a838783224126bf634bf0a68ddf6f797503":"§6[Info] §r§eLost? Use our live web map to find your way through the world at §r§6map.wynncraft.com§r§e!§r",
 	"chat.29758514f224f405f8ffc1d4cc4e2e73a55bbbea":"§6[Info] §r§7Notice somebody breaking the rules? Type \"/report [name] [reason]\" to anonymously report them! §r§fFor more information, visit wynncraft.com!§r",
-	"chat.62106eb4441fd8cb207ee52ff350bba19c7b3fae":"§5[Info] §r§dPurchase a rank for daily crates/mob totems, market/class slots, crafted item perks, beta access, and much more! §r§5Visit store.wynncraft.com for more!§r",,
+	"chat.62106eb4441fd8cb207ee52ff350bba19c7b3fae":"§5[Info] §r§dPurchase a rank for daily crates/mob totems, market/class slots, crafted item perks, beta access, and much more! §r§5Visit store.wynncraft.com for more!§r",
 	"chat.a3ea8aa986a9248ae620589b353bf28dc634cc5f":"§5[Info] §r§dPurchase bombs to get global effects like Double XP, Free Items, Shouts, Free Dungeon Entries and much more! §r§5Visit store.wynncraft.com for more!§r",
 	"chat.0a8cbc61cfe0267a9bf6e6e33bccc5a1441cc9e3":"§5[Info] §r§dPurchase crates for cosmetic items like Weapon Skins, Wybels, Particle Effects, Hats and much more! §r§5Visit store.wynncraft.com for more!§r",
 	"chat.0f847902be87d9dee18926fbe363b511aebd573e":"§6[Info] §r§eRedditor? Join our official subreddit at §r§6reddit.com/r/wynncraft§r§e!§r",
@@ -65,16 +67,19 @@
 	"chat.20ea7a32a02c461edb984fc49f4898bb4977d685":"§6[Info] §r§7Teaming up with friends while fighting mobs with a §r§6[§r§e✫§r§6]§r§7 in their name is a very efficient way to level up! §r§fFor more information, visit wynncraft.com!§r",
 	"chat.0bbd821be49aabbcbfcb36c489cb1180be8ff3b0":"§6[Info] §r§eTired of your grey username? Link your Wynncraft forum account with \"/forum\" and get a stylish white username in chat! Visit §r§6https://forums.wynncraft.com/threads/forum-account-linking.153758/ §r§efor more!§r",
 	"chat.924ec2bae9af3f61e357ea5231224eabbd2425c5":"§6[Info] §r§7Traveling and exploring is the best way to find ingredients and special items (such as keys and runes)! §r§fFor more information, visit wynncraft.com!§r",
+	"chat.2a1e740fc30bc5b8d010e3b9e030a7afe026d5ee":"§6[Info] §r§7Use \"/friend add [name]\" to add other players as friends! §r§fFor more information, visit wynncraft.com!§r",
 	"chat.ffd00c408f6f89ef2a5bf2b027dcb588450d79b9":"§6[Info] §r§7Use \"/find [name]\" to find which world a player is on! §r§fFor more information, visit wynncraft.com!§r",
 	"chat.c90a101b50b184950d0997f403126d3d54a05c7e":"§6[Info] §r§7Use \"/ignore [name]\" to ignore a player\u0027s messages if they are bugging you! §r§fFor more information, visit wynncraft.com!§r",
 	"chat.da620a1dd2114cc43a2ec666c306d03d3ca1f4f7":"§6[Info] §r§7Use \"/party create\" and \"/party invite [name]\" to create a party with friends and get bonus XP! §r§fFor more information, visit wynncraft.com!§r",
 	"chat.c1b302f469ca063653642cd74821e6468b70cb12":"§6[Info] §r§7Use \"/trade [name]\" to safely trade items with other players! §r§fFor more information, visit wynncraft.com!§r",
 	"chat.06b3477c08986f22c94d8c0d293e4c5746d9369c":"§6[Info] §r§7Use our Wiki and Help section on our website to learn more about the game! §r§fFor more information, visit wynncraft.com/help!§r",
+	"chat.b383b5acd3a56dd578a222bd6337fc45b2971599":"§6[Info] §r§7Using ingredients (even low tier ones) in your crafting recipes greatly increases the XP gained! §r§fFor more information, visit wynncraft.com!§r",
 	"chat.fe79f6ee14f7a4c285ea6101235810cd0ed5fe46":"§6[Info] §r§eWatch your personal progress at §r§6wynncraft.com/stats/player/kyaco§r§e!§r",
 	"chat.7fa3f769c04ead53711dde17089ffc2541ec1be4":"§6[Info] §r§eWatch the official Wynncraft trailer at §r§6https://youtu.be/WiJkohJATbA§r§e!§r",
 	"chat.0555610b1dd4951026b003ab3547ddb25e3a4ee9":"§5[Info] §r§dWe rely on our store to keep Wynncraft alive and you can get awesome perks! §r§5Visit store.wynncraft.com for more!§r",
 	"chat.916ba99118e6a50e95e86a968bc78c878da345b6":"§5[Info] §r§dYou can buy perks to support Wynncraft! You receive ranks, bombs, crates and much more for your generosity! §r§5Visit store.wynncraft.com for more!§r",
 	"chat.12060b2feb1d3bed16ffff057c93f3abeea11933":"§6[§r§eInfo§r§6] §r§7You can find Boss Altars in the world requiring ingredients to fight powerful bosses! They give you exclusive items and ingredients! §r§fFor more information, visit wynncraft.com!§r",
-	"chat.e867abdfeb45a39b87d28b257441f96a37a0cd61":"§6[Info] §r§7You can make a higher profit by selling your items on the global Trade Market! §r§fFor more information, visit wynncraft.com!§r"
+	"chat.e867abdfeb45a39b87d28b257441f96a37a0cd61":"§6[Info] §r§7You can make a higher profit by selling your items on the global Trade Market! §r§fFor more information, visit wynncraft.com!§r",
+	"chat.17a3db4bce2ceaf79555e34f2aff54cfad23df99":"§6[Info] §r§7You can skip the class selection by typing \"/toggle autojoin\"! §r§fFor more information, visit wynncraft.com!§r"
 
 }
