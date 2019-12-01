@@ -1,5 +1,35 @@
 {
+	"_":"------------------------- WTF ARE THESE? ----------------------",
+	"item_name.a8965c266a23472ef7da72dffad8fa698b7e6c94":"Steamjet Walkers",
+	"item_lore.ae4b9f3c127ef55e6838cb23c02d3ba75a8c9c56":"{\"identification_rolls\":1,\"identifications\":[{\"type\":\"SPELLDAMAGE\",\"percent\":79},{\"type\":\"SPEED\",\"percent\":108},{\"type\":\"AGILITYPOINTS\",\"percent\":63},{\"type\":\"WATERDAMAGEBONUS\",\"percent\":64},{\"type\":\"AIRDAMAGEBONUS\",\"percent\":89},{\"type\":\"THUNDERDAMAGEBONUS\",\"percent\":103}]}",
+	"item_lore.d1888bec9f98f77b2ff2b4209d10739f8c323888":"{\"identifications\":[{\"type\":\"MANASTEAL\",\"percent\":100},{\"type\":\"XPBONUS\",\"percent\":100},{\"type\":\"LOOTBONUS\",\"percent\":100},{\"type\":\"EMERALDSTEALING\",\"percent\":100},{\"type\":\"WATERDAMAGEBONUS\",\"percent\":100},{\"type\":\"THUNDERDAMAGEBONUS\",\"percent\":100}]}",
+	"item_name.71a4e13501d6246c4558cd97d1a44514f675905c":"Booster Plate",
+	"item_lore.9949a267c546695a71601e501106be04cd9ec419":"{\"identification_rolls\":1,\"identifications\":[{\"type\":\"XPBONUS\",\"percent\":81},{\"type\":\"SPEED\",\"percent\":101},{\"type\":\"AGILITYPOINTS\",\"percent\":51},{\"type\":\"WATERDAMAGEBONUS\",\"percent\":119},{\"type\":\"AIRDAMAGEBONUS\",\"percent\":90},{\"type\":\"THUNDERDEFENSE\",\"percent\":116}]}",
+	"item_name.aab2b65c39fa02de036c78043f769b8fc90da64f":"Blushwind",
+	"item_lore.7590360215f9505afb80a3e522784ae960f793be":"{\"identification_rolls\":1,\"identifications\":[{\"type\":\"HEALTHREGEN\",\"percent\":36},{\"type\":\"SPEED\",\"percent\":76},{\"type\":\"HEALTHBONUS\",\"percent\":108},{\"type\":\"AGILITYPOINTS\",\"percent\":46},{\"type\":\"HEALTHREGENRAW\",\"percent\":121},{\"type\":\"FIREDAMAGEBONUS\",\"percent\":47},{\"type\":\"FIREDEFENSE\",\"percent\":41},{\"type\":\"AIRDEFENSE\",\"percent\":112}]}",
+	"item_name.2fa133e1f72958e57c97cd52da10cd6660216493":"Boreal",
+	"item_lore.a0f07fa1ee208ab970f9ee8345b8392e2e2cc7a3":"{\"powders\":[{\"tier\":6,\"type\":\"FIRE\"},{\"tier\":6,\"type\":\"FIRE\"},{\"tier\":6,\"type\":\"FIRE\"}],\"identification_rolls\":1,\"identifications\":[{\"type\":\"HEALTHREGEN\",\"percent\":116},{\"type\":\"MANAREGEN\",\"percent\":128},{\"type\":\"REFLECTION\",\"percent\":85},{\"type\":\"SPEED\",\"percent\":54},{\"type\":\"HEALTHREGENRAW\",\"percent\":65},{\"type\":\"FIREDAMAGEBONUS\",\"percent\":120},{\"type\":\"FIREDEFENSE\",\"percent\":90}]}",
+	"item_name.182f78cf888799e07f722e7239a24a948ae88389":"Vaward",
+	"item_lore.bf035b56ac0906214fc0ceabf1465d5df9a04dab":"{\"powders\":[{\"tier\":6,\"type\":\"FIRE\"},{\"tier\":6,\"type\":\"FIRE\"},{\"tier\":6,\"type\":\"FIRE\"}],\"identification_rolls\":1,\"identifications\":[{\"type\":\"HEALTHREGEN\",\"percent\":35},{\"type\":\"DAMAGEBONUS\",\"percent\":58},{\"type\":\"SPELLDAMAGE\",\"percent\":117},{\"type\":\"SOULPOINTS\",\"percent\":82},{\"type\":\"STRENGTHPOINTS\",\"percent\":64},{\"type\":\"DEXTERITYPOINTS\",\"percent\":78},{\"type\":\"INTELLIGENCEPOINTS\",\"percent\":111},{\"type\":\"AGILITYPOINTS\",\"percent\":118},{\"type\":\"DEFENSEPOINTS\",\"percent\":102}]}",
+	"item_name.9f1add31c7a9abd001c1bf92e88babff5cc9467b":"§dStillwater Blue",
+	"item_lore.6c3f20ec16d5489e1954523b8394c05915d3bfc3":"{\"powders\":[{\"tier\":6,\"type\":\"THUNDER\"},{\"tier\":6,\"type\":\"THUNDER\"},{\"tier\":6,\"type\":\"THUNDER\"}],\"identifications\":[{\"type\":\"MANAREGEN\",\"percent\":100},{\"type\":\"REFLECTION\",\"percent\":100},{\"type\":\"SOULPOINTS\",\"percent\":100},{\"type\":\"INTELLIGENCEPOINTS\",\"percent\":100},{\"type\":\"WATERDAMAGEBONUS\",\"percent\":100},{\"type\":\"THUNDERDAMAGEBONUS\",\"percent\":100},{\"type\":\"WATERDEFENSE\",\"percent\":100}]}",
+	"item_name.6a406977abdc761f73d814cf05b5a26ae40014da":"Third Eye",
+	"item_lore.9a215bd498aee89607c1f99f3672115d1a3693d5":"{\"powders\":[{\"tier\":6,\"type\":\"EARTH\"},{\"tier\":6,\"type\":\"EARTH\"},{\"tier\":6,\"type\":\"THUNDER\"},{\"tier\":6,\"type\":\"FIRE\"}],\"identification_rolls\":1,\"identifications\":[{\"type\":\"MANAREGEN\",\"percent\":125},{\"type\":\"SOULPOINTS\",\"percent\":61},{\"type\":\"INTELLIGENCEPOINTS\",\"percent\":129},{\"type\":\"FIREDEFENSE\",\"percent\":55},{\"type\":\"WATERDEFENSE\",\"percent\":52},{\"type\":\"AIRDEFENSE\",\"percent\":95},{\"type\":\"THUNDERDEFENSE\",\"percent\":84},{\"type\":\"EARTHDEFENSE\",\"percent\":126}]}",
 	"scoreboard_player.45f9f8a1ec85797c0e1659165016dd6972ff106c":"  §7Lv. 1-10 Newbie: §f23§7/24",
 	"scoreboard_player.3936eeba9ef251404d016ace52cce9ab5f3ab6d5":"  §7Lv. 1-10 Newbie: §f0§7/24",
-	"entity_name.0692465cf407122121b0cda62fa4d6e3be78ad00":"Chocolate Wybel"
-}
+	"entity_name.d9be350262fedd9e14b38edb4701fc30653de9a7":"MEME BOT V4.20",
+	"entity_name.2259bde28392b8f8382b4d75da23cfca4250caf9":"Pikachu",
+	"entity_name.24881ebdacc7ad72d58e71cfb1cf03afae3e188a":"RaveGhostTestMain",
+	"entity_name.e9cf90741b4f12179d45f9c74d7b6ce836f5e09a":"RaveGhostTestWool",
+	"entity_name.539af0256504a608eefec18d42dcd2299fe2ac84":"RaveGhostTestBone",
+	"entity_name.cc90b7ef71299b90baffe326f541ee00b9ff0f81":"RaveGhostTestBook"
+	
+
+
+
+,
+	"entity_name.a24e37ccef3dc403ff8b09eed40a0c2562b57db5":"Sea Blue Wybel",
+	"entity_name.1191ea871587b64a2fd12e45677d21b6868eb410":"TipsySpinda",
+	"show_text.78490e8b37525c8d32cb91490262960872c93ba9":"§b[§3Vet§b] §b__KIDu__\n§7Captain of the Vindicator [VMZ] Guild\n\n§7Class: §fArcher\n§7Combat Level: §f101\n\n§fⒸ §7Woodcutting Lv: §f1\n§fⒷ §7Mining Lv: §f1\n§fⒿ §7Farming Lv: §f1\n§fⓀ §7Fishing Lv: §f1\n\n§fⒽ §7Armouring Lv: §f1\n§fⒼ §7Weaponsmithing Lv: §f1\n§fⒻ §7Tailoring Lv: §f1\n§fⒾ §7Woodworking Lv: §f1\n§fⒹ §7Jeweling Lv: §f1\n§fⒶ §7Cooking Lv: §f1\n§fⒺ §7Scribing Lv: §f1\n§fⓁ §7Alchemism Lv: §f1\n\n§6Total Level: §e113",
+	"entity_name.f26d1df1db7e45b841665d14fee597cdf7608119":"§7sleepyhobi\u0027s Carbon Fiber Cybel",
+	"entity_name.c9a335487e39680c8a351612ce64272aad4bf092":"§cInfested Pit Key Guardian§6 [Lv. 18]"}

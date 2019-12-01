@@ -1,20 +1,30 @@
 {
 	"_": "----------------------------------------------------- MENU -------------------------------------------",
-	"container_name.9659e8ffb7efcf78df16af3b56c359cfc1197c07":"§0[Pg. 1] §8%s\u0027s§0 Quests",
-	"container_name.ac1ca495d603fb956dbe751900d266ad4d498534":"§0[Pg. 2] §8%s\u0027s§0 Quests",
-	"container_name.f2083a33ce95a4b7d5ed6eb74aa901d7eb4e0cdd":"§0[Pg. 3] §8%s\u0027s§0 Quests",
-	"container_name.7724c7c81bb38be81ec92cd4de38545b96d8d19a":"§0[Pg. 4] §8%s\u0027s§0 Quests",
-	"container_name.9659e8ffb7efcf78df16af3b56c359cfc1197c07.regexp":"^§0\\[Pg\\. 1\\] §8(\\w+)'s§0 Quests$",
-	"container_name.ac1ca495d603fb956dbe751900d266ad4d498534.regexp":"^§0\\[Pg\\. 2\\] §8(\\w+)'s§0 Quests$",
-	"container_name.f2083a33ce95a4b7d5ed6eb74aa901d7eb4e0cdd.regexp":"^§0\\[Pg\\. 3\\] §8(\\w+)'s§0 Quests$",
-	"container_name.7724c7c81bb38be81ec92cd4de38545b96d8d19a.regexp":"^§0\\[Pg\\. 4\\] §8(\\w+)'s§0 Quests$",
+	"container_name.9659e8ffb7efcf78df16af3b56c359cfc1197c07":"§0[Pg. %s] §8%s's§0 Quests",
+	"container_name.9659e8ffb7efcf78df16af3b56c359cfc1197c07.regexp":"^§0\\[Pg\\. (\\d+)\\] §8(\\w+)'s§0 Quests$",
+	"container_name.bf0851ffbf16f7176593a1cc046852278052e8f3":"§0[Pg. %s] §8%s's§0 Discoveries",
+	"container_name.bf0851ffbf16f7176593a1cc046852278052e8f3.regexp":"^§0\\[Pg\\. (\\d+)\\] §8(\\w+)'s§0 Discoveries$",
 
 	"item_name.8cae8560d706d660af11051bb09c16e443d78319":"§f§lPage 2§a >§2>§a>§2>§a>",
 	"item_name.bb30d49f8dd81796589db8cf1eaa724586a66d95":"§f§lPage 3§a >§2>§a>§2>§a>",
 	"item_name.bee3fc584c9f3b5bfd75b879bcf185001a2b72da":"§f§lPage 4§a >§2>§a>§2>§a>",
+	"item_name.3986ff7b1d35c2cccb7dd4a566e74cd84990f20d":"§f§lPage 5§a >§2>§a>§2>§a>",
+	"item_name.1aa7b6c2d057831aade48bbd9e25393394bc5f73":"§f§lPage 6§a >§2>§a>§2>§a>",
+	"item_name.cb6825b90c795c3273ee70ae30c44e724748fa41":"§f§lPage 7§a >§2>§a>§2>§a>",
+	"item_name.699c7ce74570abad4a85656f1f9c237458d41f8c":"§f§lPage 8§a >§2>§a>§2>§a>",
+	"item_name.e755d1cc43b30e587866628b55ce2ea69b0b8938":"§f§lPage 9§a >§2>§a>§2>§a>",
+	"item_name.c4ba4b4a5924f73439f2cab15db569d27175e988":"§f§lPage 10§a >§2>§a>§2>§a>",
+	"item_name.e7b08b4558097d4ade7d4c481dfa0b4d6d15f504":"§f§lPage 11§a >§2>§a>§2>§a>",
 	"item_name.6b90f6d3e6558a7b39b9dba10b34b7ce49a27bf4":"§f§lPage 1§a <§2<§a<§2<§a<",
 	"item_name.cf7c73f43c4c5c49e40beb618a16353c314747c7":"§f§lPage 2§a <§2<§a<§2<§a<",
 	"item_name.b589c9535a8eac0a31ee91879a3b04c430e8356c":"§f§lPage 3§a <§2<§a<§2<§a<",
+	"item_name.98b5bcad9e82226dfa3b28f964175099d201ad0a":"§f§lPage 4§a <§2<§a<§2<§a<",
+	"item_name.15a3a3021c0c3d624379c45d567d6edaa50ac9f7":"§f§lPage 5§a <§2<§a<§2<§a<",
+	"item_name.edc0700040ad63ea3f5bf7d4441bb33e61ee542b":"§f§lPage 6§a <§2<§a<§2<§a<",
+	"item_name.79fc50215401976a32f99218c90c91f77d6fb40d":"§f§lPage 7§a <§2<§a<§2<§a<",
+	"item_name.308c9fd2a4702d44d9ebe4757ac750519eb9c88d":"§f§lPage 8§a <§2<§a<§2<§a<",
+	"item_name.54aafaed493edf4319fa2957d5d107e2c1949669":"§f§lPage 9§a <§2<§a<§2<§a<",
+	"item_name.caebf3abe0715077c53b7258f41bf33d4b643d22":"§f§lPage 10§a <§2<§a<§2<§a<",
 
 	"item_name.30ea714408c51e91588fafde6b8b9be4fd00782c":"§b§lQuests",
 	"item_lore.e39a627339388d30911c5c63ce3622401f7a625b":"§f- Lv. 1-25 §r§7[%s/%s] §r%s§r",
@@ -23,12 +33,12 @@
 	"item_lore.39ac0df6477da38138dbcef967a9244d2ab3448d":"§f- Lv. 76-100 §r§7[%s/%s] §r%s§r",
 	"item_lore.69f9c0e14484e8430f3d295dc40b3810590be41c":"§bTotal Quests: §r§3[%s/%s]§r",
 	"item_lore.d031fc2de8b24ab37cc0a7dac9f0e9aa5b6da728":"%s§r",
-	"item_lore.e39a627339388d30911c5c63ce3622401f7a625b.regexp":"^§f- Lv\\. 1-25 §r§7\\[(\\d{1,3})/(\\d{1,3})\\] §r(§[246]\\[§r(?:§8|§a|§e|§r|§c|\\d{1,3}%|\\|)+§r§[246]\\])§r$",
-	"item_lore.f97e0c6963b0a6d13001d3dad663423b6e77983d.regexp":"^§f- Lv\\. 26-50 §r§7\\[(\\d{1,3})/(\\d{1,3})\\] §r(§[246]\\[§r(?:§8|§a|§e|§r|§c|\\d{1,3}%|\\|)+§r§[246]\\])§r$",
-	"item_lore.025f4009984f82719957bbeaba0b7f054f2c2a0d.regexp":"^§f- Lv\\. 51-75 §r§7\\[(\\d{1,3})/(\\d{1,3})\\] §r(§[246]\\[§r(?:§8|§a|§e|§r|§c|\\d{1,3}%|\\|)+§r§[246]\\])§r$",
-	"item_lore.39ac0df6477da38138dbcef967a9244d2ab3448d.regexp":"^§f- Lv\\. 76-100 §r§7\\[(\\d{1,3})/(\\d{1,3})\\] §r(§[246]\\[§r(?:§8|§a|§e|§r|§c|\\d{1,3}%|\\|)+§r§[246]\\])§r$",
+	"item_lore.e39a627339388d30911c5c63ce3622401f7a625b.regexp":"^§f- Lv\\. 1-25 §r§7\\[(\\d{1,3})/(\\d{1,3})\\] §r(§[246]\\[§r(?:§8|§a|§e|§r|§c|\\d{1,3}|%%|\\|)+§r§[246]\\])§r$",
+	"item_lore.f97e0c6963b0a6d13001d3dad663423b6e77983d.regexp":"^§f- Lv\\. 26-50 §r§7\\[(\\d{1,3})/(\\d{1,3})\\] §r(§[246]\\[§r(?:§8|§a|§e|§r|§c|\\d{1,3}|%%|\\|)+§r§[246]\\])§r$",
+	"item_lore.025f4009984f82719957bbeaba0b7f054f2c2a0d.regexp":"^§f- Lv\\. 51-75 §r§7\\[(\\d{1,3})/(\\d{1,3})\\] §r(§[246]\\[§r(?:§8|§a|§e|§r|§c|\\d{1,3}|%%|\\|)+§r§[246]\\])§r$",
+	"item_lore.39ac0df6477da38138dbcef967a9244d2ab3448d.regexp":"^§f- Lv\\. 76-100 §r§7\\[(\\d{1,3})/(\\d{1,3})\\] §r(§[246]\\[§r(?:§8|§a|§e|§r|§c|\\d{1,3}|%%|\\|)+§r§[246]\\])§r$",
 	"item_lore.69f9c0e14484e8430f3d295dc40b3810590be41c.regexp":"^§bTotal Quests: §r§3\\[(\\d{1,3})/(\\d{1,3})\\]§r$",
-	"item_lore.d031fc2de8b24ab37cc0a7dac9f0e9aa5b6da728.regexp":"^(§[246]\\[§r(?:§8|§a|§e|§r|§c|\\d{1,3}%|\\|)+§r§[246]\\])§r$",
+	"item_lore.d031fc2de8b24ab37cc0a7dac9f0e9aa5b6da728.regexp":"^(§[246]\\[§r(?:§8|§a|§e|§r|§c|\\d{1,3}|%%|\\|)+§r§[246]\\])§r$",
 
 	"item_name.bee7c73b12e33cee64c71dd8bfa800ad0fe23856":"§6§lDiscoveries",
 	"item_lore.eb8964b902ea43bd955508557b27fb0882d8232d":"§fTerritories:§r",
@@ -39,12 +49,12 @@
 	"item_lore.f7d4fd86cd363186353c7fa422661ad6dd813894":"§e- §r§fLv. 51-100 §r§7[%s/%s] §r%s§r",
 	"item_lore.bc6bf4f822a6e8a650a7de1c5f8254ee923fc4b6":"§6Total Discoveries: §r§e[%s/%s]§r",
 	"item_lore.58a53e28d6c394e5ad967d51c1936ee87e88dcb5":"%s§r",
-	"item_lore.0f5fb01f80a154eaa69c1ec5d2926631a9238d8b.regexp":"^§f- Lv\\. 1-50 §r§7\\[(\\d{1,3})/(\\d{1,3})\\] §r(§[246]\\[§r(?:§8|§a|§e|§r|§c|\\d{1,3}%|\\|)+§r§[246]\\])§r$",
-	"item_lore.a3aeafd0a339d1b0dde0df9b3948e4992b81a723.regexp":"^§f- Lv\\. 51-100 §r§7\\[(\\d{1,3})/(\\d{1,3})\\] §r(§[246]\\[§r(?:§8|§a|§e|§r|§c|\\d{1,3}%|\\|)+§r§[246]\\])§r$",
-	"item_lore.bb8e8791f643f477a71df52bf1983d2095db356e.regexp":"^§e- §r§fLv\\. 1-50 §r§7\\[(\\d{1,3})/(\\d{1,3})\\] §r(§[246]\\[§r(?:§8|§a|§e|§r|§c|\\d{1,3}%|\\|)+§r§[246]\\])§r$",
-	"item_lore.f7d4fd86cd363186353c7fa422661ad6dd813894.regexp":"^§e- §r§fLv\\. 51-100 §r§7\\[(\\d{1,3})/(\\d{1,3})\\] §r(§[246]\\[§r(?:§8|§a|§e|§r|§c|\\d{1,3}%|\\|)+§r§[246]\\])§r$",
+	"item_lore.0f5fb01f80a154eaa69c1ec5d2926631a9238d8b.regexp":"^§f- Lv\\. 1-50 §r§7\\[(\\d{1,3})/(\\d{1,3})\\] §r(§[246]\\[§r(?:§8|§a|§e|§r|§c|\\d{1,3}|%%|\\|)+§r§[246]\\])§r$",
+	"item_lore.a3aeafd0a339d1b0dde0df9b3948e4992b81a723.regexp":"^§f- Lv\\. 51-100 §r§7\\[(\\d{1,3})/(\\d{1,3})\\] §r(§[246]\\[§r(?:§8|§a|§e|§r|§c|\\d{1,3}|%%|\\|)+§r§[246]\\])§r$",
+	"item_lore.bb8e8791f643f477a71df52bf1983d2095db356e.regexp":"^§e- §r§fLv\\. 1-50 §r§7\\[(\\d{1,3})/(\\d{1,3})\\] §r(§[246]\\[§r(?:§8|§a|§e|§r|§c|\\d{1,3}|%%|\\|)+§r§[246]\\])§r$",
+	"item_lore.f7d4fd86cd363186353c7fa422661ad6dd813894.regexp":"^§e- §r§fLv\\. 51-100 §r§7\\[(\\d{1,3})/(\\d{1,3})\\] §r(§[246]\\[§r(?:§8|§a|§e|§r|§c|\\d{1,3}|%%|\\|)+§r§[246]\\])§r$",
 	"item_lore.bc6bf4f822a6e8a650a7de1c5f8254ee923fc4b6.regexp":"^§6Total Discoveries: §r§e\\[(\\d{1,3})/(\\d{1,3})\\]§r$",
-	"item_lore.58a53e28d6c394e5ad967d51c1936ee87e88dcb5.regexp":"^(§[246]\\[§r(?:§8|§a|§e|§r|§c|\\d{1,3}%|\\|)+§r§[246]\\])§r$",
+	"item_lore.58a53e28d6c394e5ad967d51c1936ee87e88dcb5.regexp":"^(§[246]\\[§r(?:§8|§a|§e|§r|§c|\\d{1,3}|%%|\\|)+§r§[246]\\])§r$",
 	
 	"item_name.60f29bac73c68966b660aeb5242e14f41e849a69":"§b§lSecret Discoveries",
 	"item_lore.efd1b3b5aa151f94b626c2f478a121de8177736e":"§fWynn Plains §r§7[%s/%s] §r%s§r",
@@ -53,18 +63,27 @@
 	"item_lore.6ddb20e148435b1f77ab86bf5dba89de95d99d2f":"§fDesert §r§7[%s/%s] §r%s§r",
 	"item_lore.a5b64c96f9baa6ab600d0715603a7a55bc5311cc":"§bTotal Secret Discoveries: §r§3[%s/%s]§r",
 	"item_lore.ffce796ac5ee98bf6e705cebdae9d1f525042eb5":"%s§r",
-	"item_lore.efd1b3b5aa151f94b626c2f478a121de8177736e.regexp":"^§fWynn Plains §r§7\\[(\\d{1,2})/(\\d{1,2})\\] §r(§[246]\\[§r(?:§8|§a|§e|§r|§c|\\d{1,3}%|\\|)+§r§[246]\\])§r$",
-	"item_lore.7a9e7075bcd84dd1f0e071c160b79b9b6536f1ff.regexp":"^§fCorkus §r§7\\[(\\d{1,2})/(\\d{1,2})\\] §r(§[246]\\[§r(?:§8|§a|§e|§r|§c|\\d{1,3}%|\\|)+§r§[246]\\])§r$",
-	"item_lore.98e177afab0abdeacae0e0aa1ed7b12e4e4885dd.regexp":"^§fNesaak Tundra §r§7\\[(\\d{1,2})/(\\d{1,2})\\] §r(§[246]\\[§r(?:§8|§a|§e|§r|§c|\\d{1,3}%|\\|)+§r§[246]\\])§r$",
-	"item_lore.6ddb20e148435b1f77ab86bf5dba89de95d99d2f.regexp":"^§fDesert §r§7\\[(\\d{1,2})/(\\d{1,2})\\] §r(§[246]\\[§r(?:§8|§a|§e|§r|§c|\\d{1,3}%|\\|)+§r§[246]\\])§r$",
+	"item_lore.efd1b3b5aa151f94b626c2f478a121de8177736e.regexp":"^§fWynn Plains §r§7\\[(\\d{1,2})/(\\d{1,2})\\] §r(§[246]\\[§r(?:§8|§a|§e|§r|§c|\\d{1,3}|%%|\\|)+§r§[246]\\])§r$",
+	"item_lore.7a9e7075bcd84dd1f0e071c160b79b9b6536f1ff.regexp":"^§fCorkus §r§7\\[(\\d{1,2})/(\\d{1,2})\\] §r(§[246]\\[§r(?:§8|§a|§e|§r|§c|\\d{1,3}|%%|\\|)+§r§[246]\\])§r$",
+	"item_lore.98e177afab0abdeacae0e0aa1ed7b12e4e4885dd.regexp":"^§fNesaak Tundra §r§7\\[(\\d{1,2})/(\\d{1,2})\\] §r(§[246]\\[§r(?:§8|§a|§e|§r|§c|\\d{1,3}|%%|\\|)+§r§[246]\\])§r$",
+	"item_lore.6ddb20e148435b1f77ab86bf5dba89de95d99d2f.regexp":"^§fDesert §r§7\\[(\\d{1,2})/(\\d{1,2})\\] §r(§[246]\\[§r(?:§8|§a|§e|§r|§c|\\d{1,3}|%%|\\|)+§r§[246]\\])§r$",
 	"item_lore.a5b64c96f9baa6ab600d0715603a7a55bc5311cc.regexp":"^§bTotal Secret Discoveries: §r§3\\[(\\d{1,2})/(\\d{1,2})\\]§r",
-	"item_lore.ffce796ac5ee98bf6e705cebdae9d1f525042eb5.regexp":"^(§[246]\\[§r(?:§8|§a|§e|§r|§c|\\d{1,3}%|\\|)+§r§[246]\\])§r$",
+	"item_lore.ffce796ac5ee98bf6e705cebdae9d1f525042eb5.regexp":"^(§[246]\\[§r(?:§8|§a|§e|§r|§c|\\d{1,3}|%%|\\|)+§r§[246]\\])§r$",
 	
 	"item_name.498073e95c060d605a8374f8a298dc7d10c8d214":"§7§lClick to sort",
 	"item_lore.f45293d25f7c40d7851f2c88fdd055ae88b817e1":"§7§lCurrently: §r§fStarted§r",
+	"item_lore.b0ca79d55343b583be108eb8dc5e139aa82fef5b":"§7§lCurrently: §r§fName§r",
+	"item_lore.4d71cd2438405d3b2adcab588374f60e26247580":"§7§lCurrently: §r§fLevel§r",
+	"item_lore.5976f81dae7de816cbb4acf0fb70c8d90262bf0c":"§7§lLeft click to sort by: §r§fStarted§r",
 	"item_lore.e5223eb3b9d694c65fc292f0aaf643b6e5b3f0bc":"§7§lLeft click to sort by: §r§fName§r",
+	"item_lore.1ca0c8d23f21162e98c94dba52b82d71ab2c9410":"§7§lLeft click to sort by: §r§fLevel§r",
+	"item_lore.6ca6c81dd15b7721d220dd0c754b0c7a0aabe4ed":"§7§lRight click to sort by: §r§fStarted§r",
+	"item_lore.bebf2dea1a75b71f6f0bdf03805f9e35baf69554":"§7§lRight click to sort by: §r§fName§r",
 	"item_lore.b7fca7d73d23e70c0dbf833d902cf20525e09df2":"§7§lRight click to sort by: §r§fLevel§r",
 
+	
+
+	
 	
 	"_":"----------------------------------------------------- COMMON -------------------------------------------",
 	"item_lore.ea453730bb5a3da244391b1642dfe96137c23386":"§cCannot start...§r",
@@ -81,15 +100,23 @@
 	"item_lore.ddf8e402c9d6c6a3ba7b5625e6fb71791a050254":"§a-§r§7 Length: §r§fShort§r",
 
 
+	
+
+
+	"title.1c86acbc2270ca86e740a41372967f2c279f5a86":"§6Area Discovered",
+	"chat.e5263d4bcb5652c693f44d4bdf9f36422114400a":"                           §6[Area Discovered]§r",
+
+
 
 	"_": "----------------------------------------------------- QUESTS -------------------------------------------",
 	"_": "  4: Cannot Start...     a: Can Start        6: Started         2: Completed!",
-	"item_name.073cfb1523699af3331f1dbf5b9253e89954ac07":"§6§lKing\u0027s RecruitÀ ",
+	"item_name.073cfb1523699af3331f1dbf5b9253e89954ac07":"§6§lKing's RecruitÀ ",
+	"item_name.7aaf292be5f9b6557258d3f7f9b933143f4c1c1b":"§2§lKing's RecruitÀ ",
 	"item_lore.aac4ce40420e5d6522aeb9793e3595c8eb880de0":"§7Talk to the old man §r",
 	"item_lore.21a2a5634aa18b2233c39eb4e6a7fd7906dd5d3a":"§7Right click to track§r",
 
-	"item_name.b87575a284e98c3e9abfbaa57bfdf352af6b93d1":"§a§lEnzan\u0027s BrotherÀ ",
-	"item_name.146c2894296e7787687f15c44c626d8887a29ec1":"§2§lEnzan\u0027s BrotherÀ ",
+	"item_name.b87575a284e98c3e9abfbaa57bfdf352af6b93d1":"§a§lEnzan's BrotherÀ ",
+	"item_name.146c2894296e7787687f15c44c626d8887a29ec1":"§2§lEnzan's BrotherÀ ",
 	"item_lore.8093e3ea19866ddec8d3a3931b7f85bceade451a":"§7Talk to Enzan close to §r",
 	"item_lore.c818eb8d232805fd45ed46530eadfd375a00475c":"§7the exit of Ragni at §r",
 	"item_lore.3f0a4a01688c1b83c6de6b0e76e946652ca23cd5":"§7[-772,67,-1572]§r",
@@ -100,6 +127,7 @@
 	"item_lore.22c5aaaabef97e10760ccedd070d1ce2a465f53a":"§7[-749,67,-1664]§r",
 
 	"item_name.f6c7e27bdd225527e398d3c32c18141fbe569686":"§4§lCook AssistantÀ ",
+	"item_name.94f8e1e98d375599f9fac04670b80d6840a9ea2c":"§a§lCook AssistantÀ ",
 	"item_name.d6fd58186a3817194cac47f79f74a753e4dccbbb":"§2§lCook AssistantÀ ",
 	"item_lore.cd67c6962eea63545f4036d96fc21b0d38fb7b4b":"§7Talk to the Cook in §r",
 	"item_lore.7c2b220a4fcbf8c74ab12b18c0ee408f96d9eeb1":"§7Ragni at §r",
@@ -118,6 +146,7 @@
 	"item_lore.b349a2561bc5b4bd1ca77cc5e4b3b8e7b5356878":"§7front of Detlas at [379,67,-1569]. §r",
 
 	"item_name.ca204ecc1f97d0cd54e3b58ed460974acfe0b037":"§4§lThe Sewers of RagniÀ ",
+	"item_name.9413dba8de14f9a5a0cab0f9909afcc15eafd698":"§a§lThe Sewers of RagniÀ ",
 	"item_name.fe6f38e981373c623a6cd48a62bf8e1f930bafca":"§2§lThe Sewers of RagniÀ ",
 	"item_lore.5283850aea859125d0ef2d6360040969450d37c1":"§7The lieutenant at §r",
 	"item_lore.29bb2db0ac832c355e0674a0e238d4bb6c3acee9":"§7[-890,60,-1874]§r",
@@ -128,12 +157,14 @@
 	"item_lore.aa691d009574abdbb801115705b8aaba42041cb8":"§7Talk to Ope at [-316,72,-1600]. §r",
 
 	"item_name.361f74220f0365c1497bf4e7aa9b3bc1294f80cd":"§4§lUnderwaterÀ ",
+	"item_name.0eead6d94f3811359087e58770d2e699b64e8f44":"§a§lUnderwaterÀ ",
 	"item_name.87e2fcd74f15f3eb74290576701f33c58c9a0014":"§2§lUnderwaterÀ ",
 	"item_lore.fb020669bfd3fb75901faa14e520ee3a87501c35":"§7Talk to Omango located at §r",
 	"item_lore.3ee54edc5741b087c14b3181f148ee886ab22903":"§7the North of Maltic at §r",
 	"item_lore.aa72ec356fce9222839b18c1932ad52a5be83a5d":"§7[-540,34,-2020]§r",
 
 	"item_name.1d111cf5ac565e0d1e6d429e8c9b54e4c8b8eb3e":"§4§lElemental ExerciseÀ ",
+	"item_name.438f2f055494331ac685d71294268cce278ee3dc":"§a§lElemental ExerciseÀ ",
 	"item_name.61add431146af854efdd16ef3c40f2e9a5edf313":"§2§lElemental ExerciseÀ ",
 	"item_lore.8970cfdb3afac1ec8e768295dfc57d0643b83e7d":"§7Talk to Ragon on the §r",
 	"item_lore.550461a794f57082662541a9a3754f57da28d166":"§7south-east end of the Nivla §r",
@@ -143,11 +174,12 @@
 	"item_name.ad984ac0eae5ee2a9886194a5c952c231f48f86a":"§4§lMushroom ManÀ ",
 	"item_name.8b680f1139678e325633da0b1cdb826b1487062a":"§2§lMushroom ManÀ ",
 	"item_lore.7941b5f203eb38875f35424183e6051b4daff328":"§7Talk to Yahya \"The Mushroom §r",
-	"item_lore.ce2f38263debfac247b18a909c165b0cde17f948":"§7Man\" in Nivla\u0027s Forest at §r",
+	"item_lore.ce2f38263debfac247b18a909c165b0cde17f948":"§7Man\" in Nivla's Forest at §r",
 	"item_lore.9535829cce29bbb3b6216ffd0c21ad9c3f8647cc":"§7[-277,69,-1681]§r",
 
-	"item_name.fc0a25c1d7ec680b2eb5030a30df6569600ebd75":"§4§lArachnids\u0027 AscentÀ ",
-	"item_name.89bb971e5217d7afa84574d0b30b1693e3f3eeb6":"§2§lArachnids\u0027 AscentÀ ",
+	"item_name.fc0a25c1d7ec680b2eb5030a30df6569600ebd75":"§4§lArachnids' AscentÀ ",
+	"item_name.d0b98e77f9d30f50fdc06636e192941c72180ec9":"§a§lArachnids' AscentÀ ",
+	"item_name.89bb971e5217d7afa84574d0b30b1693e3f3eeb6":"§2§lArachnids' AscentÀ ",
 	"item_lore.b97e2a5d9513cef3b595049ed985f08b5fe2dad2":"§7Speak to Captain Enduyn at §r",
 	"item_lore.f37c00e9f15c14e5190dca8881d8564a89543ab8":"§7[-192,44,-1822]§r",
 
@@ -164,6 +196,7 @@
 
 	"item_name.69b2c7eaaaf35546f03ab3da895fff5f2bbd6295":"§4§lMini-Quest - Slay MooshroomsÀ ",
 	"item_name.71dd3107e465fa8e884604c1fef6625ed144cf46":"§a§lMini-Quest - Slay MooshroomsÀ ",
+	"item_name.8201d4068d63049cf06da7b49b80d9520766c3ef":"§6§lMini-Quest - Slay MooshroomsÀ ",
 	"item_lore.8e24c8bdbdce18467f62f15f1ab6e15788645491":"§7Bring [8 Brown Mushrooms] to §r",
 	"item_lore.70d570e6f98556d85f4110b1a38c62f4b10d6c0e":"§715] at §r",
 	"item_lore.53fa36356dfa1d7228a0777724f1b7f00cd3282b":"§7[582,66,-1588]§r",
@@ -174,8 +207,8 @@
 	"item_lore.74f4fc6574bf57056ce93facc3d1784c8f9b45f2":"§7the Black Road at §r",
 	"item_lore.c2ba9b1fe85aca1187eb4d23ff136e726ada7883":"§7[617,67,-1612]§r",
 
-	"item_name.d649ae2864ca0858d49315fd88f940ed0baf3fba":"§4§lMaltic\u0027s WellÀ ",
-	"item_name.9a58b19e85453865446fc3211bd000cf15044ec9":"§2§lMaltic\u0027s WellÀ ",
+	"item_name.d649ae2864ca0858d49315fd88f940ed0baf3fba":"§4§lMaltic's WellÀ ",
+	"item_name.9a58b19e85453865446fc3211bd000cf15044ec9":"§2§lMaltic's WellÀ ",
 	"item_lore.832d49e5561141a336a022c5fd20f9c02295a635":"§7Talk to Rynend located in §r",
 	"item_lore.b092fc5469e4becdf245c2227227841b66f72b54":"§7Maltic at §r",
 	"item_lore.3fa2fd41e071aae39df21ea6bfdf2da973af3612":"§7[-568,48,-1922]§r",
@@ -186,41 +219,51 @@
 	"item_lore.660cd754dc6ebc576526a0ab4efda979a57bee80":"§7[476,69,-1624]§r",
 	
 	"item_name.ba4ce9738e0af6c9ec45e3f51b29ed2ec637114c":"§4§lStudying the CorruptÀ ",
+	"item_name.ac0e478ae1fe17922021b2b9c385ebbbff92860a":"§6§lStudying the CorruptÀ ",
 	"item_name.5175d1d5aa479a83dd46e5102f5030b9da4732ac":"§2§lStudying the CorruptÀ ",
 	"item_lore.735f2ed2086895b6382b50c97369ae65febfaa49":"§7Something is going on at §r",
 	"item_lore.fe66aca6042c54cb406ae176a15c5eed21f6addb":"§7the big bridge near Time §r",
 	"item_lore.6353dfacbf5cc0574fce97f114583e138ab489fb":"§7Valley. Go over there and §r",
-	"item_lore.27150a3c2a0b4d97d18260d4f8f387d04eacf8bf":"§7see what\u0027s happening. §r",
+	"item_lore.27150a3c2a0b4d97d18260d4f8f387d04eacf8bf":"§7see what's happening. §r",
 	"item_lore.61813fc57f40626c8fb8cb9f458695264547604d":"§7[-258,80,-1046]§r",
+	"item_lore.1534c5a723e14f63d3242e3c1c68de439c3fe143":"§7Head to Elkurn and see §r",
+	"item_lore.078f064b548efb6cb8d83600ba8a4062517a4233":"§7if any of the townsfolk §r",
+	"item_lore.9d3ae5ba6a6dd909799399e14348fee649f18716":"§7know anything about Garoth's old §r",
+	"item_lore.f0629847ecce175494d27691219111d614d6e046":"§7study area. §r",
 
-	"item_name.326730596894374cd25682b9c33e99ebba3a36e4":"§4§lMacabre Masquerade \u0027\u0027Hallowynn 2014\u0027\u0027À ",
-	"item_name.75ff7f89e2c4754fe31aa9e754a2e97aec8f9778":"§2§lMacabre Masquerade \u0027\u0027Hallowynn 2014\u0027\u0027À ",
+	"item_name.326730596894374cd25682b9c33e99ebba3a36e4":"§4§lMacabre Masquerade ''Hallowynn 2014''À ",
+	"item_name.75ff7f89e2c4754fe31aa9e754a2e97aec8f9778":"§2§lMacabre Masquerade ''Hallowynn 2014''À ",
 	"item_lore.a2292ab8c46c8ffb72f94fbbe21f7d81b8bd9b83":"§7Find the Mask Salesman at §r",
 	"item_lore.97aa8b9cd0c2eb296434b5ff5ef87cd37ca21d39":"§7his caravan at §r",
 	"item_lore.f8bd64a03af2e828928feac41436f8cb84b5f342":"§7[-328,61,-1973]§r",
 
 	"item_name.d42995778ab35f5fabd3834afdf916c0e8e909e2":"§4§lCluck CluckÀ ",
+	"item_name.866c40e175dee55e8ee4e8b32a904bf39ffa926d":"§a§lCluck CluckÀ ",
 	"item_name.eaea6238010b8fb5ec894f7c45b6b348b2a6a527":"§2§lCluck CluckÀ ",
 	"item_lore.32343174df64e62500258343034ea971257b4567":"§7Talk to Nohno on Rooster §r",
 	"item_lore.0e10bf5351971019a4b732d8cd321379559e951f":"§7Island at §r",
 	"item_lore.f547738eb390c50e6b6eb1f13ead1fe4b47a8556":"§7[-83,45,-2497]§r",
 
 	"item_name.a4f9e88f799bd4d19ea6d3980f40336e867106cd":"§4§lPit of the DeadÀ ",
+	"item_name.4596bb0d3ee591171923b7094dbd977b2380c688":"§a§lPit of the DeadÀ ",
 	"item_name.07a1346468b5d6442e2879a1066711b8895a78e4":"§2§lPit of the DeadÀ ",
 	"item_lore.793b948419f2643523ea3ea7b6a3f8dcb733414e":"§7Talk to Merloni at §r",
 	"item_lore.391fb7807e747aa130602cff127bf3554cd76e56":"§7[343,59,-1915]§r",
 
 	"item_name.3ee7f5bc85644d0539f6dc8e1e7357af86b78bdb":"§4§lThe Dark DescentÀ ",
+	"item_name.fa010dfa3ab6be8711f4f2de75f8540e23e3269a":"§a§lThe Dark DescentÀ ",
 	"item_name.918e50a1fd86efbf8c94c8068df7575652111a77":"§2§lThe Dark DescentÀ ",
 	"item_lore.8b7c893bf2817844eb2d93b787360c687ebb26e4":"§7Talk to General Graken at §r",
 	"item_lore.636a4c43804a8c24b9fe9e50622bc5ca456c6f2b":"§7[227,45,-1958]§r",
 
 	"item_name.1f8be4362e279839100dbbf95c84dbd2d7163ad3":"§4§lDwelling WallsÀ ",
+	"item_name.352263a179b86bc06a3d8a3a36b9d243baebc9a3":"§a§lDwelling WallsÀ ",
 	"item_name.f9afaf224d6db7ff8602a8d65eade7dc01e826b0":"§2§lDwelling WallsÀ ",
 	"item_lore.fb4ed51115eb44863ead2e3ada882b0fe85fe94d":"§7Talk to Leucsaa at §r",
 	"item_lore.545b47369b7f5d383ea8e9e1b9c9d645bd73e1fc":"§7[201,38,-2173]§r",
 
 	"item_name.a518d48232622f723ecf5e2290878cde64216928":"§4§lThe Tower of AmnesiaÀ ",
+	"item_name.1c14d1153e4fcde2ea31ff13d3ef8effe8fe94ff":"§a§lThe Tower of AmnesiaÀ ",
 	"item_name.7e20621446c36aebb4223e1b0c0dca54b44f2cb4":"§2§lThe Tower of AmnesiaÀ ",
 	"item_lore.7877be99f5df38a1a7033c5df657474181cfe969":"§7Talk to Tinemild near Elkurn §r",
 	"item_lore.1dcac885c08f8eb97012dc835ca276cba8a21045":"§7[87,76,-1200]§r",
@@ -237,32 +280,41 @@
 	"item_lore.8e456b753a93e5679d21516d0351c43823f1e295":"§7Angry Village at [318,78,-1097]. §r",
 
 	"item_name.51a083896108d4088a0565cafdb60638941d5822":"§4§lLost TowerÀ ",
+	"item_name.65cf2a3133dd4b38636ff12156c8e50ddf681c4f":"§a§lLost TowerÀ ",
 	"item_name.210c4b61a58a535b9b2f35b6a0454cc8ec024cb1":"§2§lLost TowerÀ ",
 	"item_lore.45d221c0fc3de18dfb28decf55da35f368091ac8":"§7Talk to Laen in Nemract §r",
 	"item_lore.e4c652c8d446fec9ea17fdde48ac211282314ace":"§7[24,37,-2199]§r",
 	
 	"item_name.cd380564552d23393ac3af374869a9cd854724b7":"§4§lSister CityÀ ",
+	"item_name.16430b8303a8e212c2ca4aa94dc07f0a14fbd6d0":"§6§lSister CityÀ ",
 	"item_name.d8e11735126f83a223f2e92d6e89acb8864ad873":"§2§lSister CityÀ ",
 	"item_lore.91890273f8dd2cb0594351ff982436d87196078a":"§7Talk to Lil in Detlas §r",
 	"item_lore.cc4eddb217a869ceacc2536038de91048542ce60":"§7[454,67,-1560]§r",
+	"item_lore.a5db9c94f5ba869907643b4d9e92a70c3c8f422f":"§7Travel to Selchar and bring §r",
+	"item_lore.5ad201742fc2365aa6ab5a50fb35a42c63af4fc0":"§7back [12 Hourglass Sand] to §r",
+	"item_lore.9fd1aa7d9ae16744c54147d575ad7317224092d7":"§7Lil §r",
 
 	"item_name.4be3d5b7dbc315dc38895b974b81d7edddfdfb0e":"§4§lThe MercenaryÀ ",
+	"item_name.dc24a556486eebf155b41328fd164c3fcb33a774":"§a§lThe MercenaryÀ ",
 	"item_name.50767da1c4a18af64a94955d64e1bc92c94f6627":"§2§lThe MercenaryÀ ",
 	"item_lore.80e0628a9d0eaa705322575436b4106144d4b6d6":"§7Talk to Mylo in Nemract §r",
 	"item_lore.ee97d37171e71d9bd643b3b597d05c6593a96173":"§7[184,54,-2141]§r",
 
 	"item_name.96e347ea8277102dc54cda9b28532bcfd8637d6d":"§4§lCraftmas ChaosÀ ",
+	"item_name.1ba78b46252d66f75f19d1a0e69da7dc0039e510":"§a§lCraftmas ChaosÀ ",
 	"item_name.2d24fdfbff69429191f0a19ad90e60f2d83047f8":"§2§lCraftmas ChaosÀ ",
 	"item_lore.f033f60a821469b4e50478d2ae84a4986e81d883":"§7Talk to Tom in Selchar §r",
 	"item_lore.a61cc22b693e7950034b2e532a9a7da19bccd6ae":"§7[164,64,-3226]§r",
 
 	"item_name.e3cde0606c15e219553a926fac5cbdc87f2e090b":"§4§lMini-Quest - Slay ScarabsÀ ",
 	"item_name.819e12ab525f52da64a0cdafb6bbe7d3aa878b50":"§a§lMini-Quest - Slay ScarabsÀ ",
+	"item_name.224b8465859c4a880b68c297f80cb32bd8cb9328":"§2§lMini-Quest - Slay ScarabsÀ ",
 	"item_lore.e1c2738977144eb1f9b8ffb6f86270fce9501f7b":"§7Bring [16 Mashed Insect] to §r",
 	"item_lore.2ccf96ef7f856033256060b2c0a8f9e5d85449e3":"§730] at §r",
 	"item_lore.498377d4a9c82e38b0bfe0aca1a9caec0a557bf5":"§7[982,69,-2073]§r",
 
 	"item_name.099b9f4b0a6bdc07eaafb9b01b789006768db5a6":"§4§lGreen GloopÀ ",
+	"item_name.d45e6986e461ea09e269479e088c642ba9f06ff5":"§a§lGreen GloopÀ ",
 	"item_name.e414ff942ba683d5792e6a9faaf0e6e584c29299":"§2§lGreen GloopÀ ",
 	"item_lore.77e86fa7f58da763641698fe7d6b1c940b23f99b":"§7Talk to Eluzterp at §r",
 	"item_lore.9a9b58beea7ae4e716307cf8faddfabf01eb3091":"§7[1172,77,-2027]§r",
@@ -280,7 +332,7 @@
 
 	"item_name.b346251db78baf4a4283470fb2eda01079aa90d4":"§4§lKingdom of SandÀ ",
 	"item_name.5bebc19efcff81fa9cf5674cd94f4659903f9ae8":"§2§lKingdom of SandÀ ",
-	"item_lore.146d7764ac81288e6ae391f20989125e118231ef":"§7Find out what\u0027s going on §r",
+	"item_lore.146d7764ac81288e6ae391f20989125e118231ef":"§7Find out what's going on §r",
 	"item_lore.75879ef24fbf41978691dda2fa886e084c70d2f5":"§7at the Sand Swept Tomb §r",
 
 	"item_name.7263ba50a2afcd018061cd0db4239e1e6c7a6bdf":"§4§lStable StoryÀ ",
@@ -290,6 +342,7 @@
 
 	"item_name.6ee5d663f82825e6932d136bbf7a43e93bd5f01f":"§4§lMini-Quest - Slay CoyotesÀ ",
 	"item_name.d7b9d50beaa311d496051dc77b967b7e212a57d5":"§a§lMini-Quest - Slay CoyotesÀ ",
+	"item_name.6166ce3b7fccc9b59a625289fbd8eb4dcee8049e":"§6§lMini-Quest - Slay CoyotesÀ ",
 	"item_lore.483ce90e97ceae2c46d887a12a33432fa470c87f":"§7Bring [16 Coyote Fangs] to §r",
 	"item_lore.2329fb95d6544fc29d111f4d600bb805d1a63b21":"§735] at §r",
 	"item_lore.a697b22efd912212e16478c95bff8d255133366d":"§7[1200,30,-1332]§r",
@@ -315,8 +368,8 @@
 	"item_lore.23590f25138411864f56adfc9dfb6416e4180f6e":"§7Talk to Svin in Rymek §r",
 	"item_lore.28b006cd44bfff872eb06396ceedc6831a80c001":"§7[1352,30,-1300]§r",
 
-	"item_name.cc37e5402d9a17bb6747ee692c972f3041a37f45":"§4§lPirate\u0027s TroveÀ ",
-	"item_name.662c3fa4fc1e237fd344fdb5147d982aa1b37c43":"§2§lPirate\u0027s TroveÀ ",
+	"item_name.cc37e5402d9a17bb6747ee692c972f3041a37f45":"§4§lPirate's TroveÀ ",
+	"item_name.662c3fa4fc1e237fd344fdb5147d982aa1b37c43":"§2§lPirate's TroveÀ ",
 	"item_lore.5c93b48cbcf5b5a80102cc95f8aed3e08819fdd4":"§7Talk to Damiral, outside Llevigar §r",
 	"item_lore.41186314eebb20d64d82fb822b93d4b257540d8e":"§7at [-1937, 38, -4260] §r",
 
@@ -345,6 +398,7 @@
 
 	"item_name.24456c35d43a528fc55017199123faec39b7415a":"§4§lStar Thief֎À ",
 	"item_name.55eda2b580289ea09af864950d7b201c85f43963":"§a§lStar Thief֎À ",
+	"item_name.6abd51be667c7125498ee56b6fde3ceed6f20b65":"§2§lStar Thief֎À ",
 	"item_lore.e54f14ec282cd1cd11ee0a99805083b87410ce4d":"§7Look into the rumors of §r",
 	"item_lore.33dcdf31fd68e03cc812c5ef9cbde480c3c33862":"§7strange weather near the Imal §r",
 	"item_lore.97e1586e69ccf8aab18541150c08fefb0081cd7e":"§7Inn at [-2018, 43, -4822]. §r",
@@ -356,6 +410,7 @@
 	"item_lore.3ae961858efe50756f9befe05e70265088e625ba":"§7[-2008,33,-4605]§r",
 
 	"item_name.ef24261eb240276e30d12222cd0c3f59461b6ddb":"§4§lUndericeÀÀ ",
+	"item_name.d7e0ade39704c0578b81325fb2ba3ff08d4961cd":"§a§lUndericeÀÀ ",
 	"item_name.b01262731fe9fc5894d65183d5e019e2bd694c5b":"§2§lUndericeÀÀ ",
 	"item_lore.3d82172d8fba8fa53a1a1dd228e67bf9773a5c0a":"§7Talk to Fredris in Nesaak §r",
 	"item_lore.d2e61305a2db108f8a2e8706c298d46282bf2a31":"§7[157,73,-812]§r",
@@ -370,10 +425,13 @@
 	"item_lore.fe3ffec530f8767bceb5d655f04261e40f0db64a":"§7Speak to Piere in the §r",
 	"item_lore.22fd0c119d34a1085d48f78db17a93f88c0b674e":"§7Llevigar plains at[-1851,56,-4959] §r",
 
-	"item_name.9e54f8d93831960a706772be5b1e82824218c067":"§4§lBob\u0027s Lost SoulÀ ",
-	"item_name.3ac7c4d8adb856819773fb3faa79929e8e2406a2":"§2§lBob\u0027s Lost SoulÀ ",
-	"item_lore.d13c94597227b57cf047859061bf2a91202ffd68":"§7Talk to Tarod in Nesaak\u0027s §r",
+	"item_name.9e54f8d93831960a706772be5b1e82824218c067":"§4§lBob's Lost SoulÀ ",
+	"item_name.462e03ad18f6e248ab14d3e1e4013ac346202c4f":"§6§lBob's Lost SoulÀ ",
+	"item_name.3ac7c4d8adb856819773fb3faa79929e8e2406a2":"§2§lBob's Lost SoulÀ ",
+	"item_lore.d13c94597227b57cf047859061bf2a91202ffd68":"§7Talk to Tarod in Nesaak's §r",
 	"item_lore.b01dac142ae31a6271d42e6862ccf22a665b5484":"§7[-7,68,-793]§r",
+	"item_lore.b5fd8790d4fa4b883c7fce23026386a3d58296d4":"§7Report back what you've seen §r",
+	"item_lore.ee84d9bf942fd0b451b02b3b260f193625f58f81":"§7to Tarod §r",
 
 	"item_name.d4c7d92d891f448b53177dbd8a1888dff6152254":"§4§lMini-Quest - Slay OrcsÀ ",
 	"item_name.dc360c665460f52ebbbdcc63de325bdc84f9cc59":"§a§lMini-Quest - Slay OrcsÀ ",
@@ -389,6 +447,7 @@
 
 	"item_name.8af90587e0c8c33e977681b2aa0e49f884d5282d":"§4§lFrost BiteÀ ",
 	"item_name.23d24998402c6ba2792e300063e8a9989f248d09":"§a§lFrost BiteÀ ",
+	"item_name.4f694a20508baac6f3b19fa3b8855bdd74fdcf67":"§2§lFrost BiteÀ ",
 	"item_lore.8a1621e498cff6b4c036f7a2fe4941961c7eb018":"§7Find Eppo at [-207, 37, §r",
 	"item_lore.d8ecae3de540a35b431d1a5824c97b9dfd547e9b":"§7-531] §r",
 
@@ -410,11 +469,12 @@
 
 	"item_name.926049ab03e45087c7d8bc226b86bdf26915b5fb":"§4§lA Grave MistakeÀ ",
 	"item_name.33a33b715c1f8f3b42b813b9f29cd5722279e927":"§2§lA Grave MistakeÀ ",
-	"item_lore.73470ad9fd05eda196589685886efc32d63721b9":"§4., §r§4§lSTAY§r§4;.  \u0027§r§4§lAWAY§r§4:, .§r§4§lFROM§r§4;, §r",
-	"item_lore.928b3bba7cb38c124bbee20c744b6fc7df500c62":"§7 ,.; §r§7§l[157,78,-377] §r§4\u0027:, §r",
+	"item_lore.73470ad9fd05eda196589685886efc32d63721b9":"§4., §r§4§lSTAY§r§4;.  '§r§4§lAWAY§r§4:, .§r§4§lFROM§r§4;, §r",
+	"item_lore.928b3bba7cb38c124bbee20c744b6fc7df500c62":"§7 ,.; §r§7§l[157,78,-377] §r§4':, §r",
 
 	"item_name.60071fffdde5e7887d7da561a61875fdd196d3d5":"§4§lMini-Quest - Slay SlimesÀ ",
 	"item_name.1cb0bb473cced73e71b8e5db1f13d819508c1b19":"§a§lMini-Quest - Slay SlimesÀ ",
+	"item_name.d02a948e21f6d946178fd594b92c70baa874345d":"§2§lMini-Quest - Slay SlimesÀ ",
 	"item_lore.bbdb2f7a4167867803767164cadaa1e6a6ec66b0":"§7Bring [22 Viscous Slime] to §r",
 	"item_lore.e1ede84b72e4e8b964bfe7a19b1351760d2d4459":"§750] at §r",
 	"item_lore.d39b2284b16aefffa6790a0c13bab218dcfdb2c0":"§7[-480,68,-707]§r",
@@ -471,6 +531,7 @@
 	"item_lore.0f1cfd87670fb9a3b5da0ecb7283c481bb6c6d94":"§7[-1786,60,-5267]§r",
 	
 	"item_name.94210ed2cb6ea4f12cd2b7099f407f49d4c25544":"§4§lZhight IslandÀ ",
+	"item_name.15992da2fb858a3a1ead3e9e9e29876e717214fe":"§a§lZhight IslandÀ ",
 	"item_name.4a054eeb7b68fbc916e878aa707d8f794eb25662":"§2§lZhight IslandÀ ",
 	"item_lore.97f63fdba5ebf13031b12b231af3f92f7eac516e":"§7Talk to Zhight of Zhight §r",
 	"item_lore.dd0d437b6344d0a2fda73f30a47f6de7c4063ebd":"§7[-542,38,-2755]§r",
@@ -487,9 +548,14 @@
 	"item_lore.763f6ab4e60242e87a9cb9308e4778495988e4de":"§7[-820,94,-1040]§r",
 
 	"item_name.8972a6a5bc3ed986f052cefa7cee7811d7f88bec":"§4§lAn Iron Heart Part IIÀ ",
+	"item_name.cb0013fd1e3d29d9d980cb4c95ddc06e1ec7a004":"§6§lAn Iron Heart Part IIÀ ",
 	"item_name.0465adfeb57100c44a7d85e1cf7f54746d5a9004":"§2§lAn Iron Heart Part IIÀ ",
 	"item_lore.7a67c18b00ae127557219210abd4fae03e099ec8":"§7Speak to Detective Hart at §r",
 	"item_lore.af4d33c6346f2d3d4437aaae2318012d3d3d7d79":"§7[-1762,67,-5531]§r",
+	"item_lore.9abb428e5e91bd1016f961a347e411e0d116c9e4":"§7Follow the west road and §r",
+	"item_lore.44a45ac17cee8f371c0825d6cc58640c3d246524":"§7speak with Daxe in his §r",
+	"item_lore.eb360a8fca6e1d6d7b17de92ef3b94a103854bee":"§7home at §r",
+	"item_lore.5c16d1d02f1313c4442e5331e3a161af6e180586":"§7[-1924,55,-5466]§r",
 
 	"item_name.96d0482ed5f69ac18b72c50adac8a1a3a12603eb":"§4§lMini-Quest - Slay Wraiths \u0026 PhantasmsÀ ",
 	"item_name.122b11d89e47cf488f4fc0fc3458ef75aea81f5f":"§a§lMini-Quest - Slay Wraiths \u0026 PhantasmsÀ ",
@@ -504,12 +570,14 @@
 	"item_lore.a98e6affcff8d991d210e527c7410777922c90e5":"§7[-640,53,-3117]§r",
 
 	"item_name.f51f0cfa34e4a616127329c021bd3ff184f7796e":"§4§lReclaiming the HouseÀ ",
+	"item_name.44f834e3d60ad641b424b5fcb4b04d9ae31acab9":"§a§lReclaiming the HouseÀ ",
 	"item_name.b28f6ff023d7d35d548da1fc4b1bd4c8ccc5cd65":"§2§lReclaiming the HouseÀ ",
 	"item_lore.2f80fe8396b444e935bf5aa629dc75e7020ec6da":"§7Talk to Ahmas at §r",
 	"item_lore.cc6cfadc83c31864435ca9f4695c2a23899440d9":"§7[-1494,47,-5360]§r",
 
-	"item_name.6af74e028e950d346c85b72a69325cd26d7ae26e":"§4§lRedbeard\u0027s BootyÀ ",
-	"item_name.8469e2bff079cd1cbf00b683c1a63909c47fb16a":"§2§lRedbeard\u0027s BootyÀ ",
+	"item_name.6af74e028e950d346c85b72a69325cd26d7ae26e":"§4§lRedbeard's BootyÀ ",
+	"item_name.0d79cb14dd1ef904973406f94ac15b2fd4e25acf":"§a§lRedbeard's BootyÀ ",
+	"item_name.8469e2bff079cd1cbf00b683c1a63909c47fb16a":"§2§lRedbeard's BootyÀ ",
 	"item_lore.f31d2afe70baebc3c32afbd5b345896f95f2ab03":"§7Talk with Marston in the §r",
 	"item_lore.df203b7278e8d244cd0d8d8f4b24e720c36d6fb0":"§7ocean at §r",
 	"item_lore.f643595ddcd73168ab21c38137e2436530d4af2f":"§7[-608,40,-3546]§r",
@@ -532,12 +600,14 @@
 	"item_lore.001255f94fc2de1575f6d4c9abd01a1147fbcf94":"§7inside the treehouse §r",
 	
 	"item_name.69de95460a0625dd65f4305acd05cde67026152b":"§4§lA Fighting SpeciesÀ ",
+	"item_name.9846bd4d9aeb27a811654a46a49ed08f404cb9ed":"§a§lA Fighting SpeciesÀ ",
 	"item_name.24fc9797739efa2ed13a2427ed071fd4ce2cbd71":"§2§lA Fighting SpeciesÀ ",
 	"item_lore.2d090f56423425215d4072e5221717aaafa7029d":"§7Talk to Darnes in the §r",
 	"item_lore.0e6a8bcc1de0fb59f44773cf72d4c70b48f3bdcb":"§7villager camp at §r",
 	"item_lore.a606fd29f44337b976e10735bb17fda89e56aac5":"§7[-1406,43,-5073]§r",
 
 	"item_name.c84b3742495a578982ad3fa2cf6c6d2ee50fe97e":"§4§lThe Headless HuntÀ ",
+	"item_name.4e5a3456751e8e99d6c895b8322232b77d37340c":"§a§lThe Headless HuntÀ ",
 	"item_name.3f8452b077b37d93c7f5db5f573f58a44d358e54":"§2§lThe Headless HuntÀ ",
 	"item_lore.ccc834908d86773a958747ccdce6c0301b56a177":"§7Talk to Referick in the §r",
 	"item_lore.d88a5b0d800e6a2223dd3119eb7779515662f615":"§7dark forest at §r",
@@ -550,15 +620,19 @@
 	"item_lore.199a3f7388b12b6070210b25b760d9fa3ad047cd":"§7[-708,28,-413]§r",
 
 	"item_name.de96ad22a8aa4a3e1d42b6a5de640cba0ee56056":"§4§lLost RoyaltyÀ ",
+	"item_name.a640da33a87890198eb7f79eb69cdf724c3775d3":"§6§lLost RoyaltyÀ ",
 	"item_name.f998730c23a384745de340cfa388cdadae19dfcd":"§2§lLost RoyaltyÀ ",
 	"item_lore.b3f134de977605b22bf547c78a6ae0f8913229ea":"§7Talk to Yavlis in Troms §r",
 	"item_lore.e9a5e686393339321cb69daa88c3524d14640c82":"§7[-848,85,-875]§r",
+	"item_lore.c205016ea48566888f7445d2a88d0182fb068f60":"§7Talk to the mercenary leader §r",
+	"item_lore.c0e1c60d0dc7b37e9308b59d65f839059db50d22":"§7in their hideout outside Troms §r",
 
 	"item_name.0bb434f791c3f63d2b3e166aff815af0a1afd876":"§4§lLost SolesÀ ",
 	"item_name.06f7080a21d81de04da071acf2b1339b6286a620":"§2§lLost SolesÀ ",
 	"item_lore.50f1569a165f717d58ae8a376984c2b33f9e4630":"§7Talk to Ferndor at §r",
 	"item_lore.7d979d2b5cc0b7a5dbed0cae430eb5c067a3ddca":"§7[-915,33,-750]§r",
 
+	"item_name.548e91240d075e5731fa09e2992edfddf8561390":"§a§lMemory ParanoiaÀ ",
 	"item_name.a11a052f1bfee288666d3b0b976c749951d18dda":"§4§lMemory ParanoiaÀ ",
 	"item_name.8e9ab49652882fcfec3967b121c5e3ea347995a1":"§2§lMemory ParanoiaÀ ",
 	"item_lore.b5eb862d43258c3fd1bba2c959c15660659dc4b6":"§7Speak to Atisun in front §r",
@@ -566,6 +640,7 @@
 	"item_lore.fa9522c34d80a1101f68e5f99bb4148719559faa":"§7[-1192,46,-5198]§r",
 
 	"item_name.1ef016bff6728251f59a9fd505c297adf1d132f7":"§4§lFrom the MountainsÀ ",
+	"item_name.18fe0392cdab6e70b7c8896ae3d71b8d281bab79":"§a§lFrom the MountainsÀ ",
 	"item_name.1b2d5b77c41f8100fe00eda9b0bf43ebd2a86c51":"§2§lFrom the MountainsÀ ",
 	"item_lore.64894d196229f5a5ec6b0e14b29e38c119d12bd5":"§7Talk to Anrod at his §r",
 	"item_lore.dd55676a331c5aa0f629427b04248c454c15c8e6":"§7[-1367,43,-4542]§r",
@@ -578,11 +653,13 @@
 	"item_lore.4bb9a4704ee479b4045dafd8c79919a1f6239b16":"§7[-693,68,-993]§r",
 
 	"item_name.e2c66cf13b52119fee0a7ecda940c0dc93672155":"§4§lGrand YouthÀ ",
+	"item_name.f439a2b120a508b3d952399b46ca31f9542b366e":"§a§lGrand YouthÀ ",
 	"item_name.a053d1fade0091fe3c2e077b8ceebcd59a4e12d6":"§2§lGrand YouthÀ ",
 	"item_lore.62521b5b7d388358bddf0421db61aedf9aa5c353":"§7Talk to Monte at §r",
 	"item_lore.70c32f62ef2a7e4eaca31cd05bba8596fb1ed8dc":"§7[-550,61,-747]§r",
 	
 	"item_name.671904fce327c92dece0c4d5f8314160d013b173":"§4§lLazarus PitÀ ",
+	"item_name.569f74b71c8ebe785cdeaf2391e88ec8c91f8fe2":"§a§lLazarus PitÀ ",
 	"item_name.6282c76697c70da80b73a0002d7351d66672a00d":"§2§lLazarus PitÀ ",
 	"item_lore.d6d20c007278b4454b2032b4a9c553dd88007eab":"§7Talk to Burtur at §r",
 	"item_lore.08de69bd76e4511cb2e8aebc1211a9b43b765f8f":"§7[-980,45,-5305]§r",
@@ -601,12 +678,14 @@
 	"item_lore.6450b060cbefbcf49ef1b341ade2a056eb0416bd":"§7[762,35,-3890]§r",
 
 	"item_name.89c5c9884fdbb291728d10c4d64fd5e20d264b66":"§4§lHaven AntiquityÀ ",
+	"item_name.4fcc67ef2fe61cd10df48554140e303122875037":"§a§lHaven AntiquityÀ ",
 	"item_name.02a96c134e110d71d9e8c5d313b4270f7d7eab67":"§2§lHaven AntiquityÀ ",
 	"item_lore.bbfd80ec8a07529fe0652abb5ca93ff481a8cae1":"§7Talk to Cinfras on the §r",
 	"item_lore.d0cf541734309e980f63b3c20b39e7979c347010":"§7docks at Dead Island at §r",
 	"item_lore.620148b93d521909e8e29bd7144a955aa7edea62":"§7[770,36,-3880]§r",
 
 	"item_name.476dc8d689583286666d0dba19b5b16ba1690e53":"§4§lShattered MindsÀ ",
+	"item_name.351637a3d67a85d024924cac39f8a14bb4428a5d":"§a§lShattered MindsÀ ",
 	"item_name.9fe176842f40193ee2f3a4b8b55da059de62f9ca":"§2§lShattered MindsÀ ",
 	"item_lore.55f41b14602b32ee52b8c157e68153afa2c33a86":"§7Talk to Likeru in Efilim §r",
 	"item_lore.63c2a0a63f71a989850635ce6b983b8645aa9b4a":"§7[-1058,44,-5008]§r",
@@ -619,18 +698,21 @@
 	"item_lore.824aac1973c54b98d3f18e5c39741ba53b51bcbb":"§7(Requires completion of Taproot) §r",
 	
 	"item_name.e28d0ffa3ac621ef8f7ac4b08baa0bd61b9621e8":"§4§lEye of the StormÀ ",
+	"item_name.f9f8a2d9360a2985f91929506c651e4f7ea876b7":"§a§lEye of the StormÀ ",
 	"item_name.3ced5f613f3496617937705f8e620e211e5e7d01":"§2§lEye of the StormÀ ",
 	"item_lore.62071a39056a618cefc8b428ba77f05843338463":"§7Talk to Arwes in the §r",
 	"item_lore.7aa1ac417c3c1212b58ceb02bb4019b8379bcfd4":"§7ruined cathedral at §r",
 	"item_lore.c8a018f92f92f96a1808e43b3f87c3dcc9c0e2ab":"§7[-683,45,-5347]§r",
 
 	"item_name.d5bf522c6400da8e8dd8f47b7a938982f5b05b54":"§4§lForbidden PrisonÀ ",
+	"item_name.9583e0372dc891b898c36b1232e415629552a537":"§a§lForbidden PrisonÀ ",
 	"item_name.adc836cd521b901136a04f59fac978021c001570":"§2§lForbidden PrisonÀ ",
 	"item_lore.6a8a281926e1713e1ec0338b7f78617e2b5ef05f":"§7Something looks suspicious in the §r",
 	"item_lore.de62ec6eb1d2d0380f4af5d57f012aadd10af63b":"§7prison at §r",
 	"item_lore.1d32d511b7b1cadd96aa9fd348596f99a58a637d":"§7[-829,83,-5539]§r",
 
 	"item_name.655f2308a3e4e005c1bd2e6a0c63f4ec103c7d4a":"§4§lHollow SireneÀ ",
+	"item_name.de30f36a9ebfdde50b5c7659fb6a9d0425f7283b":"§a§lHollow SireneÀ ",
 	"item_name.3bfc454a7e2150baf19312a6248a2b0f31c318cb":"§2§lHollow SireneÀ ",
 	"item_lore.3bde0681c98839b1fb8ac9850728afbb87b63f51":"§7Talk to Laloire at §r",
 	"item_lore.faeedd33d5fe8d60a2c394b6cf102ba8f879cfaa":"§7[-660,43,-5199]§r",
@@ -643,7 +725,7 @@
 
 	"item_name.8a857dbf026fd5ad35fbaa8f03ed060dba8ad548":"§4§lTroubled TribesmenÀ ",
 	"item_name.62e4d9d0762bc239c2290b219c1c56ad448ec4d5":"§2§lTroubled TribesmenÀ ",
-	"item_lore.506bf3fc93274fb18fcaaad5f883f8554d35cdef":"§7Speak with Ka L\u0027argwit at §r",
+	"item_lore.506bf3fc93274fb18fcaaad5f883f8554d35cdef":"§7Speak with Ka L'argwit at §r",
 	"item_lore.e68ce173dee38bb75d3f342766ba7f1655510ca9":"§7[-545,52,-313]§r",
 	"item_lore.e31e632d5c090cca94098956d2f372d55992954c":"§7in Dernel. §r",
 
@@ -655,7 +737,7 @@
 
 	"item_name.74724b39b0a03acc80aded8667a96dad132a8a3e":"§4§lReincarnationÀ ",
 	"item_name.0b36886ed77eb8fdbd7325179dad009109a3b9b6":"§2§lReincarnationÀ ",
-	"item_lore.e4360c6df8b117814e4c84c71081c35f2964bc04":"§7Talk to Batelu in Bob\u0027s §r",
+	"item_lore.e4360c6df8b117814e4c84c71081c35f2964bc04":"§7Talk to Batelu in Bob's §r",
 	"item_lore.9c6f5904f625b695cc1af9062b4831fcebda7624":"§7Tomb at §r",
 	"item_lore.62b4b11badaa91461b3fef52c268c75c305e6cf0":"§7[372,54,-775]§r",
 
@@ -689,8 +771,8 @@
 	"item_lore.88540d3b738ab2a58265c0186fcc58d5c12311b3":"§7Speak to Dodegar Bandysnoot at §r",
 	"item_lore.d3b04a1056526afc4172e7de7edc374646f45504":"§7[-987,42,-4593]§r",
 
-	"item_name.b577922a444d418f4ad8f4d27deb6fe5dad09d66":"§4§lAldorei\u0027s Secret Part IÀ ",
-	"item_name.2602d4d5a786caf0817333c8a23d9e73f8d3617b":"§2§lAldorei\u0027s Secret Part IÀ ",
+	"item_name.b577922a444d418f4ad8f4d27deb6fe5dad09d66":"§4§lAldorei's Secret Part IÀ ",
+	"item_name.2602d4d5a786caf0817333c8a23d9e73f8d3617b":"§2§lAldorei's Secret Part IÀ ",
 	"item_lore.39370e3138cfd7b0b319b71fe6a1b08b5cdae9a5":"§7Speak to Elrund outside Aldorei §r",
 	"item_lore.50cc99d67a388207e252349d08544a4cd69eee79":"§7Valley at §r",
 	"item_lore.796084fb398d5319346f9ea62be40bab15363b0b":"§7[-670,97,-4444]§r",
@@ -724,8 +806,8 @@
 	"item_lore.f671d653f8b607cd8eed07a4e0d2b7f40e3592df":"§7Lv. 78] at §r",
 	"item_lore.053e05c100a796cae338662179f077370f6964da":"§7[-163,33,-4812]§r",
 
-	"item_name.37bae48ac73f553ddcec4a79bc051b16f7f7a151":"§4§lAldorei\u0027s Secret Part IIÀ ",
-	"item_name.2619143a9dd97809dee78b0600b145adec50f7ae":"§2§lAldorei\u0027s Secret Part IIÀ ",
+	"item_name.37bae48ac73f553ddcec4a79bc051b16f7f7a151":"§4§lAldorei's Secret Part IIÀ ",
+	"item_name.2619143a9dd97809dee78b0600b145adec50f7ae":"§2§lAldorei's Secret Part IIÀ ",
 	"item_lore.cde1f15066e39e8422a69770445ab605cad76123":"§7Speak to Legolus at §r",
 	"item_lore.76b11ffea63e8eca59c9b345dc51b757e7252f67":"§7[-139,92,-4445]§r",
 	"item_lore.0a073684b4df3589d4e601f72333c453781b46f6":"§7(Requires completion of Part I) §r",
@@ -735,8 +817,8 @@
 	"item_lore.0e5a3319a26e95891bedd003833fa896c2d9e7e1":"§7Talk to Bricot at §r",
 	"item_lore.56baa00ffa3d8e61551584f80a01db1e2329febd":"§7[65,42,-4844]§r",
 
-	"item_name.1cc4010e7baaa6c4126c40d682172fae0b27375e":"§4§lGeneral\u0027s OrdersÀ ",
-	"item_name.425ec4c72361334289c19c1236feae438f2510d9":"§2§lGeneral\u0027s OrdersÀ ",
+	"item_name.1cc4010e7baaa6c4126c40d682172fae0b27375e":"§4§lGeneral's OrdersÀ ",
+	"item_name.425ec4c72361334289c19c1236feae438f2510d9":"§2§lGeneral's OrdersÀ ",
 	"item_lore.e98810bb3f9ffb2659d45cbfd71acde03bbfa1dc":"§7Speak to Private Tylas outside §r",
 	"item_lore.ccfa1dc3a9ad736e16a75e56cce30ccbd2c8ffbf":"§7of the fort at §r",
 	"item_lore.722e5d31fef5a44e985b50336c5cc9a168773b7c":"§7[115,53,-5439]§r",
@@ -773,11 +855,12 @@
 	"item_lore.401a3afb6e44763213819f419a230ea610e74a48":"§7Speak to King Burtan at §r",
 	"item_lore.34a3e90510ec35301f9292a062d9ae82adfe6c39":"§7[51,17,-5242]§r",
 
-	"item_name.3a8e0a93dff573a53ecde6d9eb1c403035ac89d6":"§4§lA Marauder\u0027s DuesÀ ",
-	"item_name.677fa8565f1ecb467c12b5c78d3364d31c7e6812":"§2§lA Marauder\u0027s DuesÀ ",
+	"item_name.3a8e0a93dff573a53ecde6d9eb1c403035ac89d6":"§4§lA Marauder's DuesÀ ",
+	"item_name.677fa8565f1ecb467c12b5c78d3364d31c7e6812":"§2§lA Marauder's DuesÀ ",
 	"item_lore.ff16a0356e8d4ddfabcf73ebd898fd549d09e166":"§7Talk to Norsten at [437,77,-5056]. §r",
 
 	"item_name.3f7c66bf8b74c2d45c22c22aa3a0591839d8996f":"§4§lMini-Quest - Slay JinkosÀ ",
+	"item_name.21a1abea847762522fcaca6b077f36071a50a501":"§6§lMini-Quest - Slay JinkosÀ ",
 	"item_name.a355121328b0c9c2bbe05d1fa9b838bde8424857":"§a§lMini-Quest - Slay JinkosÀ ",
 	"item_lore.f67a417e82dd6c07d2d7a97b024f0c8224b45ae5":"§7Bring [22 Sharp Claws] to §r",
 	"item_lore.b2c0daad259fda936b6458a8f895beae4b0bf976":"§783] at §r",
@@ -800,6 +883,7 @@
 
 	"item_name.a133e2a4ff81d1bd6499d36ead53dcac32b465be":"§4§lMini-Quest - Slay RobotsÀ ",
 	"item_name.fa1b14c8a14cb66a750e99499c3098f2eb5aac69":"§a§lMini-Quest - Slay RobotsÀ ",
+	"item_name.040eb04b60e57f45a7a29b9696e77a3c61ba5621":"§2§lMini-Quest - Slay RobotsÀ ",
 	"item_lore.41a155957c6276cf030e4fd47478b421b1667fea":"§7Bring [28 Robot Antennas] to §r",
 	"item_lore.48e3f97f8f337173618fabdd8c75a9f809307dc3":"§785] at §r",
 	"item_lore.16a8d0984dd5179673928cb3e41d7e42cae823a2":"§7[-1751,71,-2694]§r",
@@ -845,7 +929,7 @@
 
 	"item_name.8d2ba21fe8504ee0b938957bf771120574e6e46f":"§4§lThe Envoy Part IIÀ ",
 	"item_name.a2549c787832c44ffc7813567f5aac10e3f42514":"§2§lThe Envoy Part IIÀ ",
-	"item_lore.602ff15a024811cfb9ea387584a267b04e150d55":"§7Enter Maxie\u0027s house at [-1571,68,-2876]. §r",
+	"item_lore.602ff15a024811cfb9ea387584a267b04e150d55":"§7Enter Maxie's house at [-1571,68,-2876]. §r",
 
 	"item_name.413e33b97ec1c7a5780357aa029a9a51e889a9a3":"§4§lEnter the DojoÀ ",
 	"item_name.6e2ba6e87f9c53d9b9d4e67efc12ec3c100eae7d":"§2§lEnter the DojoÀ ",
@@ -859,30 +943,35 @@
 
 	"item_name.fe66ebfd630c2877a2387277209059cbd16c9270":"§4§lMini-Quest - Slay Pernix MonkeysÀ ",
 	"item_name.2b579bebc1eee482405b3e061ffe30ca427069f8":"§a§lMini-Quest - Slay Pernix MonkeysÀ ",
+	"item_name.8aece757dccc740336012104db9e5b3bac04205d":"§2§lMini-Quest - Slay Pernix MonkeysÀ ",
 	"item_lore.ba2945a80b9007d7e3b53606bf3cdbaf70c31ce4":"§7Bring [24 Perkish Potatoes] to §r",
 	"item_lore.049b6d12f17a12d1703491273f2f5f9b5dd9cc83":"§790] at §r",
 	"item_lore.a2c514eea66d6569e97c11c162aa837f124563ed":"§7[-1721,110,-2255]§r",
 
 	"item_name.62749509f75af994b86b64b1ab8a9a66528f35dc":"§4§lDwarves and Doguns Part IÀ ",
 	"item_name.87f9475eb8f792e2e03fe51657da408d1426e3af":"§a§lDwarves and Doguns Part IÀ ",
-	"item_lore.ebe29a2422ad90df44a8fda652f8f91858c47729":"§7Find out what\u0027s happening at §r",
+	"item_name.40813a9ed240472177f82a198e36ee941d640270":"§2§lDwarves and Doguns Part IÀ ",
+	"item_lore.ebe29a2422ad90df44a8fda652f8f91858c47729":"§7Find out what's happening at §r",
 	"item_lore.00b60a42078b67596ae3ce5408587ef57a9d7573":"§7the theatre at §r",
 	"item_lore.1af4e94a007e3ed8e3537ed422f47808886efb67":"§7[1024,17,-5143]§r",
 
 	"item_name.94c0adfb81c0ae5716673792b86c77b4edf6e147":"§4§lMini-Quest - Slay Magma EntitiesÀ ",
 	"item_name.c9b31cba248b887acc169fd3c80b1661142ef581":"§a§lMini-Quest - Slay Magma EntitiesÀ ",
+	"item_name.5e5bca7397a69326c68b6d5d939c58c34465c01f":"§2§lMini-Quest - Slay Magma EntitiesÀ ",
 	"item_lore.e4cc705e7b22c473b437008239cf45ff3b45779f":"§7Bring [16 Acid Magma] to §r",
 	"item_lore.9cb5c1a5b4e4faef7720464ae4036bb767af2400":"§791] at §r",
 	"item_lore.68986423acd6d068148e38cb0ce801a2f729a97c":"§7[1266,15,-5329]§r",
 
 	"item_name.65be1c417cd6540033a65503534b631533795ca4":"§4§lMini-Quest - Slay Frosted Guards \u0026 Cryostone GolemsÀ ",
 	"item_name.06396b58661a7af3c9aad61bcc94e630bcc2fe47":"§a§lMini-Quest - Slay Frosted Guards \u0026 Cryostone GolemsÀ ",
+	"item_name.22bb1764c2822d31ed6efa541de4388c7a8cf5aa":"§2§lMini-Quest - Slay Frosted Guards \u0026 Cryostone GolemsÀ ",
 	"item_lore.28ebc912985cc1ec1c28c06f35e1db186c58ad86":"§7Bring [30 Unmeltable Ice] to §r",
 	"item_lore.7b06c2cedb15f0399451ec4179352c0397f84695":"§792] at §r",
 	"item_lore.bb32c43131007c9a368aa5c3d9cb4106add51382":"§7[1423,7,-5448]§r",
 
 	"item_name.f2554609756f2544a238372bc44f36316d8b3eb6":"§4§lDwarves and Doguns Part IIÀ ",
 	"item_name.dbe600ad48040d38a3d79b6095dec3de5f6f09fc":"§a§lDwarves and Doguns Part IIÀ ",
+	"item_name.ed01656fb92e7acd28860c99edbcc82a21f6e757":"§2§lDwarves and Doguns Part IIÀ ",
 	"item_lore.59b75bf739079ba8065f0a3fd7dc273c4d719db7":"§7Return to the Dogun village §r",
 	"item_lore.483bb710181b1cab6a39ef600c547ba3fb57e510":"§7at §r",
 	"item_lore.cc18c087db789b55361ee5375fcffeb1726002a6":"§7[1371,141,-5306]§r",
@@ -892,17 +981,20 @@
 
 	"item_name.64f9b196c57349b5eae21385fd0080dda692b5be":"§4§lDwarves and Doguns Part IIIÀ ",
 	"item_name.41f381c9d10553618375b97922369b78cadaa888":"§a§lDwarves and Doguns Part IIIÀ ",
+	"item_name.c5079508524d5d206b517b25fec7257e2889c1e7":"§2§lDwarves and Doguns Part IIIÀ ",
 	"item_lore.f8acd96b102217e69d98b4c1f17d83a080e54b9d":"§7with the letter and speak §r",
 	"item_lore.e31c0d5725e25c8f1c4fe4caa6e0c2b3ffde0e1c":"§7to Korzim at [1436,134,-5388]. §r",
 
 	"item_name.446d65e4ffadbbfb5b471cbddd2c790fc3757d51":"§4§lMini-Quest - Slay AzersÀ ",
 	"item_name.263746930cf6056316516597b8bd770d22b0c85b":"§a§lMini-Quest - Slay AzersÀ ",
+	"item_name.f32704e0edae466f4c2cb5ae03121dbdb99bb57e":"§2§lMini-Quest - Slay AzersÀ ",
 	"item_lore.cb6765a740b63255ed9a90913a44afba6a8912bf":"§7Bring [22 Broken Helmets] to §r",
 	"item_lore.59bc9d3138056fd7919df23e925e6f7879657b56":"§793] at §r",
 	"item_lore.9f3eda72ceacbcbadd19db9bf1bcad87496c13cf":"§7[1483,23,-5115]§r",
 
 	"item_name.14ef1e4fe2a594b8d67a8863ddba80e3759b0c13":"§4§lDwarves and Doguns Part IVÀ ",
 	"item_name.d7fce01184de10cce969f70fe8e237717f09fb29":"§a§lDwarves and Doguns Part IVÀ ",
+	"item_name.3ed4ae75fd3b1afab203dc3dd0c4c5607a0cc7be":"§2§lDwarves and Doguns Part IVÀ ",
 	"item_lore.97ac88e62899216f3e4f02573a5ea5a48ba90edf":"§7Return to Korzim at [1514, §r",
 	"item_lore.2cbcc4f15900487519271ba8ea8edc342dfcb4fd":"§751, -5342] on the second §r",
 	"item_lore.ae2295690ad7170c0298ffa2b5468624cb8dc785":"§7floor of the enchanter in §r",
@@ -912,12 +1004,14 @@
 
 	"item_name.d2cbc6d8f442084d6e8f0c602789018e2b8e8599":"§4§lMini-Quest - Slay IfritsÀ ",
 	"item_name.29dd51580c07176e50ad2b6b53f3f7e052a83f5b":"§a§lMini-Quest - Slay IfritsÀ ",
+	"item_name.57b5b4145cc1a3b6df66158217de636ff39827ad":"§2§lMini-Quest - Slay IfritsÀ ",
 	"item_lore.917eb9bad33cf606d9e3436e3199ee9e80d78771":"§7Bring [15 Demonic Ashes] to §r",
 	"item_lore.1ca8ea7ac8673d84d110d178addc8b08d7d519fa":"§794] at §r",
 	"item_lore.f80def889332723246eb54af673593049a71303a":"§7[1389,156,-5476]§r",
 
 	"item_name.5360bf12fb6bb0ede23d2c38b6eaedd98593bccd":"§4§lMini-Quest - Slay Astrochelys ManisÀ ",
 	"item_name.84d86a800498351f141c887c8c00f2004622cfb4":"§a§lMini-Quest - Slay Astrochelys ManisÀ ",
+	"item_name.09e4b1cfb9f25fd00556c521db9a3603a748888a":"§2§lMini-Quest - Slay Astrochelys ManisÀ ",
 	"item_lore.32ac2481f115741df8783d924f341b8311f116d8":"§7Bring [20 Manis Carapaces] to §r",
 	"item_lore.278fe258f9cc135ac6db5e3c59185b772a1bb783":"§795] at §r",
 	"item_lore.d13fd2c1a7e7db648baa7156bfc897a571fafba0":"§7[-1422,138,-3225]§r",
@@ -930,6 +1024,7 @@
 
 	"item_name.07af1cf5e4614cd7b34c25ee814da6dd2bdb24d1":"§4§lMini-Quest - Slay Creatures of the VoidÀ ",
 	"item_name.21037f44c329e111a87b0288868d9ae3b5075814":"§a§lMini-Quest - Slay Creatures of the VoidÀ ",
+	"item_name.8ec3ee3d40900fc94afde2480f2231677d87a4a0":"§2§lMini-Quest - Slay Creatures of the VoidÀ ",
 	"item_lore.4aa42e3fec7bef512514c1c9cf7b7aebb2b6730c":"§7Bring [20 Void Essences] to §r",
 	"item_lore.646a6fab9210394620bfca9b360fa26773e0d8c9":"§796] at §r",
 	"item_lore.a8d7668416ff0cb1cb7c85da02fbcc254b381d95":"§7[14028,118,-4226]§r",
@@ -941,6 +1036,7 @@
 	
 	"item_name.647924cc08315d3bc75e30d324bffcd47800b51e":"§4§lMini-Quest - Slay ConuresÀ ",
 	"item_name.d5504c289cfab8a57b21489c6a6dacd793c13b43":"§a§lMini-Quest - Slay ConuresÀ ",
+	"item_name.32fccbebac0f2143ccc0f9fcd4f8985a0327eb45":"§2§lMini-Quest - Slay ConuresÀ ",
 	"item_lore.47aa27fba17381d4fb6b4be74b5c36e9efde679e":"§7Bring [20 Silver Feathers] to §r",
 	"item_lore.39458b723ab28eba06914421ceac151d9427e28a":"§797] at §r",
 	"item_lore.2cfcc29634ad3179e126aacab85618230f4a5f3d":"§7[1123,141,-4436]§r",
@@ -965,7 +1061,1360 @@
 	"item_name.38fde2dcddd89bc7fc186feaf174057733c1dbba":"§a§lMini-Quest - Slay DragonlingsÀ ",
 	"item_lore.e1fa1b93569b16ea99275dedd778be674ba2ccd8":"§7Bring [15 Dragonling Scales] to §r",
 	"item_lore.b6f423254c02f72f75a63d2eb35e7b25ff8880c4":"§799] at §r",
-	"item_lore.dbec268ee7e17bedddd10662fd1deee69859d216":"§7[1348,124,-4470]§r"
+	"item_lore.dbec268ee7e17bedddd10662fd1deee69859d216":"§7[1348,124,-4470]§r",
+
+
+
+	
+	"_": "----------------------------------------------------- SECRET DISCOVERIES -------------------------------------------",
+	"item_name.dc9869a759ab4562bc4d7c047536a290314b37c9":"§b§lRagni's Secret LibraryÀ",
+	"item_lore.0882d1887303ea3560208507a1e4e53ef730931f":"§7A twelve-volume story of Wynn's great §r",
+	"item_lore.53b3b12e02ea6f8c760d695e44d9b58f6609049b":"§7hero can be found here. The §r",
+	"item_lore.5a4dcc5bc5944a867a6fbdf6b5f73c49b34c516a":"§7origins of this library, and others §r",
+	"item_lore.9fd4d5b4ade381ad7d44d08f68648fdd6c5d15ca":"§7like it, still remain unknown. §r",
+	"chat.68e4aeead943e3e9c2c1437cb5e1fcc410332f40":"§8[§r§4Alert§r§8]§r§f The network will restart in 11m, it will be back right after!§r",
+
+	"_": "----------------------------------------------------- DISCOVERIES -------------------------------------------",
+	"item_name.ad7ab8e21055a61c01f0ea87eb93a2ceb22fe6bf":"§e§lRagniÀ",
+	"item_lore.77087d5dd649a3202f4381e135b3ad5e7d1d8689":"§7One of two great fortresses in §r",
+	"item_lore.7750c0f726648a8f6454885ec027880fea618280":"§7Wynn. Ragni has survived over 1000 §r",
+	"item_lore.27d65027f70e65beab573bb868653c9caa1ee725":"§7years of war - sometimes barely. §r",
+	"item_lore.b2c5f066130bef9041a2a9aa0c8eb391f6068010":"§7It is the hometown of the §r",
+	"item_lore.45f1f07b3d8e7152248eeb19e1077242c05a9534":"§7146 year old hero Bob, who §r",
+	"item_lore.91a98b6b691153df22d80c8ba1a9ee11adaefa03":"§7hasn’t been seen in 16 years. §r",
+
+	"item_name.6431c249065cd273b7314c486b11c0a3ff27b786":"§e§lEmerald Trail֎À",
+	"item_lore.1f94e8123020d758fce2b707e853dd8e0c31529b":"§7The trail through Nivla Forest to §r",
+	"item_lore.f2b9d016a991395412e3fce623513461968f29a5":"§7Detlas, the central city of the §r",
+	"item_lore.2f424c37f65f20a55744a33ce5dcda85faa55bef":"§7Wynn Province. §r",
+
+	"item_name.57ea2f6401aabf8734129c090d8c79196e158e61":"§e§lKatoa Ranch֎À",
+	"item_lore.fcfb7ff69dbb1c1f177e3942d9bec8684b89e67d":"§7This farm is most famous for §r",
+	"item_lore.78aada3ca3000122dc2f2df5c1085e8472957cae":"§7its milk, though recently the cows §r",
+	"item_lore.943ab901b776fdd1b0e1c2b6170c92599b3470de":"§7that produce it have been going §r",
+	"item_lore.34272ee7fe5ef507c0568bcaf4a18cbc0f886311":"§7missing. §r",
+
+	"item_name.fa090c87ab429df2875bb9a4e23942a598f6d183":"§e§lNivla WoodsÀ",
+	"item_lore.950b4e77f1e5e3527b191d5ca3f10ef586ff1082":"§7This forest has been infested with §r",
+	"item_lore.7bc53361c180c344e32befa4ce43cf4ac05040ef":"§7giant, mutant arachnids for countless years. §r",
+	"item_lore.d3fb0714cb51e8fb6fc152af2e1c40d118b4a56a":"§7They serve as the greatest obstacle §r",
+	"item_lore.0908401534a3ed56076ee9927540153358939f6f":"§7for adventurers on their way to §r",
+	"item_lore.0460dda5a569e928a9779cc96f7b52bd41800ea4":"§7Detlas. §r",
+
+	"item_name.d70f4d30ec3ceda0707df79b29846af7f1694408":"§e§lDetlas Suburbs֎À",
+	"item_lore.989c9d3a05a561ce2af8cc28b65c39413b8b6fef":"§7This area is heavily defended by §r",
+	"item_lore.f7aad50195b8931de2e26dd51cd8a4233e317eaf":"§7the armies of Detlas and Ragni §r",
+	"item_lore.245a55f3ab5f5ddfaf55c7292a9253cf079fbea1":"§7to ensure food production continues. §r",
+
+	"item_name.9bfa79aa9f5ef70055e3c567a642302d5a09ac53":"§e§lDetlas֎À",
+	"item_lore.d78b7d44599fcd873f048bf297006691a4626e39":"§7The center of the Wynn Province. §r",
+	"item_lore.36d8eab08050d0263b8d469ce9292cc260ad8309":"§7This city is a massive hub §r",
+	"item_lore.a203c6a21f59aa7ab4a66129dca8d5704b669951":"§7of trade for all adventurers, whether §r",
+	"item_lore.0164e454e44298cc33b289960bc82bd2b096dfc0":"§7they have just started their journey §r",
+	"item_lore.cf22ab1838f4222aa731ad7a05555e15cf0f5e37":"§7or have been at it their §r",
+	"item_lore.7bb6186331caad0baa244fa85028feefb4bbac11":"§7whole lives. §r",
+
+	"item_name.64a0476acbc0520efc6fe0e7d52ef62530e8439c":"§e§lBlack RoadÀ",
+	"item_lore.aae85b6dcf08a15b347d9c9a4d22ecb255254493":"§7This road leads to the town §r",
+	"item_lore.2a0ca49f235b1d4b9997c1af695712db0225aa10":"§7of Ternaves and its nearby mine. §r",
+	"item_lore.6a8c73d087b431789db19e9158dadf4d2f78a273":"§7It is inhabited by strange mushroom-cow §r",
+	"item_lore.440282070670e85c647e5532003c1830b546eaae":"§7hybrids, and a mysterious scientist. §r",
+
+	"item_name.1b54f63e27db6478ee1835264e1d450ef860a088":"§e§lNivla VillageÀ",
+	"item_lore.6df946c1f18019fc5762facdb92ac566fab759df":"§7A small village hidden within the §r",
+	"item_lore.210c5c3ecc9f2c5f46bbd9a5ddf90d059f143fc3":"§7trees in the Nivla forest. Home §r",
+	"item_lore.aa0c054e7766a418e1368ad087b5a174f1fe41f1":"§7of the only bowl merchant in §r",
+	"item_lore.f2be6acf0f1f941a4dd462fe75a0ef0821753bbf":"§7the province. §r",
+
+	"item_name.9bb9c3c2095e92ae19de27c59efdb4df97331541":"§f§lRagni Main EntranceÀ",
+
+	"item_name.4cd416dfc8307ae4183694c7e60da64406536dca":"§f§lNivla Forest EntranceÀ",
+
+	"item_name.8cbc22e00352b548d0b946a7042cf774bbcaaab0":"§f§lRagni North EntranceÀ",
+
+	"item_name.42beaf524a9e0b6186ce9f170dbde164b49ec86b":"§f§lKatoa RanchÀ",
+
+	"item_name.6f1a77955c366da68b28b22728733b265cfbd924":"§f§lRagni East SuburbsÀ",
+
+	"item_name.c38c846e6bacaac95295264308822730cb19fa41":"§f§lRagni PlainsÀ",
+
+	"item_name.2e967ef39cd2aaf066919d966419fa792d10ead4":"§f§lMaltic PlainsÀ",
+
+	"item_name.4b458a80c3e3c75d061ec8024836cad83e4c7f0b":"§f§lPlainsÀ",
+
+	"item_name.caa887008a1ff817eeb9b72e690c6c84fce5ddc5":"§f§lNivla Forest ExitÀ",
+
+	"item_name.3870e41e5d1d424132a8d8f5229891127e009129":"§f§lSouth Nivla ForestÀ",
+
+	"item_name.a42d658d1febf121f3faba9a1cc9452f17355bf1":"§f§lNorth Nivla ForestÀ",
+
+	"item_name.ecd7a39ad568ebc32cb227b3e8eb6fa3e994ec04":"§f§lRoad to ElkurnÀ",
+
+	"item_name.7c238da86cab83b66838fa81a8dcf24155559370":"§f§lCorrupted RoadÀ",
+
+	"item_name.751e83c585e9e5ebd83bf40e18777023f66a3b9e":"§f§lNivla Forest EdgeÀ",
+
+	"item_name.5609ee01b0794699d9fd3a54be0afefeea9480e0":"§e§lMaltic֎À",
+	"item_lore.4b4eca3a11a1f508fa22da272d37c7668329d812":"§7The first town founded by Villagers §r",
+	"item_lore.8a500bb6dcf3f2892ca18c6c60a80b57152ece42":"§7in the Wynn province. Maltic’s beach §r",
+	"item_lore.61f6c62ae5e54122a6b25bf45ed2fd315a94d831":"§7is the site of a shipwreck §r",
+	"item_lore.eb301b3756caa7337580f73ff60dc38d86a2f3d6":"§7that crashed upon its shores 100 §r",
+	"item_lore.896393ce3edc30adc770503e43e0814d49b3d395":"§7years ago. §r",
+
+	"item_name.a6a210db182fa86b41782347f54d97c1499792ab":"§e§lCoastal Trail֎À",
+	"item_lore.3b32c3368e1cac894d3de18aa2f8cee42778c1fd":"§7This beachside path is used by §r",
+	"item_lore.87b4ab780500d354a440d5558f2039e6bc4aa42f":"§7many travellers who seek to avoid §r",
+	"item_lore.51a6245d4b1b46f8b874b5d6fa58b908518401a5":"§7the spider-infested route of the Emerald §r",
+	"item_lore.4fdfd05fcbb6a91bef7cb5f09471cf5307be8613":"§7Trail. §r",
+
+	"item_name.ad5ba68286fb276637402a00a5dbbaa9cffacff0":"§e§lElkurn֎À",
+	"item_lore.e3831561c66f010ec00474850ba4fa2604ba7798":"§7Despite its proximity to the portal, §r",
+	"item_lore.fe639fb6cb8731731d73094f4ba7a88761051978":"§7this quaint town has somehow managed §r",
+	"item_lore.38678c8aa240ef37962787b6671ca3958d7f281c":"§7to survive. It was once the §r",
+	"item_lore.ce3f1ddb452499962b1289a18e4b838eb9ad01dc":"§7home of a researcher who investigated §r",
+	"item_lore.c74f32f5278d440d52153a41c00735903607a0fc":"§7the phenomenon of corruption. §r",
+
+	"item_name.d1fa6d719b897d362f3e8a75878b8e225c4540ab":"§e§lSanctuary BridgeÀ",
+	"item_lore.176ebaf9e783d5a68652d6ed838cd0d4e8567519":"§7This magnificent bridge connects the mysterious §r",
+	"item_lore.851fba235786273b13ae2f00f67cc3bc1201f5ad":"§7ruins of Time Valley to the §r",
+	"item_lore.fc5d493350b01b1f4dd46c9de873cf00f99a3bbd":"§7frigid cold of the Nesaak Tundra. §r",
+	"item_lore.3b466327b8dd70b9a2c80fb9a70764ae6c2f40c2":"§7In the center lies a mysterious §r",
+	"item_lore.72f9c67da3212ed56782e93b566d30fbdb2cc5d0":"§7seal that no one has been §r",
+	"item_lore.d20ba27d2d05e899735b37c232847e33fa7ed44d":"§7able to open. §r",
+
+	"item_name.912d2850b4895e7496ed0ab0b1f23bc1057b6549":"§e§lTernaves֎À",
+	"item_lore.6eb07fb214ae0460171f1f3dcd0bd6cccdabaafd":"§7This small town has laid quietly §r",
+	"item_lore.c4600bd80f7e4f64025f72d7e21fc4eb4fe52e60":"§7near Detlas for decades. Nearby lies §r",
+	"item_lore.6702d2814759919ab9a225d334a70b6e32a920d2":"§7a massive prison that few draw §r",
+	"item_lore.e6eca46efaeb65148cbacd28ca6ce3e468caa5b1":"§7near. §r",
+
+	"item_name.cb6580e323352d820c5e70d75b823c36c0bc2ffa":"§f§lMaltic CoastÀ",
+
+	"item_name.b9c82072dfadd89632f659ec5d09804083b37b99":"§f§lRoad to Time ValleyÀ",
+
+	"item_name.b6649fd5471293ebb2ef749494c59de50d45b28c":"§f§lElkurn FieldsÀ",
+
+	"item_name.fa3523c0485db6f521a9036bd6664a95486fc21f":"§f§lDetlas Far SuburbsÀ",
+
+	"item_name.0676f7ab3673dc4cf7b236b3efc1522a2219f05d":"§f§lDetlas Close SuburbsÀ",
+
+	"item_name.a7c64ea758caa93c7c2c70cc5e284921f2386b33":"§f§lFarmers ValleyÀ",
+
+	"item_name.1a9d3163f69fc30730e2b80dd1f58bb1c4eb5d37":"§f§lDetlas Trail East PlainsÀ",
+
+	"item_name.99320cf7a71d542395a906bdbfff8b6ca62ea367":"§f§lDetlas Trail West PlainsÀ",
+
+	"item_name.0558578f14763eea64ca1e5617da9b90afb593c8":"§e§lPigmen\u0027s RavineÀ",
+	"item_lore.d0b3882ea3695ec0f43f4b910535fcb15a3cff07":"§7This massive, maze-like ravine is home §r",
+	"item_lore.44dc140d5964f485aa5154b3a237e774c8153400":"§7to the Pigmen, a species of §r",
+	"item_lore.c789d4511d7fc71683e701ef2b30aa9a781154d1":"§7half-pig, half-human abominations that feast on §r",
+	"item_lore.28f4c7db1cc57bc225a6d675eec683dd5fcaaf7c":"§7any weak adventurer who happens to §r",
+	"item_lore.dff5454d84b541b4e32ecad1d4c4e4beee9285ae":"§7stumble inside. §r",
+
+	"item_name.6924d5befdb7f4164358cf6a19fd797bb679bb01":"§e§lTime Valley֎À",
+	"item_lore.7c68481152bdad122b2a564c21b424a46ba23b7d":"§7The ruins here have been present §r",
+	"item_lore.263e26aa68692ba4295c9979603189daa3dbe8ba":"§7longer than the portal. Only one §r",
+	"item_lore.2eb98a6de15d61181986ce18a60b70a8e9c39387":"§7person alive today understands this strange §r",
+	"item_lore.0c2fa793ce31d5d2168781b6ab08a255a10eeb3b":"§7place. Time acts strangely here and §r",
+	"item_lore.c1cd94361c770764c0ea1e1da8b02f8b575f5877":"§7it\u0027s apparent that whoever made them §r",
+	"item_lore.9b9dd934c83cd2afca65fdb37faad5c750dd892e":"§7were not human. §r",
+
+	"item_name.1f10a3285acafdac4b875af456055ce4860ea6c8":"§e§lBear ZooÀ",
+	"item_lore.2860d40f845ab3d8d921cbe97adb211f2598bf00":"§7This strange island is home to §r",
+	"item_lore.3afec233309f79384c61443b345647cd5aa5ed50":"§7the province\u0027s one and only zoo. §r",
+	"item_lore.ad2522b7f00832781cd32fa645b073c2b2a63a4a":"§7The owner thought out in the §r",
+	"item_lore.216de4f25fb550f51c32351ffb124f1c5226ea49":"§7ocean the creatures would be safe §r",
+	"item_lore.2ea583775e67f01d60b60b9112711a1fcce9270d":"§7from the corruption, but the zoo §r",
+	"item_lore.f090297e8da1f043cdaa7ff3529db67c5316262f":"§7doesn\u0027t get many visitors. §r",
+
+	"item_name.e282a838fef963bdffc641f3cf09fc2e617b38ce":"§f§lPigmen Ravines EntranceÀ",
+
+	"item_name.985466d65a7972c11763bf911595602bda89bd01":"§f§lSouth Pigmen RavinesÀ",
+
+	"item_name.b66cb84b17d5a5bf2f3dcea32e3f1b9054b6c60a":"§f§lTernaves Plains UpperÀ",
+
+	"item_name.821526476ce6c6d558304e23e4e96bd63943ca16":"§f§lTernaves Plains LowerÀ",
+	"chat.0ef7cab678955336a270734553fa25482fa0da51":"                           §7[Area Discovered]§r",
+	"chat.59cf00606ad59f4cb9d3d1275713c5651c6b2dc4":"                         Ternaves Plains Lower",
+
+	"item_name.45cfd93d33ca0ddcc4e68b5c09ff8759913b3e3e":"§e§lRooster Island֎À",
+	"item_lore.8bd6bfbbaf0deb453d09353d310f6c460372da85":"§7This egg-shaped island is home to §r",
+	"item_lore.5ee50c6071074452c546d4338e535926f4c064bb":"§7a single resident, a featherbrained villager §r",
+	"item_lore.428c2d02bf02bfd15ba9a2f52d2e8aecabfc3033":"§7hermit obsessed over chickens. Rumor has §r",
+	"item_lore.3cea047718c31bfb1f7121b11cec568d3db091fc":"§7it that Bob has visited the §r",
+	"item_lore.051824944bef7476537f66ed09f57b7082f6fd10":"§7island for some reason. §r",
+
+	"item_name.0149a0651d86ede33cfd072ef6f110e9fbf26c0c":"§e§lNemractÀ",
+	"item_lore.96a97b51f7b7ff49e63320d898f1fec374f82ff1":"§7Nemract is an under-defended, rough, seafaring §r",
+	"item_lore.1a4d14d1058f3c38b03e71981a8df0cf9cd36b40":"§7city. The people here have endured §r",
+	"item_lore.fdeb795a73f43e835f4a3053871784dd49b32d3b":"§7a lot of suffering - and §r",
+	"item_lore.04ae63e4e45ed8d7759edc01c4f1e0dbf1021931":"§7that has made them hardy. §r",
+
+	"item_name.1961ebf255307273d2c02a24653babf4feec01b6":"§e§lAncient Nemract֎À",
+	"item_lore.dcb1a46c8519e59c7b13c0f71693939c1fa7295e":"§7Hundreds of years ago, the original §r",
+	"item_lore.cd5d53165682818354135b4b115c52ebfe38be72":"§7stone city of Nemract was ravaged §r",
+	"item_lore.ff328f9bf1df099f885874da4871c966293923a8":"§7by a swarm of the undead. §r",
+	"item_lore.29db79e5a356ec59a484904d486b2399ed19d96b":"§7Now it is only inhabited by §r",
+	"item_lore.b667cde59f7537777fbebfbba4ad2a998aa87f08":"§7the corpses of those who died §r",
+	"item_lore.a7f4f49ec1b4fd2068173f44f6868b8fbce84444":"§7that day. §r",
+
+	"item_name.54e1b4018bc803fec902079a59bde42902b9e16b":"§e§lSavannahÀ",
+	"item_lore.ea011cee6e43c754d0a8882298b811159e7e7b43":"§7Wild ocelots inhabit this mostly-barren savannah, §r",
+	"item_lore.088c4a0be5fdee9f266478aacafe62bfcc78e340":"§7which leads to the Almuj desert. §r",
+	"item_lore.2b5b7cdfc9dbe45c3c4fa0181003ceaac48c79cb":"§7There is a town on the §r",
+	"item_lore.50b9d8938e2562888f153d2d563a7afdb0d43b62":"§7edge of the mountains, though few §r",
+	"item_lore.f07613d342857bd66699a2537be9443238e0b329":"§7visit it. §r",
+
+	"item_name.1eebd658ccfb5f5012be5f68681ca5dac49d8657":"§e§lBremminglar֎À",
+	"item_lore.a36a4eb445d91e15ba39165e143d75db6e31dd93":"§7Not many travel to this little §r",
+	"item_lore.67b1ccb3f5a96dded29c4e989b74b2615c234121":"§7tribal village in the savannah, but §r",
+	"item_lore.530369bbe9d3afcd75693821341e9f056662e2c5":"§7it is said to be the §r",
+	"item_lore.42a1f4ebd6763a2fb89e394b4d863bf96578567f":"§7home of a powerful sorcerer. §r",
+
+	"item_name.9251e9f46661437ae2d683d0f6cafb098a749e21":"§e§lAbandoned MinesÀ",
+	"item_lore.0cbbd8e34c76c4563bbaf8ec93a18f464049c2a9":"§7Despite mining opening up the infamous §r",
+	"item_lore.1c12c085e7ad992cafe1128d37382c8993d0d985":"§7portal, it did not stop. Some §r",
+	"item_lore.3cd860e5099d01c34c3b4dee18c93635adf4e682":"§7speculate that these mines are hiding §r",
+	"item_lore.5a6c2fdc51b1314f2d25d107265d7b0bcf641009":"§7an even greater danger... §r",
+
+	"item_name.c864fba804f705ec8d5ac3dafde245950fcea631":"§f§lMt. WynnÀ",
+
+	"item_name.3e54dd639fdbcdf88a7838d89d76f3a20e11e0f5":"§f§lPlains CoastÀ",
+
+	"item_name.cebdc4bb7fbd45377a33edde5a151b539117d5bb":"§f§lNemract RoadÀ",
+
+	"item_name.ebdb1ccd861db157a9a92fc6b09e96db30b17dfe":"§f§lNemract Plains WestÀ",
+
+	"item_name.a78c3ef5824ac234c62be8a438ae0974d85b4ab8":"§f§lNemract Plains EastÀ",
+
+	"item_name.c999a0a709454d9f77a034821ec978211e5b24a7":"§f§lNemract CathedralÀ",
+
+	"item_name.fdc87d61f885b9476dd47583f64838ad6998ce52":"§f§lCathedral HarbourÀ",
+
+	"item_name.aba0cb06e95eb759443856911c81106b8ce23940":"§f§lNether Plains LowerÀ",
+
+	"item_name.b475fb34906095d00a337be9a6bd1b6de6ace594":"§f§lNether Plains UpperÀ",
+
+	"item_name.ec0c6082b505575f877ea596a4050d3668f6018d":"§e§lSelchar֎À",
+	"item_lore.636e5086333c0a50a0ac71d97992f9bc06602635":"§7Founded in 970AP after the waves §r",
+	"item_lore.5a611cde40b1555c75c9c67457cd9de8707e0041":"§7calmed, this city became the bridge §r",
+	"item_lore.4bd4f2e6561e61ebb4d7c77bc69c51fc107eae5e":"§7between Gavel and Wynn. It flourishes §r",
+	"item_lore.5cbfe165321c6dfb2e5131a255c3fba386e57ca6":"§7in trade and enjoys a safe §r",
+	"item_lore.580d2f27474e768d284d99bf81b55fe4edb56192":"§7haven from the dangers of both §r",
+	"item_lore.d008f331f264e92b5ed11c971f7151ce92699bb1":"§7provinces. §r",
+
+	"item_name.6a4d63f5bc8da1d74fc7a08a8c747478c5908d3d":"§e§lSeavale ReefÀ",
+	"item_lore.71490adef8c9f21313349790453c1b70588e4db2":"§7Ocean currents flow and intertwine to §r",
+	"item_lore.0bbda25ae0e73c34c5792a4245567f78df58ee70":"§7form these renowned reefs, bursting with §r",
+	"item_lore.b39a2d4eca325315e3b84d0fcc4905992f6a33ec":"§7life. Tourists frequently dive and discover §r",
+	"item_lore.1976e4158ae8bf531d3c06df1c60d354c076675a":"§7lost treasure, dropped from merchant ships §r",
+	"item_lore.63c639fc7fb1aeedbce1406428e93aba63d57ff0":"§7and carried by the currents. §r",
+
+	"item_name.7fc8ba4e34995af849135d5937490ee920b099f6":"§e§lRoots of CorruptionÀ",
+	"item_lore.8c39fafb485c2b8c8741f785d83fbdaa45a794b7":"§7A thousand years ago, a group §r",
+	"item_lore.6ea176009ac90ff9b13e264d613f148c92e6e874":"§7of emerald miners unearthed a mysterious §r",
+	"item_lore.dfe9627fb53893abcec268815609c42c2ac3d40c":"§7portal. Unknowingly, they doomed the province §r",
+	"item_lore.920f29dfc17104c1b856cedfee1c2124cffa2cb9":"§7to centuries of war against the §r",
+	"item_lore.56f32d673438af2ca5f978370ff664886fadfdd2":"§7mysterious force known as corruption. §r",
+
+	"item_name.bf9023ca18e9d2d8c99efaba39c077620ebca472":"§e§lPirate's BayÀ",
+	"item_lore.bbf176455fa26f1f91d6e9cc1fcdfdc037b2e7a4":"§7A massive pirate ship crashed here §r",
+	"item_lore.ea8c58039487b66ebca3319630af25838cd1fbda":"§7with such severity, the hull was §r",
+	"item_lore.f46d7735682af4a19d07ff464c3f840f56cc94fa":"§7moulded into the cliffside. Some say §r",
+	"item_lore.e33b8e62900afc29360a0929990745e6113baffa":"§7that there is still treasure hidden §r",
+	"item_lore.fb8300845f3e079d25ae51cfbb5c7b41f8e73206":"§7inside. §r",
+
+	"item_name.043b7f4d9f8eee8ce5bac6249cb76db881b41350":"§f§lSavannah East LowerÀ",
+
+	"item_name.edcdefdcc3e2639cfcb51fd757f2883232030d71":"§f§lSavannah East UpperÀ",
+
+	"item_name.77aef74423618d0375df3f7b264228cd7a920200":"§f§lSavannah West LowerÀ",
+
+	"item_name.7c94ae2734d4e723346596acbc04338dd17d49f5":"§f§lSavannah West UpperÀ",
+
+	"item_name.49c63b8bf91ec63efcad626c88ef5aa0f57a4b3b":"§f§lLion LairÀ",
+
+	"item_name.a4d1418e0ae8b3d2e2bd45fb9ca1fbf6c5754eaf":"§f§lMining Base UpperÀ",
+
+	"item_name.df6421532311127e90f154579403668b506ff33c":"§f§lMining Base LowerÀ",
+
+	"item_name.b7cc2558f2eed148a9509d3067754b886908d4ae":"§f§lAngry VillageÀ",
+
+	"item_name.d0b1f824450fbaa5c310b8156ccbaa6d2dc2ad34":"§f§lPlains LakeÀ",
+
+	"item_name.0c64e3b938b4f6bb7a3bf593373024efa820a73e":"§f§lMine Base PlainsÀ",
+
+	"item_name.fe67f02431ddd033122986d0e882ca821a58f782":"§e§lAlmujÀ",
+	"item_lore.c2af409b508d13216c8ddea81ff98294ad3224e1":"§7Even in the harsh desert, people §r",
+	"item_lore.83cecda7fa21d2fbb482750fe12f7747414145ac":"§7have found a way to survive. §r",
+	"item_lore.7be35c58f1dad1d0794356480ea74808f7bfd3eb":"§7The massive city of Almuj uses §r",
+	"item_lore.794cab17dc3852cef4741116719828b08970aa1c":"§7the nearby water sources to keep §r",
+	"item_lore.4990f605c74a3e4388364690f6d48c67dc5e7556":"§7its city a thriving oasis. §r",
+
+	"item_name.dbc039c95e6c1a5e4bacd6ab06e1efe62cbd57a0":"§e§lAlmuj Great RiverÀ",
+	"item_lore.00746c07b2241392104f6ed1d55ae32110494478":"§7Despite its barren surroundings, this river §r",
+	"item_lore.762574ba9e866cda2683df163aa79f2fe283ab40":"§7has sprouted various plant life. It §r",
+	"item_lore.0ff56045c4fd430733b87d22f5895d1f5f92abfa":"§7flows straight into the Rymek Canyon. §r",
+
+	"item_name.75633ee8038f101212682c1a46b5599033ce9f04":"§e§lWynnExcavation Site AÀ",
+	"item_lore.3d78207bbca9649697e1805ab40d9be411333712":"§7WynnExcavation is a Gavel-owned company dedicated §r",
+	"item_lore.4a95462243c36a84bb64d8bac85329a96679265e":"§7to uncovering the history of the §r",
+	"item_lore.8607c3fe5029a3bc4d271d46859c061478269130":"§7Wynn Province. Here, they've uncovered an §r",
+	"item_lore.8b29a070beec2d29b837ce374bf7c669483096d4":"§7ancient tomb from a lost empire. §r",
+
+	"item_name.696127005acc27546342386c781a3217bc098413":"§e§lMage Island֎À",
+	"item_lore.29a1099adb18cc552db2696e9762675a52107559":"§7Home to the reclusive mages responsible §r",
+	"item_lore.0c38471be9c0b73d04d04c7a518a6fa595515078":"§7for calming the waves, the people §r",
+	"item_lore.3252f75ab67c14557a2330de95ab280c95dec303":"§7on this island continue to study §r",
+	"item_lore.ee560f92888a983aa207287c694dde414698db2b":"§7magic and advance their capabilities beyond §r",
+	"item_lore.6e4e03985c6808d0f6d973b0084717c33b6b38b6":"§7any other. §r",
+
+	"item_name.323e4a2aa5e6affe4c8d6f7b95535f0b137e20f6":"§f§lDesert East LowerÀ",
+
+	"item_name.89a22b49b040e2228aa8f27de5a8f1c6d4d584e1":"§f§lDesert UpperÀ",
+
+	"item_name.6e1fe70b71d34a85f675fea6b42e1ae5c7888796":"§f§lDesert Mid-UpperÀ",
+
+	"item_name.9999ba1c6eb822df53cbb388f1fef90270aa0c16":"§f§lDesert Mid-LowerÀ",
+
+	"item_name.0e1c1c5220dc34df347de017e81e2e6dacfdd24c":"§f§lDesert LowerÀ",
+
+	"item_name.ec109908a9e20f1f8e4893b3b6f8d9e857e00827":"§f§lDesert West UpperÀ",
+
+	"item_name.e05459e04c2b17e0de6a64bc72d3cea1a61a97d3":"§f§lDesert West LowerÀ",
+
+	"item_name.bf5392165d24a6326386da890b9bc185ffe2bfe2":"§e§lRymekÀ",
+	"item_lore.1b9a217bcc82bec74152a6b04312f4c951b5ee31":"§7The town of Rymek was founded §r",
+	"item_lore.de53b695a03fc815e5cd0589a8cb5f8b0af13ac3":"§7by the Creden Tibus bandit group. §r",
+	"item_lore.c6d9f108b3bbd817e753c543cf7f7cc771275569":"§7They only deal exchanges through a §r",
+	"item_lore.450cc1b546454352cbaf9614e0b2ccf82ab8b3f2":"§7special currency. §r",
+
+	"item_name.62ff3eb261024663f67c964e6b1475477cdb8f35":"§e§lEagle TribeÀ",
+	"item_lore.6c98c9f01107b3f10dfee86531163eb8e13a3c2f":"§7The Eagle Tribe is one of §r",
+	"item_lore.f1db58eac1835b1ff2390eab399f52640e97e600":"§7the two native tribes of the §r",
+	"item_lore.ce02663e38b003a9b2f1988de74ef37b024a60f0":"§7Rymek Canyon. They have been at §r",
+	"item_lore.ac6e5da69a66f0d8531b2f18da07772445021415":"§7war with the Owl Tribe for §r",
+	"item_lore.135646cd3ff87c8d4ac63aad622012a0c8dc2279":"§7years. §r",
+
+	"item_name.71663a56a62a2afd2650ede732a5a83fcbdd0d3f":"§f§lRymek East LowerÀ",
+
+	"item_name.85a79f05368141d6537e34622d70fef2a9dedca7":"§f§lRymek East MidÀ",
+
+	"item_name.0684863ac38026e9e3a453ee6e0fee5973b1421e":"§f§lRymek East UpperÀ",
+
+	"item_name.f0684ec7c72fc2bb0fc73e1a766df26e6d7db16d":"§f§lRymek West LowerÀ",
+
+	"item_name.f434e59ce319f9d6818cf1e06a07996929a819bf":"§f§lRymek West MidÀ",
+
+	"item_name.3c207d576e573753de20af648c487c20fda0cb9e":"§f§lRymek West UpperÀ",
+
+	"item_name.76272c52b3e3fe7cb682daa5273ac48a9dfad018":"§f§lAbandoned PassÀ",
+
+	"item_name.33ea0d7d7e74ccd2be30ff3eaf281a36bf821f97":"§e§lNesaakÀ",
+	"item_lore.ad3d3e6c5b56bb90989e25884d9ba53b441e0ca2":"§7In the center of the unnaturally §r",
+	"item_lore.49a11c72bb0f2ee8e067504075384ee14bdd496e":"§7frozen forest lies the small village §r",
+	"item_lore.d9f64a78367273e703bab81c1a177db06fd89510":"§7of Nesaak. Their main source of §r",
+	"item_lore.0d632ed03a63be1e9b57d355f52e22b074368d94":"§7food is ice fishing. §r",
+
+	"item_name.bac6673013816625dfcefcb055fcf8dae4216f2c":"§e§lBob's Tomb֎À",
+	"item_lore.a7477085d413fc7c0ad3d481fb391987be5a5cf2":"§7A year after Bobs disappearance, a §r",
+	"item_lore.4101334e65236e18e7f02783183dd87111db2f1a":"§7tomb pertaining to the resting place §r",
+	"item_lore.ebf198c7bf139b03fb43de68b27594d28badbdc9":"§7of Bob, was found in 985 §r",
+	"item_lore.2777243fb12f2466d292099ab9985d3ce1f2bf66":"§7AP. §r",
+
+	"item_name.3f75448db7ff6f4f62e3a914f417a177e459193d":"§e§lGavel GateÀ",
+	"item_lore.f025862bb56be539692bd0e379f9b04d6c9ce55d":"§7This massive doorway serves as the §r",
+	"item_lore.67d3f21a5c972810d07a1d103365021bf4725827":"§7main entrance to the province of §r",
+	"item_lore.8abb8f994da6dbcde51ca1ea71144064899e8693":"§7Gavel. Through it lies the imperial §r",
+	"item_lore.8beb252426ae2b1a8d43b814bd66cdd098986ec3":"§7quartz city of Llevigar. §r",
+
+	"item_name.9b67a9f5e3d3d0d5cd0cf6a66614074b96ee56c2":"§e§lLlevigarÀ",
+	"item_lore.46cb6c0dbc284b5581035fd789a065a8d62c9b85":"§7The city of Llevigar is the §r",
+	"item_lore.1e893f3ed00e49445085a4cb49931439b220e76e":"§7first sight adventurers see in Gavel. §r",
+	"item_lore.082de97d069161bf69cb26a0c3b7be09b82528bb":"§7It was built using quartz mined §r",
+	"item_lore.83b303786d5fc60423eafb14195ec464948dc575":"§7from the nearby Karoc Quarry. It §r",
+	"item_lore.a22f4461f588e7e1fae6b4235f80877ff70abf4a":"§7is the most advanced city in §r",
+	"item_lore.7abb0673da97cab078147a999c96e5998a1d2486":"§7Gavel. §r",
+
+	"item_name.125bde00c40ed0f1ef3e397b746c45242b8282dc":"§f§lNesaak Plains South EastÀ",
+
+	"item_name.03edb9abc2a656932d67fefb8d7e6aa7a066f028":"§f§lNesaak Plains South WestÀ",
+
+	"item_name.1caa51219c6c36601bf8affe6756d3f96fec0ac9":"§f§lNesaak Plains North EastÀ",
+
+	"item_name.9d2ea9841ed483f864fc664252e0ffe8816d30db":"§f§lNesaak Plains Lower North WestÀ",
+
+	"item_name.9eb171ca4243dc2e29b720a21cc96876947d3618":"§f§lNesaak Plains Upper North WestÀ",
+
+	"item_name.9ae74f789572db730cfec6123f60faada9908283":"§f§lNesaak Bridge TransitionÀ",
+
+	"item_name.7fdf8707a8efc659c70923b859429216ef4493ca":"§f§lNesaak TransitionÀ",
+
+	"item_name.fc661f7085cf49d93f6179915f8f7f05e4c7ed53":"§f§lLlevigar EntranceÀ",
+
+	"item_name.d1654bbc14d630136d0cd64dea2f9cda0e21ae04":"§f§lLlevigar Gate EastÀ",
+
+	"item_name.b20fbb04d15fded2d5758e39564506a0d6fdb1a6":"§f§lLlevigar Gate WestÀ",
+
+	"item_name.3ba8cb85c7eafb60edaefd7a1881a333e169ea52":"§f§lLlevigar Farm Plains EastÀ",
+
+	"item_name.f9b28da9fd011814168384acf85b7471322c97ba":"§f§lLlevigar Farm Plains WestÀ",
+
+	"item_name.f8f1e0216c2895eb67b4825dc3f03615faa72a5c":"§f§lLlevigar Plains East LowerÀ",
+
+	"item_name.55d4027d6fbc2da90c8174f2555c95094a9999f2":"§f§lLlevigar Plains West LowerÀ",
+
+	"item_name.35efe6150826b4aff05fd42294d491a6414be2b4":"§f§lLlevigar Plains West UpperÀ",
+
+	"item_name.82b3f4d9319a766eb801dbccbfccd2c9c47279a8":"§f§lLlevigar Plains East UpperÀ",
+
+	"item_name.0670f8adb600b565671d155dbf4a19c5d8982f1c":"§f§lGreen CampÀ",
+
+	"item_name.b545228e879b4dc2528dcbcde295c04f6d2c57eb":"§f§lOrc LakeÀ",
+
+	"item_name.5cd8048c209424219822f41ec4c709952af24952":"§f§lOrc RoadÀ",
+
+	"item_name.652cddf59a9b79ec2d8bc72f8360b021ed579756":"§f§lMeteor CraterÀ",
+
+	"item_name.c4d1fc6b347e7d2daee5f21d47a9cace96cecf62":"§f§lBlack CampÀ",
+
+	"item_name.9d734697d97a375440365fd6479aa1a5423f5565":"§f§lRed CampÀ",
+
+	"item_name.e3d4ec1231b3dfb9d7dd5c84720b546ed606ab6c":"§f§lBucie North WestÀ",
+
+	"item_name.735cdcc04fc15fa9fb2378e578d351f2af2b10f1":"§f§lBucie South WestÀ",
+
+	"item_name.0df18d7d25874db84eaa92287020ccf0a3ff2255":"§f§lLlevigar FarmÀ",
+
+	"item_name.b63e9cba894643aa85642ee735e314ee7439f1bf":"§f§lBucie North EastÀ",
+
+	"item_name.64cfa927e84cb6b987e2919c5337eb6842908a2a":"§f§lBucie South EastÀ",
+
+	"item_name.a718d1c28c0c6fb8267c43881726cb98e670c5b2":"§e§lLusucoÀ",
+	"item_lore.6847d6ffebd4ed6d0dbbc9312fe3d3e007204ea0":"§7In even the harshest of cold, §r",
+	"item_lore.eabcf5b734c800291c03fcebf50ae154521bbe1f":"§7the people of Lusuco have stayed §r",
+	"item_lore.ec9ba6fd083627eaf125292d6cded90de5f7d56f":"§7put and continued living here. §r",
+
+	"item_name.e43e5032ff259a8553af1d04a0beaf904fa3ec50":"§e§lTower of AscensionÀ",
+	"item_lore.77f97e0bdf1dcb3ba2a0a338e8089f5b3c56a29b":"§7The tallest tower in the province, §r",
+	"item_lore.cbda5224919764ed6a1e59fd7204bea4b052c671":"§7the Tower of Ascension provides a §r",
+	"item_lore.1fd338c75fdf32adccec6bf1ce6053ad3cde49ee":"§7challenge so daunting that it has §r",
+	"item_lore.7855f2d053cf8bc8f91d1244d1dea23b71acbab6":"§7brought down even the strongest of §r",
+	"item_lore.3b4270054c120c5df9a7c0a558588bd9a3f27f31":"§7warriors. §r",
+
+	"item_name.a8e60d8b6ce25c66178255bea0f573326d2e3770":"§e§lNorth LusucoÀ",
+	"item_lore.eff7358599a9d10684b0d30ec6a5050ec284fe73":"§7High up in the mountains, this §r",
+	"item_lore.aa08bb2ff6a71a6742c16d20918529d7a1517e50":"§7area serves as the site of §r",
+	"item_lore.2454b8cca68f3774494170b80842cf78f640285c":"§7Lusuco's annual Wynnter Fair. §r",
+
+	"item_name.825e0845c7bf126df161cc1a911b35d83e4cbc5d":"§e§lBucieÀ",
+	"item_lore.5c550ffdc84ad14fdb33b3f9e149cd4e9f1d3b99":"§7The small village of Bucie is §r",
+	"item_lore.65c0327a05a94c1c15bf84d239a6f843f6da65dc":"§7home to many farmers, who produce §r",
+	"item_lore.75044b7a23c26a941ba6b6120aa206fdfdcbcba1":"§7the crops for the nearby cities §r",
+	"item_lore.757ae15dfc78bf113e46bdc450c80ed9612b1579":"§7of Llevigar and Olux. §r",
+
+	"item_name.f1576d700e4f18aa3ee3414d6bc532d4317c0352":"§e§lKaroc QuarryÀ",
+	"item_lore.ad5db2391fe73ea2de0f898fdaa8ccb97b173d74":"§7Karoc Quarry mines out massive amounts §r",
+	"item_lore.2462c59f8808084d87f06aa4f61745a93f0cb504":"§7of quartz each day, mostly used §r",
+	"item_lore.22857b97dc5fa7f91912476014955e4d6ea4edd5":"§7for construction purposes. But lately, shipments §r",
+	"item_lore.2af0c7a3282c3754cd952a372b128668dcd85ebe":"§7have been going missing... §r",
+
+	"item_name.4d7b7e8b71c19ee5b5bc258cd8b2dad5f1033649":"§e§lRiver SageÀ",
+	"item_lore.61de334921a6a39ca40c2b11dd348dd68c705b53":"§7This is the widest river in §r",
+	"item_lore.74521ebdc6c015c1a4b5d1b146df191f0708da3e":"§7Gavel, and stretches so long that §r",
+	"item_lore.7bcb60513d40855a4594e19be6061a445833cfbb":"§7it divides the plains in two. §r",
+
+	"item_name.c43cc5439f308d292f6f7135813da512a5a8539d":"§f§lQuartz Mines South WestÀ",
+
+	"item_name.cb1492a544652b05178b19e0fb6c11ada6e996b1":"§f§lQuartz Mines South EastÀ",
+
+	"item_name.e7ef64c78119edee4e75b3c38dcb3cf5d1d2dea3":"§f§lQuartz Mines North WestÀ",
+
+	"item_name.83166b904e25ffe2a2f2683a1c663346f1c11217":"§f§lQuartz Mines North EastÀ",
+
+	"item_name.da3abd84df5b5658ea72d8f13240cf018b907f24":"§f§lPre-Light Forest TransitionÀ",
+
+	"item_name.53c5ecbcfbc00406a1d5644629b0d0f81c36122d":"§f§lIcy DescentÀ",
+
+	"item_name.7daad6dea923aa0f127b42d06588ea1f21fb0090":"§e§lThe Great BridgeÀ",
+	"item_lore.0c74a673e634ee2cb1218caca9e552c4196ce505":"§7RUN. §r",
+
+	"item_name.62a2c3ec3f69b53b399c184c983cd630ff5f85b3":"§e§lIboju VillageÀ",
+	"item_lore.717d36126b86fea000568a47fb4fea836c8b9baa":"§7The village of the native tribe §r",
+	"item_lore.b4e7006db5274b09e24022c5c0b19d8e6522ca57":"§7of the jungle, the people here §r",
+	"item_lore.a9c6c1fccb5605430faf449dd9e17f58b495bfd2":"§7have lived peacefully alongside the people §r",
+	"item_lore.b46444d50f404c950714b2ada56bbc1f846cfe3e":"§7of Troms for years. §r",
+
+	"item_name.5c5cc0e2bffddcc07a5c9d6e20b86d05777bb5dd":"§e§lOlux֎À",
+	"item_lore.05cfaa4978cd24f94080fa65f41442135827ff41":"§7Olux is a poor town, one §r",
+	"item_lore.0a11968914ae00074d216ddf0360aaab924dce10":"§7that has suffered the effects of §r",
+	"item_lore.6589e7ee495dbb0dd30aec076bfa90cb81af5cab":"§7the Decay, a force that has §r",
+	"item_lore.1e186baa1856cd753b2721d7fc324ee47917f4a7":"§7caused all of north-western Gavel to §r",
+	"item_lore.be7b8dfddd90b266260649c56e6d013c91ffab8a":"§7begin to wither. §r",
+
+	"item_name.1264775c6110d173354171f4dc72c2285e22c730":"§e§lWorm HolesÀ",
+	"item_lore.fcaa4d2b6354f243a410a7e97f442fd3568ea345":"§7These massive holes have recently begun §r",
+	"item_lore.5c653e32fe622cbefd43426acbde45028dcf12a2":"§7appearing all around the swamp, creating §r",
+	"item_lore.0f6b66f56a3817f21409777812c7a121b84277e8":"§7a massive tunnel network underground. §r",
+
+	"item_name.1ca8ce45f7240dd3a23162d0fb3e2eaeb2bae1ac":"§e§lOlux Lumber YardÀ",
+	"item_lore.75a9693a0b79cc1fd92480cd53292395c6774e30":"§7Once used for repairs for Olux's §r",
+	"item_lore.f1a9776c19721c48d08d07082f93351f5900b2a6":"§7massive wall, the lumber yard has §r",
+	"item_lore.670a828d390600039654da45b67dcfce95fbd1da":"§7become useless after the Decay began §r",
+	"item_lore.863105328aa2384a867c6df53a03b26de003c158":"§7to make the trees rot and §r",
+	"item_lore.c4e8efdd71098b4520813526440b242adc3db430":"§7die. §r",
+
+	"item_name.f5710b547d3b9ac18915640606306f899dfa296b":"§e§lQuartz MansionÀ",
+	"item_lore.c3d91735e1ddfc822ed9f91adfc7f280bd2ed426":"§7A group of bandits who have §r",
+	"item_lore.d0669a4b1233d91b6ad462b5f102fd58eac8a15c":"§7been stealing quartz shipments hide out §r",
+	"item_lore.7346939d398bf84455e6c9a80c272698fd454b1b":"§7in this mansion. However, no one §r",
+	"item_lore.82c6456bd141f6b5ac3b0b32872b1f521b4014f9":"§7knows what they're using it for. §r",
+
+	"item_name.a05a4e1edd8e63ce71c3689a811014b41880703c":"§f§lGreat Bridge NesaakÀ",
+
+	"item_name.7cfa17ab1c32537f5918f73599451863a7ae6f03":"§f§lGreat Bridge JungleÀ",
+
+	"item_name.f2dcfc0681bba303546567e0734f6f657ff2b33f":"§f§lJungle LowerÀ",
+
+	"item_name.f3c5f428b0e1e1733994bda09868f30ebdeb7816":"§f§lJungle MidÀ",
+
+	"item_name.5542d06b0854f95c057fdc981e56aac0654979c7":"§f§lJungle UpperÀ",
+
+	"item_name.1e5ae5c8f22c5be6d57eb1d046e0312d524c14d0":"§f§lJungle LakeÀ",
+
+	"item_name.14b949a925e04fe647e7ff637c8aa57c47741228":"§f§lSwamp East LowerÀ",
+
+	"item_name.86e7af239210210424093f446f699d07426728b7":"§f§lSwamp West LowerÀ",
+
+	"item_name.20bfe3b35bc7be58f5352b1509a814ba4e70e1cd":"§f§lSwamp West MidÀ",
+
+	"item_name.223ae3030e8e93adface0a12d2caedb3c4eab1de":"§f§lSwamp East MidÀ",
+
+	"item_name.6e1880d3dda27d34bef87cf03bdb0872b6025f0c":"§f§lSwamp East Mid-UpperÀ",
+
+	"item_name.13db0762969718605c841237ee74dea22ff99d86":"§f§lSwamp West Mid-UpperÀ",
+
+	"item_name.28fe1a39805ec8d541ba92f820cacfadcb2de94e":"§f§lSwamp East UpperÀ",
+
+	"item_name.a657e56ee1077451dc188b69dc4b2b17dfbb0241":"§f§lSwamp West UpperÀ",
+
+	"item_name.22a60b5a85485f3f216ad1d5c5c3ee36d7b3cf70":"§f§lSwamp LowerÀ",
+
+	"item_name.53344d64809e187ea73ed10b9791500b02a26277":"§f§lEntrance to OluxÀ",
+
+	"item_name.0e31defb4140616df9f8edf3130fc79f3dcb3b81":"§f§lSwamp Mountain BaseÀ",
+
+	"item_name.9f9dcce75cbeb57faef72e19760a98a28ddb4dc7":"§f§lSwamp Mountain Transition LowerÀ",
+
+	"item_name.ecb932ac0bce3b77447ddb6e101b137c09ee8db1":"§f§lSwamp Mountain Transition MidÀ",
+
+	"item_name.2c50b3b33830bc7e2ed2c926005b824642ca1595":"§f§lSwamp Mountain Transition Mid-UpperÀ",
+
+	"item_name.33dd4186197acb638d2aaaabfc958dbb1baeec0b":"§f§lSwamp Mountain Transition UpperÀ",
+
+	"item_name.64f59dcd0ce81036b8a2e76c9c78b6a43a167290":"§f§lHerb CaveÀ",
+
+	"item_name.545f277a5f290019edb3dfb948b6ebf90f5c5d0a":"§e§lSkiens Island֎À",
+	"item_lore.bd81f24c147fdf16b3480d604776f577d480bf0b":"§7Held down by a fanatical military §r",
+	"item_lore.1575e0205815eaf4fe12557b6e46d99058c75b83":"§7leader, their efforts prevented the colonization §r",
+	"item_lore.2c53b5fbe669889f4dbd7def7e5ccdb664e1d196":"§7of Selchar for years. Somehow, the §r",
+	"item_lore.c3a553e4ec79318a34804af35feaddcd8b9b8bf3":"§7symptoms of corruption have begun, despite §r",
+	"item_lore.c6707f63e5123423fdce23f6141b9881a3fd029a":"§7its position in the sea. §r",
+
+	"item_name.b6481d263788c20bbd50aa4a1d689a898e4162c7":"§e§lTromsÀ",
+	"item_lore.331ccda8cf7a756a24d9f06e572c33098cb26104":"§7This massive fortress has served as §r",
+	"item_lore.606918f467dffc2eecc4a31e74ae0c5c91b5d8fc":"§7a symbol of hope to the §r",
+	"item_lore.d71e6978b7243f73db1abc31ffc0a4af5329fdc0":"§7province throughout the war. Its army §r",
+	"item_lore.940ff930f8178af6b2ac8b62b84efc1cf1c7cdf6":"§7has helped keep the corruption at §r",
+	"item_lore.27e4b18ef1cb132bd4038393709ca6da59a4fc91":"§7bay for centuries. §r",
+
+	"item_name.dd81222b3ff04b676c4844395cba8e81f9dba0d8":"§e§lTroms CastleÀ",
+	"item_lore.d6c6c098125e08bdf2a04578c18df9ef28a4bb2e":"§7The royal family of Troms has §r",
+	"item_lore.04beec59eca188534516589fe91a3fce491b1842":"§7been the talk of the town §r",
+	"item_lore.6dc19d4b5973131a70585b4368ba376d3c0e047e":"§7lately. The king's son has gone §r",
+	"item_lore.f5842aaa33cae974e28e79d94d20d7b5df8da863":"§7missing, while the King himself remains §r",
+	"item_lore.42f8ef8a1ccb5a9b5920825a9ff8083d2f9974ac":"§7reclusive and paranoid... §r",
+
+	"item_name.5acf3d860e5d6fafa491450390754fb984a97afe":"§f§lSwamp Dark Forest Transition LowerÀ",
+
+	"item_name.aaf0cd79507f70d2697ebac7b0fadeabef417f30":"§f§lSwamp Dark Forest Transition MidÀ",
+
+	"item_name.3878d2e50be9585a5160404d9bb6f64811bf1170":"§f§lLost AtollÀ",
+
+	"item_name.246d7af956877220b547370b80f5f1a843897951":"§e§lPirate CoveÀ",
+	"item_lore.974f62f99b9e238b87a814f42f7a03b34dbe79b2":"§7Founded by the first seafarer Redbeard, §r",
+	"item_lore.612596876e848ad707ed00ed9e5d310e829bca32":"§7Pirate Cove is home to some §r",
+	"item_lore.b425cb7fb92c63269398ea37e5400c9c99ddc539":"§7of the most dangerous men in §r",
+	"item_lore.d25bca5a40826bb6a725a5668c96ca4a6249414b":"§7the ocean. They set up outposts §r",
+	"item_lore.7176d24d5f95559284384a9cec0b2c2836c3be21":"§7all around the island to seek §r",
+	"item_lore.7cabd131d6b7187173ba00bf2c1a8c9ef7ac238f":"§7out merchant ships to plunder. §r",
+
+	"item_name.f6364d395f8f3eb1b01cd966260aac4e07ccdd74":"§e§lMaro Peaks֎À",
+	"item_lore.4ed96bf3375ef801ade7c437de4c2ca3db4df5f5":"§7Proposals to colonise Maro Peaks have §r",
+	"item_lore.82615233d9027b55cf63b0da1e5f3e64a7755fb4":"§7long been brought up as it §r",
+	"item_lore.b5fd7f4d38e69d5872b6b10b7dd0dfc19e6199ab":"§7holds great defensive and industrial benefits, §r",
+	"item_lore.e2ebc7a551b98142e04d2709087a5ce4fb19ae37":"§7but the local animal population proves §r",
+	"item_lore.a988f431726cb12fe8246cf24efd912733bb6c58":"§7impossible to work with. It is §r",
+	"item_lore.a7c05a0ee6183367717637db43249a2ae043b1d3":"§7said Bob was the first man §r",
+	"item_lore.22eb58cce8c6e656bfee0c4a683c28fcf0f19989":"§7to climb to the peak. §r",
+
+	"item_name.3a20666080e83f6182149ff68c09ec6175f54094":"§e§lEntamis VillageÀ",
+	"item_lore.67b56e16c8dd5a491df2a23fd8ac441a6de2b667":"§7A native tribe of the Dernel §r",
+	"item_lore.2c48c38a1f116902d4cd20a72105d860abba143e":"§7Jungle resides here. Its people revere §r",
+	"item_lore.a449c60ccca51eeb876d091349193ad782cf5c59":"§7the tree in the village's center §r",
+	"item_lore.ada5d6248c627effca4c8fb53a7402052390c316":"§7as their guardian. §r",
+
+	"item_name.f0ac19e0ac0b6d085fbebcc88dced2f86912a7b5":"§e§lFountain of YouthÀ",
+	"item_lore.c3ac84d8429d959e3a3addc741284fb1bd2cb495":"§7It is said that each province §r",
+	"item_lore.116cce88a7967e7ce760d85a715fe4551111856c":"§7has a magical spring that grants §r",
+	"item_lore.7856a20715ad192b1a5913053ef87f27f9934152":"§7people eternal life. §r",
+
+	"item_name.b2b9d775a22b0038567b8a813d503d753ef19eaf":"§e§lDark Forest GateÀ",
+	"item_lore.c2c634a1e7e0ba888bfea1730854bfe16e6d687a":"§7Once a grand stone entryway to §r",
+	"item_lore.6fb8fd1e05f332d369254f796c80227aa47a39b6":"§7a brilliant forest, it has since §r",
+	"item_lore.0ec773cf05393c50ecf8b17bfa8538ad15c0e5f7":"§7fallen into disrepair since the emergence §r",
+	"item_lore.07e631ddceeeb1fb947ef3feaa064e8e0e110b67":"§7of the Decay. §r",
+
+	"item_name.615bdf23ab45df0b4798a3340aedd66244014640":"§f§lGelibordÀ",
+
+	"item_name.38db4001e989c393018286d3111cd463ab15750d":"§f§lGelibord Corrupted FarmÀ",
+
+	"item_name.6734135307dcacbcb4365294fc7ae3db5f6530f0":"§f§lTaproot DescentÀ",
+
+	"item_name.d9ee8b951d4865de29b77b64cba58a0f15be8dc6":"§f§lFortress NorthÀ",
+
+	"item_name.460570f482d96c3dc7bbe42ac982b749a2326a45":"§f§lFortress SouthÀ",
+
+	"item_name.f889048d2a23832eba9dc90cc29f679df241ff17":"§f§lTwisted HousingÀ",
+
+	"item_name.4856cbc704c45989305cf8cb5ccba0b4f78b19af":"§f§lDernal Jungle LowerÀ",
+
+	"item_name.efc194ca6b5d21d526c92b0ad994cdb50dfdbb7c":"§f§lDernal Jungle MidÀ",
+
+	"item_name.a7a8a7aec665c3d8c3e2fa1a05ee468dda402ec9":"§f§lDernal Jungle UpperÀ",
+
+	"item_name.2d54282d1effe824695d91943af5e59b9cf91609":"§f§lTwisted RidgeÀ",
+
+	"item_name.dc1982003c0b5930fac00714ffe80e2b32454a9c":"§e§lTribal SanctuaryÀ",
+	"item_lore.19a345a3d8eeedc9a9a6b2db91e0449bf7a98605":"§7This disused Iboju burial site seems §r",
+	"item_lore.a8938d4ea991a8c230dfa2255a76e2ef2ba6d3af":"§7to have been turned into a §r",
+	"item_lore.938465ddc01774d22c6d8e8b21608296e6a808d6":"§7camp for the risen tribal zombies. §r",
+	"item_lore.45ac7b39005ca16fd6ef03377214fea2928c2304":"§7Foreign chanting is a constant ambience §r",
+	"item_lore.66205c5a4f5ebac44bb5629adaa890331cf7fe9c":"§7here. §r",
+
+	"item_name.c60a3945f26f46a9e50790827cd7c79efe6a45b4":"§e§lDelnar ManorÀ",
+	"item_lore.5807e2dd04fdc3047bd5874012b39256cde5ef46":"§7A prestigious mansion that was once §r",
+	"item_lore.b9442ff3bfa507f11a0290d998ca42b9ff54166f":"§7owned by the Sodeta Guild. It §r",
+	"item_lore.ba061547f68f84e7f95df97204d92c29f024789c":"§7is said that the dangerous and §r",
+	"item_lore.13c51fc5f06a60e6522c06f8952a0995bf3bfc81":"§7powerful Abysso Galoshes were once sealed §r",
+	"item_lore.a500fa58b954d042133e485c6ec51d5ab86ae6a7":"§7away here. §r",
+
+	"item_name.512f3934dfe9f073e01b0c64fd0d3ad7de8eeee1":"§e§lGelibord֎À",
+	"item_lore.9f220833e97ae4cf2de4380cacdbadb5e4878ff8":"§7Despite the Decay, Gelibord has gotten §r",
+	"item_lore.444377bb5b3c35b70d526d21984f650f3b7c7b1a":"§7by. Due to its trade industry, §r",
+	"item_lore.219c6b1838f7a7405642c8893bc5b0a56f480912":"§7it's become a good stop for §r",
+	"item_lore.925b4671f6468005af44e1b4845ec29628a6e836":"§7adventurers on their quest through Gavel. §r",
+
+	"item_name.e8bb170757871eeba734b63cc5ffe43a01d2052b":"§e§lLeadin Orc FortÀ",
+	"item_lore.6e32a00db972ef4cdbf7402de0b908edfb3be58f":"§7The largest greenskin base in Gavel, §r",
+	"item_lore.27e5940f35c02b90093957766a3d606e98cb9af8":"§7the fortress has been overtaken by §r",
+	"item_lore.82e1e9161039050ab6465797d8368efae2950284":"§7Orcs under their leader, Gorgu. §r",
+
+	"item_name.88b0d73738877d493f758b96008ca0c74cc9af49":"§f§lLeadin FortressÀ",
+
+	"item_name.f5e964c029f442138dd57eab7f19d41dbe01673d":"§f§lRoad To Light ForestÀ",
+
+	"item_name.33e9dd949d10238e36de1ba8912e6c3e5e4d70d9":"§e§lChallenge of the BladesÀ",
+	"item_lore.1fc0375bf9cae92e0cdbd59705f9849a49c4f708":"§7Pure dark magic is all that §r",
+	"item_lore.a0e11ffe4676ec77f6214bcf1ddd06f49d8d634c":"§7exists in this magical trap, laid §r",
+	"item_lore.ca19723e3dfacb73b7d7d63e9b4f266943498108":"§7by a sadistic denizen from the §r",
+	"item_lore.752db7986e2cec00b73e1ff9d13971c83c94d85f":"§7Realm of Darkness. §r",
+
+	"item_name.9b56fbbf4e83a2e3dcd7c86c0422fbd423278360":"§e§lCaritat MansionÀ",
+	"item_lore.fb8ee55667d5875fa7940070e652c55ef8e8a6ef":"§7Once the home of the Caritat §r",
+	"item_lore.9b36ae0410d6b21e204586a3b3d48cd73df0b598":"§7family, the most wealthy and generous §r",
+	"item_lore.7b227b345d11e17cee8efdb30cb5ab42e103a6cf":"§7family in the forest, until one §r",
+	"item_lore.0c264bc99d9fbe74dc1c847d2ce185410fa6fa3d":"§7day they mysteriously vanished. §r",
+
+	"item_name.58716545176e08e20423b7998eb5f1e04819af39":"§e§lEfilimÀ",
+	"item_lore.aa03ce64eafea8a6698013fac0dc2c248b4abcca":"§7Unlike most towns in Gavel, Efilim §r",
+	"item_lore.c2460799337f805c5dfe449af42e1b1f7506b07a":"§7is home to multiple races. Elves §r",
+	"item_lore.f60f29ae85a1265539c4cbe8e1f190f7294fbe8a":"§7and villagers live together in harmony §r",
+
+	"item_name.2a4021991ffdf745ab3edee7c0b7527ece62d189":"§e§lLight Forest GateÀ",
+	"item_lore.7ce7f83ea1c106d2be9a4178bf6b82518a881d17":"§7This serves as the gateway to §r",
+	"item_lore.9c6d331fe66caf7720bd2207c6c1ca1fec3c097a":"§7the brilliant Light Forest. Unlike the §r",
+	"item_lore.2b0d3ea1ecc94843d92d218ac9fe182e1b17ae31":"§7Dark Forest, this area hasn't been §r",
+	"item_lore.368128036555ce5d6065f2e5b4ac329c8cfd6a8b":"§7afflicted by the Decay, and remains §r",
+	"item_lore.8915b46a85590b6653b491336034bc159829c227":"§7as beautiful as ever. §r",
+
+	"item_name.35fa7c3f6f0af69677a4d7139d98d930901b030b":"§e§lThe ShiarÀ",
+	"item_lore.689ba75136cba891ef9fe99912ade463d26e8321":"§7A village of hobbits, it is §r",
+	"item_lore.757a7e69f8eb81a2b6074efd662ddc5ac7570202":"§7home to a blacksmith by the §r",
+	"item_lore.37cdb064e80724f956fc198701f46361d3801555":"§7name of Dodegar, seeking to forge §r",
+	"item_lore.336a5720a24ca479f94a1148202d7b32a1e7c8af":"§7the ultimate weapon. §r",
+
+	"item_name.23f6d93469b788e2f9145e5f1219017ad02a39ea":"§f§lEfelim VillageÀ",
+
+	"item_name.6241495b29725760e2171616b3b327f24d435ca0":"§f§lEfelim South PlainsÀ",
+
+	"item_name.03c7564c07133a1877548b0e02bcea1ae455b1cd":"§f§lEfelim East PlainsÀ",
+
+	"item_name.c580e554780abfa0ee42072c907addf4a19f9273":"§f§lEfelim South East PlainsÀ",
+
+	"item_name.ca0b888ed58e201214a18548025df23661eca553":"§f§lLight Forest North EntranceÀ",
+
+	"item_name.c63585dba023b7eb49a79744662081df8bbb7b3e":"§f§lLight Forest EntranceÀ",
+
+	"item_name.ab54335dba4399a932ebd45db102d2b7913bfacb":"§f§lLight Forest South EntranceÀ",
+
+	"item_name.5c5e9250f27490f57c8e45644f3cdfdcc11b7dfa":"§f§lLight Forest South ExitÀ",
+
+	"item_name.24e395cca7a03add1587226496084a8581c097f1":"§f§lLight Forest North ExitÀ",
+
+	"item_name.22c1c1b89bb431740386c66a5c01ecbc4a88294d":"§f§lLight Forest West LowerÀ",
+
+	"item_name.e3c9a109aa59253ef8d869bd714b4633d1c6379e":"§f§lLight Forest West MidÀ",
+
+	"item_name.054a121f04a09ef0211f340d970435495097fd92":"§f§lLight Forest West UpperÀ",
+
+	"item_name.33ccd30b9eb16489203c91778331479e483580a9":"§f§lLight Forest East UpperÀ",
+
+	"item_name.01e5534fcb9a6c25176c94b427738f58e8987de3":"§f§lLight Forest East MidÀ",
+
+	"item_name.9c995fb434a4762ea3e43e9fc9ad4b3e61ce99e8":"§f§lLight Forest East LowerÀ",
+
+	"item_name.00ebfc84ae10714eb6ae49ca8f7e5b3ed0972f4b":"§f§lHobbit RiverÀ",
+
+	"item_name.6d63c4ea6a6373df24925f185f22d00349f19847":"§f§lMantis NestÀ",
+
+	"item_name.ddceb3ff6450e11130644648d7cea0136772fb5f":"§f§lLight Forest CanyonÀ",
+
+	"item_name.73f7a0ce9b2adbb4df628e77c8e9b95c55bac420":"§f§lPath to CinfrasÀ",
+
+	"item_name.4a066c8df50481eb42ae31c6f95a587b118f0e11":"§f§lLexdales PrisonÀ",
+
+	"item_name.1f80c8991e48c8f37ecf4fb231cf7b26f8aa23c2":"§f§lPath To PrisonÀ",
+
+	"item_name.dbe31471e2b8bd6041fa788c49f9a0be8206bd8a":"§f§lGromblins HideoutÀ",
+
+	"item_name.0c2d75dfb32325507d4cd9e0b455a413054d3c9a":"§f§lAbandoned ChurchÀ",
+
+	"item_name.d78469d28417183546752c7a3ccb9740076bb9e1":"§f§lMesquis TowerÀ",
+
+	"item_name.ec3cce10409617724ddfdc70418247bf5561f25a":"§f§lCorrupted ImpactÀ",
+
+	"item_name.7ababcb62a94ff7159f17732b096bfc981500758":"§f§lBanshees CaveÀ",
+
+	"item_name.1e138a8ee9c19f42ce44d02ff9addab1c3756128":"§f§lShanjugin’s RiverÀ",
+
+	"item_name.411b0e01cf8515ec06e96533caecda1c88c84980":"§f§lDark Forest VillageÀ",
+
+	"item_name.e42d64e813d3a742422d5074769078eead6821af":"§f§lGraveyard SouthÀ",
+
+	"item_name.284951c9192b964c3e4dde98b7387d4866ec3420":"§f§lGraveyard NorthÀ",
+
+	"item_name.216e64c9167dece63876686d4a68cedf4bc53f12":"§f§lLexdaleÀ",
+
+	"item_name.0c236a1fe34e2253d006754b9e004220eb25bcb6":"§f§lArachnida CaveÀ",
+
+	"item_name.0736520a808661513796c3c1cac97e466e85921c":"§f§lBlack MagicÀ",
+
+	"item_name.8f601858fc678069d9b6c371b6f97f3b0135420d":"§f§lCorrupted HandÀ",
+
+	"item_name.9cc65dba3b01aa385ba2aff007da99de09f4e2ae":"§f§lCorrupted VillageÀ",
+
+	"item_name.b57218dd2649d410019c2813fc23e0c923087d7b":"§f§lDark Forest Cinfras TransitionÀ",
+
+	"item_name.0dfcd02b55673e8a622a72fa372afa08b4c1630c":"§e§lArena of the LegendsÀ",
+	"item_lore.f8f5dbf6cc4a2176ff7d31a75f3bf03808ebb8c6":"§7An arena for those who wish §r",
+	"item_lore.69c56d94595a7e6b4a58da2e3a7149b1dec624be":"§7to truly test their mettle after §r",
+	"item_lore.16890a9301dee7139ea06abd29341a4198ee7a3f":"§7being admitted into the Temple of §r",
+	"item_lore.60240842bcf6c2fe42e0a36a968dbcb7851f6cdb":"§7the Legends, where fierce training takes §r",
+	"item_lore.5342a3625127f458abe16273b65c3a5a9d007df3":"§7place. §r",
+
+	"item_name.f4b0f1fd88f700291ea1da1b92f7344323d1d02b":"§e§lTemple of Legends֎À",
+	"item_lore.bd4a1f690e0f5d7ea4c33a986be6797ad851bfc5":"§7Only the most revered of scholars §r",
+	"item_lore.a79b78f8182a8699f5603f7270d8946a3e384d62":"§7and adventurers are allowed inside of §r",
+	"item_lore.5a513663db4932ec30a63b734a854ad52b3b5a7a":"§7the Temple of Legends. Just entering §r",
+	"item_lore.f9caa0d116b634923acba2b323f77047cff79a7c":"§7this place is a testament to §r",
+	"item_lore.af1d1a4c3ba985b8f72c80ac75cbb64c80359671":"§7your victory against the Corrupter of §r",
+	"item_lore.fba0a46055c7841b4517939199ec07db9259a2bf":"§7Worlds. §r",
+
+	"item_name.8e686bffe0572a6e1a984911a707fb975a8c6057":"§e§lCinfras֎À",
+	"item_lore.89200181abcf5d3a3b260df7928506ad2616928d":"§7The city of Cinfras is the §r",
+	"item_lore.0c43719f00214eee3613ad21fe2e25646a138558":"§7central hub of the Gavel Province. §r",
+	"item_lore.f6a5fae4570e1c29f007d20b0314ba7f86275882":"§7It is also home of the §r",
+	"item_lore.4821b42637e526410d2379f95a518c9c75f3055f":"§7massive Guild Hall, and a massive §r",
+	"item_lore.e6fa87d2ba1039818701d0d6c6ddd76dff70a543":"§7airship travel center. §r",
+
+	"item_name.6e466c8c89d8b1bd1519d7ac63452c41598275a9":"§e§lThe Guild HallÀ",
+	"item_lore.26ea9320dcc5831f223a097431e90b7bc327d519":"§7The Guild Hall is where the §r",
+	"item_lore.947bbb50955cd40dd86d4a57cf954d9c195f23be":"§7most prestigous guilds gather, and where §r",
+	"item_lore.d44e3e34fed23505407bcf914b3377777a82726f":"§7you can create your own. You §r",
+	"item_lore.ce45679e7d256b2353632d41a7f1eb7a975fe075":"§7can also get to Letvus Airbase §r",
+	"item_lore.65b8fc16ad7055602c3eb4954a3005926215027a":"§7through here. §r",
+
+	"item_name.5848b7784a9f2062a0d69c9551ee0e38a58f5bf1":"§e§lLetvus AirbaseÀ",
+	"item_lore.e5ec8f8c3ede714490f4704cb5cb698aff9ec25a":"§7Letvus Airbase is the best place §r",
+	"item_lore.319b081e54ba4ffc5b0059472366b526da7d4454":"§7to go for commercial airship travel, §r",
+	"item_lore.7c7b4d42dc48f0bf13c7a574e8978021e8238d2f":"§7though only the wealthiest can afford §r",
+	"item_lore.8abb734255ec5229fa86b7048a81f1ce8ab4fdab":"§7it. §r",
+
+	"item_name.1e916156cffdf21053ccc2edbd00ae047b2b690c":"§e§lLake GyliaÀ",
+	"item_lore.45bc1db5b0866eefe18dd05af213fc8b5102ed53":"§7For which the Gylia Plains are §r",
+	"item_lore.90de4f6ab7a464826fc33b1ced02438ce32999f7":"§7named, Lake Gylia is the largest §r",
+	"item_lore.7cbabd0cb6488224557a332c55ad313dae83b635":"§7lake in the world. Immense magical §r",
+	"item_lore.3a0fac01d37f45e5aed7aea54e9bb75523047f2e":"§7energy surrounds this place. §r",
+
+	"item_name.d5e4028b4e83f073ef1b48a4913c1865e41d017b":"§e§lDead IslandÀ",
+	"item_lore.f87c7063e41bc3a564ae50dc37c48f7ed267e08d":"§7A wealthy family claimed the entire §r",
+	"item_lore.4e225baadef68eff58a820a2272fe0e333bef97d":"§7island to settle on when the §r",
+	"item_lore.cef19d13ac0b5549bf10ad70de266c08658c28dc":"§7waves first settled, but a mysterious §r",
+	"item_lore.ea22cbeadfa06ab4141380919a5b6b32b15d09fb":"§7event has brought dark influence to §r",
+	"item_lore.a33ee2e99836480d1e92a11fe1fa50493fe0d952":"§7the island, robbing it of its §r",
+	"item_lore.1b28fc447f8ebd36b3fd2431286ca7406ec4bed3":"§7vibrancy. §r",
+
+	"item_name.11162c8d623e31759a6166699b88058c6ce5eb01":"§e§lWynnExcavation Site DÀ",
+	"item_lore.d1fec8664ac0a40c4c9008569f0c0e2e4b7e6022":"§7It is said that the Leaf §r",
+	"item_lore.8af73179074459e9f87dcc6f98214cd22448342d":"§7Crystal was buried here. Once WynnExcavation §r",
+	"item_lore.ea66c2d05e76d441314f0a49c217c3837deb4c76":"§7finds it, they'll have all four §r",
+	"item_lore.cf503e4a26ba24154a4c3d56fd8327267b58bf43":"§7of the crystals scattered across Wynn, §r",
+	"item_lore.8d2da36b63cd925bee3c53a888d9fdb38c49cc6f":"§7granting them unfathomable power. §r",
+
+	"item_name.9734d9b54bbd6f9925622691e3d9fe45582509ce":"§e§lHouse of TalorÀ",
+	"item_lore.88d08bac1d72681c999436a9803f0172bb489815":"§7Once a brilliant cathedral, it has §r",
+	"item_lore.aca6f8dbaf0d88ed492e7eb2ed0f816c4c83f095":"§7been abandoned since most of the §r",
+	"item_lore.eb3ca329d19f2cf306ab30d2b14262a88335c6bb":"§7church's followers chose to worship demons §r",
+	"item_lore.e006b339b483e2e84f17878cd6d913eb802ec648":"§7instead. §r",
+
+	"item_name.70dafb43a3316a88e362339a6747f4c218a3bd84":"§e§lPit of DespairÀ",
+	"item_lore.00d68f6539b8d2cddc8a3f2c4ed47c9b1cf04d6f":"§7This hellish pit is being used §r",
+	"item_lore.08862bb04b0b11ba76372bb62ccda392756d172d":"§7by the cultists of the Kander §r",
+	"item_lore.c7b3ca9493aa005898601e8ce380860765782c09":"§7Forest to summon the powerful demon, §r",
+	"item_lore.0f6370839ad8de50a110e4adabd312568bbcfa44":"§7Naragath. §r",
+
+	"item_name.86e3ddd63d0eb6a5ec08578119834b71ae72fd85":"§e§lThe ForgeryÀ",
+	"item_lore.b9db638960f447026f5fcb521cb09567f453f6f0":"§7While this may look like a §r",
+	"item_lore.aa82a78278064490641ea4709ab139f85a4f60ca":"§7simple bridge on the way to §r",
+	"item_lore.1f69f40a1dbbdbe8cb8f759a59847eb1b66d58e7":"§7Cinfras, above it floats The Forgery, §r",
+	"item_lore.56be51869f1bfcea70c96dee4f3ef868346a23df":"§7the gateway to Corrupted Dungeons. §r",
+
+	"item_name.a2d29b70deeadc967e50d2549acdda31663eb917":"§f§lDead Island North EastÀ",
+
+	"item_name.bf853daae54a02d17e95601c8b639353cb3a9c2b":"§f§lDead Island South EastÀ",
+
+	"item_name.f1beef17547efd6c31f02ed72836c96bce66257c":"§f§lDead Island North WestÀ",
+
+	"item_name.35f1cc9512712228b4f97b9bffd0ad690ee0d1c0":"§f§lDead Island South WestÀ",
+
+	"item_name.5638f0ec42409d96bcca1b3f68cebb6b5ebe039f":"§f§lAldorei Valley West EntranceÀ",
+
+	"item_name.afa2faf69a4cb9daba6f4c3fa26a9aea53a7245c":"§f§lLone FarmsteadÀ",
+
+	"item_name.e9b05b5b8ec7686bff7c82350522a24a1e31275a":"§f§lCinfras EntranceÀ",
+
+	"item_name.582f9ded09a5d2dc3385cbcb4bee88c122cf9a72":"§f§lAbandoned TowerÀ",
+
+	"item_name.c3d7bdd730f642c5ded5ebb83ed39e5cd870de99":"§f§lGuild HallÀ",
+
+	"item_name.4bbe1f6f1c7c3bada95feda52c815b79435bc036":"§f§lAldorei Valley South EntranceÀ",
+
+	"item_name.e2f6cf1db7856255192d7083b1091a902868559e":"§f§lCinfras’s Small FarmÀ",
+
+	"item_name.48c6689b8227a7b97adf993e2d79f8e98632c11a":"§f§lCinfras County LowerÀ",
+
+	"item_name.25c375843af3bb6037d1c217a7f3f2b9a81afb26":"§f§lCinfras County Mid-LowerÀ",
+
+	"item_name.490e1b4c01f6e48a3d26dd213cb7db7109a34adf":"§f§lCinfras County Mid-UpperÀ",
+
+	"item_name.d3b6b57422c09662571bf90355a24283f756ca6a":"§f§lCinfras County UpperÀ",
+
+	"item_name.442939f8d0b7c2a93b9b922f83b11b3ed155a52d":"§f§lGylia Lake South EastÀ",
+
+	"item_name.b4b9ce522dd037fe5ca8e6de3b989a2d961aa17a":"§f§lGylia Lake South WestÀ",
+
+	"item_name.1a5d87a711ffbdcb80c5f382490423e96ae6aea4":"§f§lGylia Lake North WestÀ",
+
+	"item_name.0597fc36adbd0494c3e319b949ee52ed81f143f9":"§f§lGylia Lake North EastÀ",
+
+	"item_name.5cbcbe21480c717bd173ef78d2958f248e15a03c":"§f§lGert CampÀ",
+
+	"item_name.2e788f2d007f31ea844d08314f524668c7a0e503":"§f§lJitak’s FarmÀ",
+
+	"item_name.10b60f6e510e5be825e67d786eba8c42f69d0485":"§f§lAldorei Valley LowerÀ",
+
+	"item_name.7f14838102fad6a1b46897df2fc38f2aaffeba9d":"§f§lAldorei Valley MidÀ",
+
+	"item_name.aa4ed31aecc8030934918911e4a329dc8db9c1f6":"§f§lAldorei Valley UpperÀ",
+
+	"item_name.0db17ffc4e9096904d3f639896976d7dab94993e":"§f§lAldorei’s RiverÀ",
+
+	"item_name.840aff49ece24f1303f6d03c198d487d68675813":"§f§lAldorei’s North ExitÀ",
+
+	"item_name.906f8e84bd65099aa465ab06e78f7da7815e1ae2":"§f§lAldorei’s ArchÀ",
+
+	"item_name.7391b7a81a69c69c0469112dcce3595aaf31c461":"§f§lPath To The ArchÀ",
+
+	"item_name.e1535b17a133303c8b9d9f9542a9719bdd5dd21b":"§f§lGhostly PathÀ",
+
+	"item_name.b35c429fe04d4a5fbb8eebc18100f3c1c5ad9131":"§f§lLight Realm East LowerÀ",
+
+	"item_name.c0966468a66349807c715f05bff2af419a2586a9":"§f§lLight Realm East MidÀ",
+
+	"item_name.f9e7569e57209fcfc002494412ffa441b5cc0c78":"§f§lLight Realm East Mid-UpperÀ",
+
+	"item_name.9a095ee20cff6f15fb28151f3c0648d43fc37eab":"§f§lLight Realm East UpperÀ",
+
+	"item_name.5f90932244d28fb9e739ccaca71bc1c7fdba893d":"§f§lLight Realm EntranceÀ",
+
+	"item_name.ddf78fed35cc93126f527c9789ec83a3304097f8":"§f§lLight Realm Entrance UpperÀ",
+
+	"item_name.2e2b8397ca30d7fab8d7fa58676bb8896075eee3":"§f§lOrphion's SealÀ",
+
+	"item_name.73949454907bae561f445726efb333c4c69dd1d2":"§f§lOrphion's Seal UpperÀ",
+
+	"item_name.396135c03c01cc6fdfb343d40b423747b87b65c3":"§f§lRoad to CorruptionÀ",
+
+	"item_name.b96123052f5a3e4e6042e5ecc2319fecd9b819ee":"§f§lSpiraling TreesÀ",
+
+	"item_name.a8eaeb643465cde90dd23f72314359722a62a51e":"§f§lAldorei LowlandsÀ",
+
+	"item_name.c12849ad440e3872bf8fe9f896a24bd522335dbd":"§f§lCinfras OutskirtsÀ",
+
+	"item_name.2f6664f4c483c874d45ef8f348c46efc7236451c":"§e§lLight's SecretÀ",
+	"item_lore.cb9272659890581a84459f0e4135b64ec609366c":"§7The light has hidden this secret §r",
+	"item_lore.dfb6fe55fc8b8929b8093a2ba156499a74b5530f":"§7beneath the forest to those who §r",
+	"item_lore.bb109d435e26c334218490b0d66488affd0a4e46":"§7cannot \"see\". It is a gateway §r",
+	"item_lore.d1b19db622e5e71d4a316e7d22db2fbd5c0a3ca0":"§7to a world beyond imagination. §r",
+
+	"item_name.69c1faa8f4172825667ee692d0e371147c7689a2":"§e§lLexdale֎À",
+	"item_lore.13d7cdb3ad37e9e21c0372754c40b0ae361c9f6d":"§7Once a humble town, Lexdale has §r",
+	"item_lore.7a77f75f70b52f94137d7ae197dc1d2f158622af":"§7been overrun by cultists, worshipping a §r",
+	"item_lore.321318a73c8b1630774e9a95067ebc1126d8c7aa":"§7dark being named Naragath. §r",
+
+	"item_name.2f07c924f8f6a9085bd4a180c0f9bd5d04623205":"§e§lThe Qira HiveÀ",
+	"item_lore.61713919ec6dde8db239a4b46dace28a5cb4c39e":"§7This towering nest is the Qira §r",
+	"item_lore.36566302a5db342712511f15590d64e7df0bc11a":"§7Hive, a challenge against the powerful §r",
+	"item_lore.9c2e70800f967225d7eecc94a74ca0fda1bf5cf1":"§7creations of the enigmatic Qira. §r",
+
+	"item_name.b8bf7630807b8e5d04ce7fd40c8061ab8097cee6":"§e§lOzoth's SpireÀ",
+	"item_lore.82cd57ff92bb91402af072d2a205897b93b2dad0":"§7Tainted by the flames, this spire §r",
+	"item_lore.f6bd4a0374f6c60d7e7b8630ac6a9b52a63b95bf":"§7serves as the dramatic trail up §r",
+	"item_lore.345748a833008a4a132eaff7cb143455e307ff81":"§7to the nest of the dragon §r",
+	"item_lore.bca0fdc5d1315954db40c79ddddebfb8c579f782":"§7herself, Ozoth. §r",
+
+	"item_name.4050652dca4a7aaa1094825511addc3373d9e755":"§e§lThanos֎À",
+	"item_lore.21c4288c70e048ceb1620969583dc19523fdfb86":"§7The only residence of dwarves outside §r",
+	"item_lore.fe9d6baf56060281647c10e9542b8197c19c3201":"§7of the Molten Heights, Thanos has §r",
+	"item_lore.e10b20db3bb97b29ce09756c2dd61c32b9abce25":"§7been decimated by Ozoth, a powerful §r",
+	"item_lore.5bb475958656910e69dd30178d1e51e1f194a76b":"§7dragon feared across the entire province. §r",
+
+	"item_name.cfa0097fd34240e48615f6130b2a022906cb7e19":"§e§lGylia Watch TowerÀ",
+	"item_lore.e79290ff30c5704ab4ac5bc7a929cd2f0fbd545d":"§7Founded after the Gerten War 200 §r",
+	"item_lore.49f1c06cac21e4da825e24241a47e5805bf9dcfe":"§7years ago, the Gylia Watch have §r",
+	"item_lore.225b1daf7c42b27c507cdd6f136106caf23c46ef":"§7used this tower as their base, §r",
+	"item_lore.915faef1e72138bb8795e029fc529df452a38c0d":"§7keeping an eye on the Gerts §r",
+	"item_lore.a2434116e5360d2425a84a775408216d25aaa1c1":"§7to prevent another attack. §r",
+
+	"item_name.b59bd912bb1faa99d2bd005d9a164847fb7fdc7c":"§e§lGert Camp֎À",
+	"item_lore.c4f4494f110287169c13e28f79f631009cb4ed68":"§7Home of the Gerts, a race §r",
+	"item_lore.a1ed8dfe04a2da5d4df27b7eaaa0ce5a35fcf79c":"§7of hunger fuelled orange-headed brutes. Though §r",
+	"item_lore.dbbd29679be97aa128d2e47683a6a8492fd5f437":"§7they aren't very intelligent, they are §r",
+	"item_lore.ac8771ad8e945a3f60ff1532660a2b2ec7f89990":"§7still a force to be reckoned §r",
+	"item_lore.b6a1ca8a6fcb069740a9046e3c4d7eb123a92d00":"§7with. §r",
+
+	"item_name.528cf3d2b53119ff17b14cce39476a876b33f160":"§e§lCorkus City֎À",
+	"item_lore.8a8051abfb4b932f25f51f59799354724f5cf0d6":"§7The main city of the patriotic §r",
+	"item_lore.9ab290fde8f9fe88d64917ea187e68af56101a39":"§7Corkians, refugees from Fruma who settled §r",
+	"item_lore.8dfd01766ccdd5a0f386df23082c88fcefd26e17":"§7on the island. They've used the §r",
+	"item_lore.b0a5c9966bf1356e680d13398509dffa5f8b1cd5":"§7art of electromagic to build machines. §r",
+
+	"item_name.3edee4f083d2dc596dba6502b962dbc095a92bbe":"§f§lBurning FarmÀ",
+
+	"item_name.a577fe3c30625d77aced952a82a4005a4370593c":"§f§lBurning AirshipÀ",
+
+	"item_name.56aa23e96ac9a2d461c79c8e58309efdbe365f6b":"§f§lCinfras Thanos TransitionÀ",
+
+	"item_name.4bfe8092ad1e7f1bfba896f2ca77154df973eb9c":"§f§lThanosÀ",
+
+	"item_name.bce7d646b757f9ce540cf64197be22eef5352aa7":"§f§lPath To ThanosÀ",
+
+	"item_name.f44ff87a5f03dda2604277f3dcc4331094256c9a":"§f§lPath To Military BaseÀ",
+
+	"item_name.6a408e409b81ff27ffcdb79a6fe6e7fc460c86e9":"§f§lMilitary BaseÀ",
+
+	"item_name.e3fb3fefce1a47153055eefe1c42b916155bd46b":"§f§lMilitary Base UpperÀ",
+
+	"item_name.bc5c34943e44ef9f1f7e13e548f4d631e88d5a2f":"§f§lMilitary Base LowerÀ",
+
+	"item_name.9a9fe7b52dc4f8807d07805380758ebc738e1131":"§f§lPath To Ozoth’s Spire LowerÀ",
+
+	"item_name.1544939e669de8fc643be65e90ad049611cd0c0c":"§f§lPath To Ozoth’s Spire MidÀ",
+
+	"item_name.78ec9d5e8a3f45ec0cdd20261a3c6852b1b32061":"§f§lPath To Ozoth’s Spire UpperÀ",
+
+	"item_name.5ad8b5818fcab429b0c2f400266c748203930a84":"§f§lBandit Cave LowerÀ",
+
+	"item_name.1d5ae39dc958dbbac538d484eb97f9fe5e030b6a":"§f§lBandit Cave UpperÀ",
+
+	"item_name.e51acf70a6c228c070d6ce60d084e9351add17fe":"§f§lCanyon Entrance WaterfallÀ",
+
+	"item_name.4bdab6122d620ecdda176117c760a2b1f8265272":"§f§lCanyon Path North WestÀ",
+
+	"item_name.c2cbfd174d877d3ef1308624ea7bad074d3e2dd7":"§f§lCanyon Path South EastÀ",
+
+	"item_name.c0e9161a8ed22fd7c1197a0cc63a1304a0665f80":"§f§lCanyon Waterfall NorthÀ",
+
+	"item_name.0d166bf026b106b70abf83d14f5101981d256f33":"§f§lCanyon Upper North WestÀ",
+
+	"item_name.46de0071bd22c04ed8adea87d739d54d2c4f4179":"§f§lCanyon Lower South EastÀ",
+
+	"item_name.bccd4888f9ccdd661b61b38984e36659a75c17b0":"§f§lCanyon Path South WestÀ",
+
+	"item_name.8d40e64abc0db14da79c1f0da41c4d0ca5348adf":"§f§lCanyon Path North MidÀ",
+
+	"item_name.3df8466a9eb2d4e97b497010a1d2bba3d0378421":"§f§lBandit Camp ExitÀ",
+
+	"item_name.3a2cb88145548c3371e815256a1fc098653e24ab":"§f§lCanyon Valley SouthÀ",
+
+	"item_name.5e26b001e5162ccb54b6544dd6dbc6390887c451":"§f§lThanos Valley WestÀ",
+
+	"item_name.e48e940c2670eba7bc7b5eadb99479453d66becc":"§f§lThanos ExitÀ",
+
+	"item_name.d345b5612035b55218a5af60e48b9872013c5e10":"§f§lCanyon Walk WayÀ",
+
+	"item_name.d8ed288248d55ef4a77051774ade3469f9f437e3":"§f§lCanyon Mountain EastÀ",
+
+	"item_name.04a1c1c3ce2f237c6702944fbd9e616f99a95b9a":"§f§lCanyon Mountain SouthÀ",
+
+	"item_name.621203e2c1c8d49a76ace7d9bec16135b9c4e351":"§f§lCanyon Waterfall Mid NorthÀ",
+
+	"item_name.b53701dc3a90aa2ac7104e3a6a1e3eb946daf447":"§f§lCanyon FortressÀ",
+
+	"item_name.58d0180dcc6cb74cceac507a0fa4468f8bd0ab0d":"§f§lCanyon SurvivorÀ",
+
+	"item_name.e52f73d58bede1eaa6bf2ae9c507dbe204e0ca44":"§f§lCanyon DropoffÀ",
+
+	"item_name.d49a61ca3150c3efe173690a90cb48bd65eaff1d":"§f§lThanos Exit UpperÀ",
+
+	"item_name.50c2c72ce629cc4b31b12c79dc1d5813e9de5f4f":"§f§lHive SouthÀ",
+
+	"item_name.d12847d5be81807fe3fcdad8ab98f60c054aecf2":"§e§lAldorei ValleyÀ",
+	"item_lore.a963303cc61dd12c9f0e8e8bf8dfafbbcedfca77":"§7Very few outsiders are allowed into §r",
+	"item_lore.04b9e81bc7c869044553a533fa4c29e468730407":"§7Aldorei Valley, home of the elves. §r",
+	"item_lore.67be4b3d2371fa11ffe92268eb5c5cac552496bc":"§7They consider it to be a §r",
+	"item_lore.e0639dea6913b7df84f71ff554a24f1c54c78e31":"§7place free of greed. §r",
+
+	"item_name.8aa345f97bfd4b1d9bfaa77991574b2d91f6ca5d":"§e§lAldorei TownÀ",
+	"item_lore.0b0db21961980607ecd074ce798c40fde71ccc76":"§7Aldorei Town is another section of §r",
+	"item_lore.9966579d9eb98cf49daa3c6c4895592af54a2a40":"§7the elf city, housing many special §r",
+	"item_lore.0d35288bb49efea40526de0c78d535f82a312b48":"§7resources and charms not found anywhere §r",
+	"item_lore.d5080a59e981c7a6f5463000434ca30fe581ff03":"§7else in Gavel. §r",
+
+	"item_name.f3f5fe835787817779c32d4b91d320de36952c9a":"§e§lKitrios BarracksÀ",
+	"item_lore.c6b2211e9d3b06760e27ae48032f88d0e13c41f9":"§7These barracks are where the Cinfras §r",
+	"item_lore.83ad3ffdeafd428e4b1efd86e75511a10c34a157":"§7Army is positioned, though lately their §r",
+	"item_lore.21124269e44d63ec8b423531a58cc88c7591ba8e":"§7General has been acting suspicious… §r",
+
+	"item_name.809693e58b8ed76885b6be950e6d8718b7fba278":"§e§lThesead֎À",
+	"item_lore.5ecc71561b5dcbe6e94d627e57b0c2671a282e70":"§7Thesead is one of the smaller §r",
+	"item_lore.77839355c56b85559341336c84d05c1a3852b7c1":"§7cities of Gavel, but its coal §r",
+	"item_lore.82fadea9e239122f39734a950e778c7016216a71":"§7industry has kept it thriving. However, §r",
+	"item_lore.d7d177080f1cd3641b068cf324c45b453b2afe04":"§7recently the coal mines have shut §r",
+	"item_lore.db865c2dc94477f00024cf023b9821da62f2a3da":"§7down. §r",
+
+	"item_name.d15cbd17e9ccb98da9be4c655618af59c242f2b5":"§e§lBantisu Air TempleÀ",
+	"item_lore.728718f47bf3e8dc053326db09571db32a7556fa":"§7Bantisu Air Temple has served as §r",
+	"item_lore.d1c2e18e6913730777e08fa7718dad6d39e76919":"§7a beacon in the Canyon of §r",
+	"item_lore.101edbfcc5728ed2d51a9edfeae296d220ce2cdb":"§7The Lost. The Air Monks help §r",
+	"item_lore.d018d0a1146cdb6737bf42368588063dcec0f098":"§7guide people who have gotten lost. §r",
+
+	"item_name.512bdb5148d22e4aa0e7e5f23a2d65d788d9341a":"§e§lLost ColossusÀ",
+	"item_lore.2d07eec9afd5e8aca4de01f636d41bf3eca4d51b":"§7This massive statue is often thought §r",
+	"item_lore.f9551b2569d65fc2df14dce4b45ef419c80d7905":"§7not to be merely a still §r",
+	"item_lore.d0b077cbe9ac4b0b28ccb281b5ac084a553f6861":"§7monument, but actually a living being. §r",
+
+	"item_name.f242c0e2916e7f00f48df7c7e606b9b597741738":"§e§lCrystal FallsÀ",
+	"item_lore.49a791c2e7da5ca0d44a829efaf2c74858a983c5":"§7The elegant Crystal Falls decorate the §r",
+	"item_lore.f49f195a3a5cb53bf75eb89205b7d5af885d08a3":"§7scenery around the dojo of Sensei §r",
+	"item_lore.6cc0dc7711652bffa3dccfb343cc456e866a6b55":"§7Miyagi, a wise teacher who has §r",
+	"item_lore.c734bee42e9f20a95f65f48c20bf725a5b624d9f":"§7trained hundreds of apprentices. §r",
+
+	"item_name.489df5c20d55624c85e0b753103352c5fc7c98a6":"§e§lFallen Factory֎À",
+	"item_lore.3cb2b28dbb5a9c8649e3ae0591a05f123f33b59f":"§7This massive factory, built by the §r",
+	"item_lore.81481d942b49c37c0b47a1db0e8e885bcb51425b":"§7engineer Cerid, was once hailed as §r",
+	"item_lore.b20b6b53dfb9bad4a181fd0dbd5d4548cfd83c49":"§7the national monument of Corkus. Ever §r",
+	"item_lore.eddaf0d7f9cfa97fe66c8d012f0c52c74270cd7f":"§7since it was closed down, it §r",
+	"item_lore.d4f79b29d8caaa4709f026f4c709b849cda74cbf":"§7has fallen into disrepair. §r",
+
+	"item_name.69dd7a31c0d506ada5b6dc4d599d1caff9fdca89":"§f§lBandits TollÀ",
+
+	"item_name.14a832523aaacd4536c6465980dbee4fecbc6ee5":"§f§lWizard Tower NorthÀ",
+
+	"item_name.4951201f8024575c71bc1bca1feabc0f03478c68":"§f§lMountain PathÀ",
+
+	"item_name.22a4d44d8b52b03269aaa5298256d25f4cc9acf7":"§f§lMountain EdgeÀ",
+
+	"item_name.25ea3ce36d727fbe901f428072ae80b08906b7a5":"§f§lCliff Side of the LostÀ",
+
+	"item_name.8523b84c4f842cf138bf7107932a655f9e49c72b":"§f§lValley of the LostÀ",
+
+	"item_name.2fc4cea834706b58057ddc7abc09dd47be8d401d":"§f§lTemple of the Lost EastÀ",
+
+	"item_name.6bcdb201cccea85bd77d4bea23540f80a2970fe4":"§f§lKrolton’s CaveÀ",
+
+	"item_name.10cb16d1fcec9cadf655cca6129ee0fe3bae494b":"§f§lCanyon High PathÀ",
+
+	"item_name.b80d9d4424cb31f5cda5006f6485ebaa89b114b6":"§f§lCliffside WaterfallÀ",
+
+	"item_name.d95ee8f3e1fb66dffe289989394063c77dfca5c0":"§f§lCliffside ValleyÀ",
+
+	"item_name.e5deda64035a2eaad27ac41f1b6b9dbfba7d2ea9":"§f§lAir Temple LowerÀ",
+
+	"item_name.33e80de2fd40c32a145540a04cc6a9cc031f4fd7":"§f§lAir Temple UpperÀ",
+
+	"item_name.d0bea52068415dfdf9bb2d44516aa8312aa8bf9a":"§f§lCliffside LakeÀ",
+
+	"item_name.f8680c77391432768cddb2432fdfbd8575ceb1d9":"§f§lCanyon Of The LostÀ",
+
+	"item_name.24e8ae3a35746e23cb5b6de50e491eca0929a95c":"§f§lCliffside PassageÀ",
+
+	"item_name.631d7c9358f5fac9bbe34fd1f14e2d1fd5fac003":"§f§lCliffside Passage NorthÀ",
+
+	"item_name.fae60f759722959921b0d5a677a6ae6e09754253":"§f§lEntrance to Thesead NorthÀ",
+
+	"item_name.97a4283ccbabfbe701ae6a470b650872288dcd97":"§f§lEntrance to Thesead SouthÀ",
+
+	"item_name.757b8eeeb75992339128e84a0583024773696db1":"§f§lChained HouseÀ",
+
+	"item_name.1d46b05667958a8a984ea52090030502d9da7c1b":"§f§lCherry Blossom ForestÀ",
+
+	"item_name.3d9cfcce8d60567bfb78f24c2e03092d4e4c1c3b":"§f§lRanol’s FarmÀ",
+
+	"item_name.9e56925765c11836e85fb2caf0dbcfbbc0f69021":"§f§lThesead SuburbsÀ",
+
+	"item_name.50ccdead0f351bb1abe2aca285f0c39d0d48b156":"§f§lTheseadÀ",
+
+	"item_name.86e25014a4038ba0755228c0e7e124551f72b58b":"§f§lEntrance to RodorocÀ",
+
+	"item_name.c5f3544f395135bdddf15b388c013a668b165c2b":"§f§lEltomÀ",
+
+	"item_name.b89f580e994d8f06de440f56dc102f303f6af16c":"§f§lCorkus CastleÀ",
+
+	"item_name.9931ce3614844afdd72db1e678c4d6366838f6ad":"§f§lCorkus City SouthÀ",
+
+	"item_name.bd23c684d9220fc4027df60be7d5c480a958123b":"§f§lRoad To MineÀ",
+
+	"item_name.5e303b6cb3afba5a38b9d54e544df1ab33bdbefc":"§f§lCorkus City MineÀ",
+
+	"item_name.4a67eda1a8e01e24a09bd553970b30a44e06be56":"§f§lFactory EntranceÀ",
+
+	"item_name.2aa756c2e3af6f98819b5b24d65301f85793cd7f":"§f§lCorkus Forest SouthÀ",
+
+	"item_name.819bc169622ea87708779ca2d39cd7dcf257c273":"§f§lCorkus Forest NorthÀ",
+
+	"item_name.5ab2d7e181e8ac4b040d72e6861917f54c463536":"§f§lCorkus MountainÀ",
+
+	"item_name.a014728fc7530cc95d4cbea2e0bc720c9b4454d2":"§f§lCorkus Abandoned TowerÀ",
+
+	"item_name.91368cbf1288260c1e53761ccabce9bf07a0e04a":"§f§lCorkus DocksÀ",
+
+	"item_name.ab8a3989d188b4b3a5d8087c27b45b6d13f8196a":"§f§lCorkus CountrysideÀ",
+
+	"item_name.453e881c45ecfecd48cdd220dd0a77e952ab2afd":"§f§lCorkus Sea PortÀ",
+
+	"item_name.99ad7b1394083b623407793cd266f7a1704d1c14":"§f§lRuined HousesÀ",
+
+	"item_name.b8c73ded44ea0672011f24f8fd45fa5080b678f9":"§f§lStatueÀ",
+
+	"item_name.f4391e00943496d77097d20538a000daf5c5f0b2":"§f§lAvos TempleÀ",
+
+	"item_name.416c6ad9e4268961d377ce5ea54e0f85c772a34c":"§f§lCorkus OutskirtsÀ",
+
+	"item_name.61d96042ea5b9bb043279f7d09566fe9ee679fef":"§f§lPhinas FarmÀ",
+
+	"item_name.e7506c910e00658131fe28004dd0e01cd513efb8":"§f§lSouthern OutpostÀ",
+
+	"item_name.886d4c5022935ebabdc291b4805cb41471f42529":"§f§lLighthouse PlateauÀ",
+
+	"item_name.6e8c9b29dad9ed39cec9a78a8816996cb21ac66d":"§f§lCorkus Sea CoveÀ",
+
+	"item_name.9059b2c28bedc54f1c9a277b227947beda21fcde":"§e§lAvos TerritoryÀ",
+	"item_lore.c942a768f1f8c4e9c7bf03e9444e397df52a8e1f":"§7Home of the bird-like Avos, the §r",
+	"item_lore.8f1db246a02f7693bf156b796a31df2684678494":"§7native inhabitants of Corkus. Though they §r",
+	"item_lore.204b5a0f760b2ce79b7c852618d1b17c10b4494c":"§7welcomed the Corkians initially, tensions between §r",
+	"item_lore.c1a2aaf6802470884b13ba8f01c645e67141dc4f":"§7the two have grown over the §r",
+
+	"item_name.259d05461120ccf694f5c466d5762857f859ce9a":"§e§lEltom֎À",
+	"item_lore.9669ce7cbf68b33105ab32056f6763036cba9fb2":"§7The city of Eltom is the §r",
+	"item_lore.d87320369124cec93b4a0a32ecae8c846d0ecfca":"§7only human residence in Gavel. Since §r",
+	"item_lore.260b32baf7660f03ad47766352345b2a2d1e25d7":"§7humans aren't permitted to settle in §r",
+	"item_lore.c3b11ade1c5687b36dfc83d033fee5939f41f90b":"§7the province, it has remained hidden §r",
+	"item_lore.a5b70eb245f6ebcc0f510cdc49065ab08c70e1e2":"§7to outsiders. §r",
+
+	"item_name.d7d4bd0eedb83353d7a7860545ec0f5119d6d680":"§e§lMolten Heights GateÀ",
+	"item_lore.315ee95dabd7f1f8dc577c80cfce0dedda22c700":"§7The entryway to the Molten Heights, §r",
+	"item_lore.9dce087c50f9da3aece01520cdc6c9bac1a9f4ca":"§7a fiery den of volcanoes. It's §r",
+	"item_lore.4766fd971a045637d7d7404c9fb8677b4cffc910":"§7the home of the Dwarves, and §r",
+	"item_lore.e9002e93c53822b8f621103e9bf3ceebad175cc9":"§7the last remaining Doguns. §r",
+
+	"item_name.da884689d8b3e5b0ac19e5fff6f9927b95a15026":"§e§lDragon SkeletonÀ",
+	"item_lore.48706f936b8ddebb66c8ec5bc9cc618ce45ef33e":"§7Reminant of the Dogun genocide, the §r",
+	"item_lore.4894562f6f8f76e795e0aac4d97de3b5893dde5f":"§7Dragons sided with the native residents. §r",
+	"item_lore.b99a49c81e4fafe6e6249a3d09ab7bc49eb5242a":"§7However, the dwarves proved to be §r",
+	"item_lore.950f335ca8b6a45eded7c804f60f40961329d8e2":"§7the dominant force beneath the lava. §r",
+
+	"item_name.d9a5c5c021a67e1547cb6411a16925e96e32a0e3":"§e§lFreezing HeightsÀ",
+	"item_lore.3de72517e1edc4e0e5d5dc82677bc03aad2db18f":"§7Cursed by an ice dragon's breath, §r",
+	"item_lore.df74b2778f74abe344fbbc4f68a900a96a8b3a37":"§7this is a scar of the §r",
+	"item_lore.d858dec35e1bc73a1c733ea2176bf1fa0217f7d2":"§7Dogun genocide. §r",
+
+	"item_name.3b2001f2bc99e3a55563e30a53dc2291e58eddbd":"§e§lMaexÀ",
+	"item_lore.2058dcbf203723ac5392ce4d51ce37ebd582e043":"§7A dwarven town founded as a §r",
+	"item_lore.9f4cd2db754cc30e2c8d33d5ee84004d2c8a1179":"§7monument to the victory in Molten §r",
+	"item_lore.b333d81860ef18c4a052394b7907156ffecafab2":"§7Heights. It was built by the §r",
+	"item_lore.798182bec6bcef163f453112bd95de7da318f2d5":"§7power of the people. Dwarves are §r",
+	"item_lore.718a2af18982f39a81f99818c2ea090a5494e104":"§7communal and riches are owned by §r",
+	"item_lore.91fbe21f54b132d4286803c3596f6e668c86d79a":"§7all. §r",
+
+	"item_name.c8af0109a25f6488bdb7295e2cdcb15c033544a0":"§e§lRodorocÀ",
+	"item_lore.5c03ba951442b401f54c18c32e44e8264eb5e4a2":"§7The capital of the Dwarven dominated §r",
+	"item_lore.f3212edc2a8dcaa4de651524f50f9a46e3a79666":"§7Molten Heights. Carved from the rocks §r",
+	"item_lore.356686ccb81aeaffcb2fbb686ac811c53d37cacd":"§7by the power of the people, §r",
+	"item_lore.f32f3d61f8305eb4daa33d755896b89215c442f6":"§7it stands as one of the §r",
+	"item_lore.b53e775c64ef9642b1fddf6b7a1ffc4483091e51":"§7strongest cities ever made. §r",
+
+	"item_name.71beb9b09ef52de2f4ec083f772626d9fdfc37d5":"§e§lRelosÀ",
+	"item_lore.360a63f93198569cafbbf0ec1eefa5c16fcee577":"§7This coastal town is sprawling with §r",
+	"item_lore.48200bd47499aa3782ec0945e9b2a2ea32b4e028":"§7gears and machinery built by the §r",
+	"item_lore.13c9d6f290e9a737ddf30f51da2a9bd71e39a80f":"§7various engineers and mechanics living there. §r",
+	"item_lore.f024dd558f946bf20d3d0bce416b8a957f668dab":"§7Importing and exporting take place frequently §r",
+
+	"item_name.ca48814e7998b861ce3babd86eb5118d04490bef":"§e§lJofash DocksÀ",
+	"item_lore.7037cbde6dfa9ab3e4f436bfcae35b0e6e1ba40a":"§7A port town filled with odd §r",
+	"item_lore.fc4674f755e1fb40bfdf2e179155d61e9b9ee084":"§7residents and drunken sailors, Jofash Docks §r",
+	"item_lore.7d58bf41ab41fe93c161f1d99c00fb1de0b5542c":"§7is the only entryway to Gavel §r",
+	"item_lore.a8c647e194543af4e5922491b738a3ce30368811":"§7outside of the main gate. §r",
+
+	"item_name.aab55a22b221460579e6caade96455c58f115ef5":"§e§lJofash TunnelÀ",
+	"item_lore.62f68f10609606ed4fc5c594b1d1191b01fca729":"§7This dark tunnel connects the Sky §r",
+	"item_lore.febc21d8832330e47347fb162bbb3ff9a04a7c6b":"§7Islands of Gavel to the Jofash §r",
+	"item_lore.ab6449a2ee42194f6f63e3cf9bdd5b6c3345c472":"§7Docks on the province's eastern coast, §r",
+	"item_lore.b296f332b1ab201e19b9a6d9cf36a5732a0aaba8":"§7for those who wish to go §r",
+	"item_lore.bc31c02fc8a51a332e686d6b9f6ae9a8e3e03010":"§7sailing. §r",
+
+	"item_name.44afd52af07c30d2cccd4da77865ecc076107de9":"§f§lMolten Heights PortalÀ",
+
+	"item_name.16ff59ce74379576ad251522a06bc5892dc9a932":"§f§lLava LakeÀ",
+
+	"item_name.a77812c2b52f5471318183de50fd0de91c53db32":"§f§lLava Lake BridgeÀ",
+
+	"item_name.b8649edea6835da915ddd8459a273c60e9bc23a3":"§f§lCrater DescentÀ",
+
+	"item_name.a722922fe6f1c497f092b1a394ea0a306fda4af4":"§f§lActive VolcanoÀ",
+
+	"item_name.fbaebf56aadb3b5c6beb4f75647cc31b77fcb28d":"§f§lVolcanic SlopeÀ",
+
+	"item_name.788b5cdf6f2adda6e5b4156703bc697095697f68":"§e§lDeath's RealmÀ",
+	"item_lore.18ccc76e74dc72e0d3826e40c0bb6dc953594918":"§7Devoid of color, all the souls §r",
+	"item_lore.787ef80e5061336847830f6b7b3cb8320ebd708b":"§7of the dead will make their §r",
+	"item_lore.bc247189d57aafc05fc286206e34da296bee7ae3":"§7way to here, the realm of §r",
+	"item_lore.a855a1f59f388e2df1879dc15920779a2fcab8ee":"§7the dead. §r",
+
+	"item_name.876c5e0cd41639f5c3f253a4d9dc432bd47558f0":"§e§lUpper Molten HeightsÀ",
+	"item_lore.92dfa26306be236db186e75ac62755e19e1e6964":"§7The volcanoes stand upon a hollow §r",
+	"item_lore.ac4c0ebe6360daeb04d6d39b9345fc9742de736c":"§7victory and support the few survivors §r",
+	"item_lore.934cf7913bc8a42e7ec5de154ef2727dc03f507c":"§7of the war. Some argue it §r",
+	"item_lore.af9bbdfd2f7992dbc23dcc98c646de0e48870ca5":"§7was a genocide, not a war. §r",
+
+	"item_name.43ea45d752913cd279ebe2b09609c6acfe6faa19":"§e§lDogun's RetreatÀ",
+	"item_lore.d89412fef045e37a6985e2e71f8398c5911e45cc":"§7The tiny survivor population of Doguns §r",
+	"item_lore.f521d1f025227fe46b59947c2d34dea3bc9a83cb":"§7fled to the surface after the §r",
+	"item_lore.2ce195b5783350b9f87d2d578f9bc23b4c3973bc":"§7subterranean war. They are ill suited §r",
+	"item_lore.a60709bbd2b49ce0fac8fcc93392540e753ad4e9":"§7to living above ground. §r",
+
+	"item_name.bc857eafdd27abae3f292ac37bb06845234cb9bb":"§e§lLegendary Island֎À",
+	"item_lore.fe9ca0c586b99e1ae8d7b0c1c2db4cdbb6b6cced":"§7Home of the Legendary Challenge, a §r",
+	"item_lore.2ae01c0e1d1bfb75d808ea11ca7f0532801680eb":"§7test for those who think that §r",
+	"item_lore.c3781a843d72ff08fb85945bad21da3a8cd3c1ac":"§7they are the strongest in the §r",
+	"item_lore.362c06f53c9386995a1432e0e740e0cc2a0333cd":"§7world. It is named for its §r",
+	"item_lore.3fba8fb99a442972879cf4b14ec33e8f2ace6fbd":"§7designer, the eccentric Dr. Legendary. §r",
+
+	"item_name.da02b993d41b79a04d3075aba36dfee9dec2ee34":"§e§lKandon-Beda֎À",
+	"item_lore.8ab86e3bf58b3b0ea403a7c380422df8080b5bbf":"§7A town built on the edge §r",
+	"item_lore.22778943461d26ffd23e8d0ad4c553b5d2892b82":"§7of a cliff, Kandon-Beda specializes in §r",
+	"item_lore.91fbed1c7cc0c19e95ac6f4ef42e74cb01bb006b":"§7air travel. It also houses a §r",
+	"item_lore.63056f5a44d239a32ef1ad81751407b86c7e8ef8":"§7library for those who wish to §r",
+	"item_lore.5c459614f9007778f2bfd3b164a149e3229e4116":"§7learn history. §r",
+
+	"item_name.3158f8b91c389b1ceeb82cba39f4f1434ff199ff":"§e§lRaiders' PortÀ",
+	"item_lore.03fcfa02d10de1b7c614725797766cd03c46303d":"§7Home of the Sky Raiders, a §r",
+	"item_lore.969fab4f299ca79e185b70d18c2430fdbb1b316c":"§7group of pirates who plunder and §r",
+	"item_lore.42faca68808a622c712e2fca9b43007a1aa2e462":"§7thieve through the air. §r",
+
+	"item_name.b25a59ad170f2d3a45af4d6858ede69001ba0df7":"§f§lKandon FarmÀ",
+
+	"item_name.5ca0c01274c61c8cbf4eab3575d91fdb893f9bad":"§f§lTemple IslandÀ",
+
+	"item_name.45df7eaccb2c26101b792ea2cc47ac856e990036":"§f§lSnail IslandÀ",
+
+	"item_name.adfee0f5840a045a0e844c16928e68d2dcc459e1":"§f§lQira's Battle RoomÀ",
+
+	"item_name.2d3c8a4af8644a726444b00d1c6e50007e185ee0":"§f§lFrozen FortÀ",
+
+	"item_name.f9a817a912e9516184e410605f7bd9af57c78395":"§f§lSky CastleÀ",
+
+	"item_name.91c97f4a334a80e8a97193121388007a740550f5":"§f§lPath to Ahmsord LowerÀ",
+
+	"item_name.0d51ecd1cc389fc2fe73cd7ee4476a0f1365ed44":"§f§lPath to Ahmsord UpperÀ",
+
+	"item_name.eb90b13f5b4fe5c8a7b998e210fd8e552ab93697":"§f§lKandon RidgeÀ",
+
+	"item_name.f0fa70bfd892f38ed9a105645f7d834882eedc9b":"§f§lOld Coal MineÀ",
+
+	"item_name.efe6b42fcb803ff2d4d4ea86d03cb862b48fb990":"§f§lDragonling NestsÀ",
+
+	"item_name.fe756ca891ba837929079aed9fd4d337ba54ca36":"§f§lAstraulus' TowerÀ",
+
+	"item_name.28e9623073cdbc552cf0c2d4671579126ee173ad":"§f§lMolten ReachÀ",
+
+	"item_name.bf8dee059bc5a0c1306a442cd9c62c6c938acf66":"§f§lAhmsord OutskirtsÀ",
+
+	"item_name.66710d3d74dff14bfb2fa222ccb6b4aa32a57c2e":"§f§lSwamp IslandÀ",
+
+	"item_name.fd8557a4fe8a0ce2de6e0c2b05c4841baad15ba8":"§f§lAngel RefugeÀ",
+
+	"item_name.051f5511bb742ec2ba584a36edc455d76a49e06f":"§f§lWybel IslandÀ",
+
+	"item_name.5167313c469d45a80efaac6b7316e4d2a1fbd0bb":"§f§lCentral IslandsÀ",
+
+	"item_name.d515493c0bae611cadb2d8fedadb782ce2a76354":"§f§lSky Island AscentÀ",
+
+	"item_name.c97e45e09ddb60bb7321a307e312425e3e3f6e71":"§f§lSky FallsÀ",
+
+	"item_name.c31969c374fd677d18851642adfbdef570c3fc64":"§f§lRaider's Base UpperÀ",
+
+	"item_name.a5ad5f11e19022439b7ce856a797d5fc544ca12e":"§f§lRaider's Base LowerÀ",
+
+	"item_name.a43f6ed7a9b89bcf1564304ca22778fa0b754d2e":"§e§l??????????À",
+	"item_lore.b30cc47aac9b6c1a1507f97e0a55c7b6a8b28838":"§7?????????? §r",
+
+	"item_name.dbb96f7c38ea2440d9f530b274c663dbc7dace99":"§e§lAhmsord֎À",
+	"item_lore.d7362030456a41744869d11c910fac776cbfdfce":"§7The central city of the Sky §r",
+	"item_lore.328afb8124b13cb4fb7f18c37c84f150f8af5bd4":"§7Islands, Ahmsord is home to the §r",
+	"item_lore.58eae5755dea6d497f68a23d1f83369c02eddebf":"§7wealthiest of traders, and the most §r",
+	"item_lore.6915b718b85cad3df8c713f9acfaeb5e0799e15a":"§7revered of adventurers. §r",
+
+	"item_name.8c34ab7847e3e9eb62ce0dcb324403b61b71a251":"§e§lThe MoonÀ",
+	"item_lore.d0ee6723f12323178c8189c9a93a5c23eb1790b3":"§7It seems the wizard's gravity spell §r",
+	"item_lore.a051f7da8fa34d3b5116fe6a4bdcf5e64166705f":"§7made you fall all the way §r",
+	"item_lore.8fff7efe56724f40be27f2290368e032e0527ee6":"§7through space, landing on the moon §r",
+	"item_lore.3eccda7db0392d93f5d7608b379dda8cc24ff309":"§7itself. Weird. §r",
+	"title.a88ebd3711a5f8f19616cb5e7c9f553cabae824c":"§eThe Moon",
+	"chat.6a013bb08d8973636488b5b9f2b0f5e9f7b47975":"                                 §eThe Moon§r",
+	"chat.d1319a990a011a5122fb4ba0dc8aed5b0cd7911e":"§d     -§r§7 Lore: §r§f§oIt seems the wizard's gravity spell made you fall all the way through space, landing on the moon itself. Weird.§r"
+
 
 
 }

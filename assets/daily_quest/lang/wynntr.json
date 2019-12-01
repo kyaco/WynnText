@@ -2,27 +2,12 @@
 	"scoreboard_objective.f631f419c89d437abca59e1db1c19dcec4f31d2d":"§6§lWynncraft.com",
 	"scoreboard_player.bba4491cc9e07e282b121c6d405ce8d2f9baa064":"§c§lDaily Objective:",
 
-	"scoreboard_player.04516abf89d7ec482f6ec800573cc022c310f388":"§c- §7Win Dungeons: §f%s§7/1",
-	"scoreboard_player.04516abf89d7ec482f6ec800573cc022c310f388.regexp":"^§c- §7Win Dungeons: §f\\d§7/1$",
-
-	"scoreboard_player.1a261e71bea296a54c8e1dafb67fd9cc6ed29bc3":"§c- §7Buy from Market: §f%s§7/3",
-	"scoreboard_player.1a261e71bea296a54c8e1dafb67fd9cc6ed29bc3.regexp":"^§c- §7Buy from Market: §f\\d§7/3$",
-
-	"scoreboard_player.f0ec96ffbe32292c31b5c031c1df00228fb20fe6":"§a- §7Slay Lv. 20+ Mobs: §f%s§7/100",
-	"scoreboard_player.f0ec96ffbe32292c31b5c031c1df00228fb20fe6.regexp":"^§a- §7Slay Lv\\. 20\\+ Mobs: §f(\\d+)§7/100$",
-
-	"scoreboard_player.fc783437ecc5882851254e282055ff3e7b5d2139":"§c- §7Loot Chests: §f%s§7/12",
-	"scoreboard_player.fc783437ecc5882851254e282055ff3e7b5d2139.regexp":"^§c- §7Loot Chests: §f(\\d+)§7/12$",
-
-	"scoreboard_player.fbac20c3b30916ca8343cae8cf952608a788b935":"§c- §7Gather Fish: §f%s§7/30",
-	"scoreboard_player.fbac20c3b30916ca8343cae8cf952608a788b935.regexp":"^§c- §7Gather Fish: §f(\\d+)§7/30$",
-
-	"scoreboard_player.d4749eb96c2da5495abd01a63e02790398480fc4":"§a- §7Find Discoveries: §f%s§7/10",
-	"scoreboard_player.d4749eb96c2da5495abd01a63e02790398480fc4.regexp":"^§a- §7Find Discoveries: §f(\\d+)§7/10$",
-	
-	"scoreboard_player.9d0c7611c41807d16a27e83ee391f15228091e4a":"§c- §7Slay Lv. 100+ Mobs: §f%s§7/140",
-	"scoreboard_player.9d0c7611c41807d16a27e83ee391f15228091e4a.regexp":"^§c- §7Slay Lv\\. 100\\+ Mobs: §f(\\d+)§7/140$",
-
-	"scoreboard_player.e5987c039900903caf4651b7e3f57577a85cbd39":"§c- §7Loot Chests: §f%s§7/10",
-	"scoreboard_player.e5987c039900903caf4651b7e3f57577a85cbd39.regexp":"^§c- §7Loot Chests: §f(\\d+)§7/10$"
+	"scoreboard_player.d92aea278c0364394d954bc6fe88fe811e5088e1":"§a- §7Win Dungeons: §f0§7/2",
+	"scoreboard_player.04516abf89d7ec482f6ec800573cc022c310f388":"§c- §7Win Dungeons: §f0§7/1",
+	"scoreboard_player.1a261e71bea296a54c8e1dafb67fd9cc6ed29bc3":"§c- §7Buy from Market: §f0§7/3",
+	"scoreboard_player.fbac20c3b30916ca8343cae8cf952608a788b935":"§c- §7Gather Fish: §f0§7/30",
+	"scoreboard_player.eccc624ad82019adb7e7999988cda8b243c2f3b7":"§c- §7Gather Wood: §f0§7/50",
+	"scoreboard_player.d4749eb96c2da5495abd01a63e02790398480fc4":"§a- §7Find Discoveries: §f0§7/10",
+	"scoreboard_player.2845b252d5ca7fbc30f8a7d4776fc4fc79f2826e":"§c- §7Craft Items: §f0§7/4",
+	"scoreboard_player.0657eac7707848a8cf2f210b490d149514e90825":"§a- §7Craft Items: §f0§7/8"
 }
