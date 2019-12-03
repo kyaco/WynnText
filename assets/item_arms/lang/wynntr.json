@@ -1,0 +1,48 @@
+{
+	"_":"----------------------------------------------------- ARROW --------------------------------------------------------",
+	"item_name.21239a02cc87e045824c45faac0ecb5799040347":"§bZero",
+	"item_lore.fec9b11af9b3f71053d727816c80189d64b97529":"§8The unstable power within§r",
+	"item_lore.89e9b0519de0a0dee0e6f4864ca1a922bdf5290c":"§8this bow is capable of great§r",
+	"item_lore.aaa1ff670923636e68f68c7d2d16b24af67a88cb":"§8destruction, but seems to§r",
+	"item_lore.682e30e5c90b2f2fe1cd464d698cdacef8a95235":"§8zero out at the most crucial§r",
+	"item_lore.cc461a4800fe2819fb82c06c233e42f0a535ce42":"§8moments in battle. Only§r",
+	"item_lore.bcab513fca517be02e2dd835230781aafcce5e0d":"§8the most skillful archers§r",
+	"item_lore.6bfd8ab95b06494a89c865aca475e3915e74a445":"§8can wield this weapon with§r",
+	"item_lore.cd1c0f2d1af172d0b9bb8f1b5a2c5fd046b31f34":"§8confidence.§r",
+
+	"item_name.9dabb8f1c03357d7431c428c50cbe7652cebdfb7":"§5Stratiformis",
+	"item_lore.715e33e443794d41ad917baeb545fa9d711cb381":"§8The Elves managed to harness§r",
+	"item_lore.03c955ca1513ef44907797fbd9260e9131f0e75f":"§8the power of air itself,§r",
+	"item_lore.6d246315372154af89e0ac3c99b8c1cb1221f49e":"§8forming a bow made entirely§r",
+	"item_lore.f431574daf9588e76380692eb6c314428989a3ac":"§8of air currents, allowing§r",
+	"item_lore.40e14cbecae4a2da3ad5e911007b74b10896657c":"§8the user to move swift like§r",
+	"item_lore.cf33999a5996457031eec7bf83a2e4e0381cea8e":"§8the wind, but vulnerable§r",
+	"item_lore.bb9dfa24d2e4aec59934272f7c5df2ea833088dc":"§8to attacks.§r",
+
+	"item_name.a0696b7bb00fa0fe4b507f8eb902887af3e84c18":"§3Plain Recurve Bow of Ragni§b [%s%%]À",
+	"item_name.a0696b7bb00fa0fe4b507f8eb902887af3e84c18.regexp":"^§3Plain Recurve Bow of Ragni§b \\[(\\d+)%%\\]À$",
+	
+	"item_lore.5dc2e413ea0a06053252023b26c3466f73a33020":"§3Crafted Bow§r§8 [%s/%s Durability]§r",
+	"item_lore.8e9d2022c2886db04632e7f70978daf5c10e5ac3.regexp":"^§3Crafted Wand§r§8 \\[(\\d+)/(\\d+) Durability\\]§r$",
+
+	"_":"----------------------------------------------------- WAND --------------------------------------------------------",
+	"item_lore.8e9d2022c2886db04632e7f70978daf5c10e5ac3":"§3Crafted Wand§r§8 [%s/%s Durability]§r",
+	"item_lore.5dc2e413ea0a06053252023b26c3466f73a33020.regexp":"^§3Crafted Bow§r§8 \\[(\\d+)/(\\d+) Durability\\]§r$",
+
+
+	"_":"----------------------------------------------------- DAGGER --------------------------------------------------------",
+	"item_name.130989b2002d2481e10b2b9a928c75262fcfac6e":"§fAndesite-hewn Shears",
+
+	"item_name.a6a5f519e8efdce9ed0dc1815e8ccd265c8f43f9":"§fImpeccable Granite Shears",
+	
+	"item_name.33994f25988379d8cff1cbb8adf2eba1ddb8e002":"§fImpeccable Light Spruce Shears",
+
+
+
+
+
+	"item_name.44fb43d6a2c5345ffcd24737c1fd413a63102694":"§3Mundane Focus of Siegfried§b [%s%%]À",
+	"item_name.44fb43d6a2c5345ffcd24737c1fd413a63102694.regexp":"^§3Mundane Focus of Siegfried§b \\[(\\d+)%%\\]À$",
+	
+	"item_lore.536ef9886cc44e3a5dd08c888e9771182a67502e":"§7[Plain Recurve Bow of Ragni]§r"
+}

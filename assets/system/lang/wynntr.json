@@ -58,7 +58,7 @@
 	"chat.private.message.regexp":"^(§7\\[§r§\\w+§r§6 ➤ §r§\\w+§r§7\\] §r§f.+§r)$",
 
 	"chat.shout":"§3%1$s [%2$s] shouts: §b%3$s§r",
-	"chat.shout.regexp":"^§3(\\w+) \\[((?:WC|EU|HB|GM|WAR)\\d+)\\] shouts: §r§b(.+)§r$",
+	"chat.shout.regexp":"^§3(\\w+) \\[((?:WC|EU|HB|GM|WAR)\\d+)\\] shouts: §r(§b.+§r)?$",
 
 
 	"chat.4bd7fc83cd18fb625ef660bbc943c3bd2256c566":"§2[§r§aVIP§r§2] §r§a%s§r§2 has just logged in!§r",
@@ -150,6 +150,7 @@
 	"entity_name.00fca5acabcb4619e4595821cc3f22dc7f148a69":"§7%s's Fire Dragonling",
 	"entity_name.790ed739fc2964aeb166c8950fe646597ba171d5":"§7%s's Cream Wybel",
 	"entity_name.b22c40f00d0b1ffe1bb6001a264860c21cf0f84f":"§7%s's Bronze Cybel",
+	"entity_name.f26d1df1db7e45b841665d14fee597cdf7608119":"§7%s's Carbon Fiber Cybel",
 	"entity_name.0256edc215428273edb3935441f9e2b32541dd73.regexp":"^§7(\\w+)'s Rat$",
 	"entity_name.0373212c2e7b4b881af1d8723caf20bdcb0a4bc4.regexp":"^§7(\\w+)'s Rolling Potato$",
 	"entity_name.55ea68e5afcfbf428113abb71f99186203671f6b.regexp":"^§7(\\w+)'s Chocolate Wybel$",
@@ -162,6 +163,7 @@
 	"entity_name.00fca5acabcb4619e4595821cc3f22dc7f148a69.regexp":"^§7(\\w+)'s Fire Dragonling$",
 	"entity_name.790ed739fc2964aeb166c8950fe646597ba171d5.regexp":"^§7(\\w+)'s Cream Wybel$",
 	"entity_name.b22c40f00d0b1ffe1bb6001a264860c21cf0f84f.regexp":"^§7(\\w+)'s Bronze Cybel$",
+	"entity_name.f26d1df1db7e45b841665d14fee597cdf7608119.regexp":"^§7(\\w+)'s Carbon Fiber Cybel$",
 
 	"entity_name.1f45d091b40d5a0b0ede0959ef56e51d9c880342":"Angel Wybel",
 	"entity_name.820998cfb2c54f704aa89505db018f2bb765e29e":"Baby Penguin",
@@ -181,7 +183,7 @@
 	"entity_name.d85651e0e6230f57fa36f67b1285cd661841e2e8":"Water Dragonling",
 	"entity_name.3c5b7ffe27291c386a6a7619b8419f4612e67584":"White Wybel",
 	"entity_name.13f79b3e83d84d9a9a23be5b6c24c44f1f72a24b":"WithTheFish",
-
+	"entity_name.a24e37ccef3dc403ff8b09eed40a0c2562b57db5":"Sea Blue Wybel",
 
 	"entity_name.2059936a614d630d2a3186ab19d9ad85fdda7e3e":"§fMagic Swirl Effect",
 	"entity_name.cb0ed3e56f1acdb86346d3797bdd579a27c972ee":"§fPotion Swirl Effect",
@@ -211,6 +213,7 @@
 	"entity_name.78f67339260f6b0f344ead4277fa29686634b783":"§fGray Wybel Token",
 	"entity_name.05bf58b76457bbd2e41e49043d46b8acf5bc241c":"§fCream Wybel Token",
 	"entity_name.14be411e6015b55c5bf90a8d49d1f6738e92de40":"§dPink Wybel Token",
+	"entity_name.e92f49fd777bfb8242965ac7ae311324c673b622":"§dViolet Wybel Token",
 
 	"entity_name.4ff1486d482b606952ca5053c5a4b9c2f196d826":"Grumpy Old Man",
 	"entity_name.6993c5d915860e6d13640b3ccf65aa0b70ce74f4":"Silverfish",
@@ -248,6 +251,13 @@
 	"item_lore.2c4d6c8693e3b82bc05ea108b4e74683e6c156d3":"§7§lRight-Click to dump §r§c§lall items §r§7§linto your bank§r",
 	"item_name.f5d1f5d8d128de6252baf1cf058aa0bd62fe735e":"§7§lDump all §b§lworn equipment§7§l into your bank",
 	"item_name.c633a37fbcf1713f7da636aa27d9f02bbcde46ee":"§7§lSearch for an item",
+
+	"item_name.3116ef435d65b1a0004a13cd8fd715b1c4d459df":"§f§lPage 12§c \u003e§4\u003e§c\u003e§4\u003e§c\u003e",
+	"item_lore.980833e46dbdd28364318fb8ba29df03595c85e3":"§7Purchase the page§r",
+	"item_lore.b4ab14aea683800cfb6d89978670e1f60c0e44ac":"§7to unlock it§r",
+	"item_lore.9820f4b1f2fa587ffaaaff5e490b91ae11c7ac44":"§6Price:§r",
+	"item_lore.0a2192d7c88be2abd063e3e5ee4f5df0ae546e26":"§6 - §r§a✔§r§7 Combat Lv. Min: §r§f55§r",
+	"item_lore.0caef5803dc85aaa70cb424bcdb964acd00b2776":"§6 - §r§a✔§r§7 Price: §r§f24243§r§7²§r",
 
 	"_":"---------------------------------------------------- TIPS ------------------------------------------------------",
 	"chat.0f742e18143fc31f0ca9382cd52597e8391aee16":"§6[Info] §r§7Crafting items and selling them to the Blacksmith is a great way to make money early! §r§fFor more information, visit §r§fwynncraft.com§r§f!§r",

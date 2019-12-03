@@ -85,7 +85,10 @@
 	"title.a84907285db7da6c6c87d47036dc2b51a7bb72e8":"§3%s threw an item bomb",
 	"title.a84907285db7da6c6c87d47036dc2b51a7bb72e8.regexp":"^§3(\\w+) threw an item bomb$",
 	"title.309d07e3ed1160575b7cfe16568196dba9404c9f":"§7See chat to claim your prize",
-
+	"chat.96cf63d5526240295fd8c8e88da814fb2f240770":"§3You have received:§r",
+	"chat.9312d99f3ddae157ce0a096a572d6393510df998":"§3Visit §r§bwynncraft.com/store§r§b §r§3to get your own!§r",
+	"chat.edb3e6b5f1560884929944b8d0c98be218eaaba5":"§b- §r§f1 Impeccable Light Jungle SpearÀ§r",
+	"chat.3fc5b46066851cbe7e4984586d1480c7bb873819":"§b- §r§f1 Brilliant Diamond ChestplateÀ§r",
 	
 	"boss_bar.f4956d119f77d84c309ce26eb00893216648623e":"§3Double Loot from §b%s§7 [§f%s§7 min]",
 	"boss_bar.f4956d119f77d84c309ce26eb00893216648623e.regexp":"^§3Double Loot from §b(\\w+)§7 \\[§f(\\d)§7 min\\]$",
