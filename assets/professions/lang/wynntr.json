@@ -1,9 +1,33 @@
 {
-	"entity_name.806719e5ca9e3050ff0dbcb179cdbfb29c9b8c8c":"§aGudgeon",
-	"entity_name.54b750af80a46623a021c1a2e0e2395b194941f0":"§aOak",
 	"entity_name.312f7cb7956e17de7a93741e75bdb6a89c896940":"§aCopper",
+	"entity_name.ea3c050827623f81aa62429c14893b32ba6eba6b":"§aGranite",
+	"entity_name.e207e08cab49895a555bcf849960fa194555cd82":"§aGold",
+	"entity_name.62edf882ec0b0e64a95dbd0688bb54e3f7054727":"§aSandstone",
+	"entity_name.12e4aa17a8c7b861e78e87cfaf9cea9b498b882d":"§aIron",
+	"entity_name.3c9ac2930b1170bceefa06ec0119fb85b0aaf0ef":"§aSilver",
+	"entity_name.90afd4d7535117bb95f87acb9079c71092979d08":"§aCobalt",
+
+	"entity_name.54b750af80a46623a021c1a2e0e2395b194941f0":"§aOak",
+	"entity_name.f1706d728f363e23da08ef17efe0ab8d09a28d91":"§aBirch",
+	"entity_name.39d422da47ab6e4d1a06964fc7759d4c12f35490":"§aWillow",
+	"entity_name.21db8178cd04a4c34ca47595055cf366ed87ade9":"§aAcacia",
+	"entity_name.5f81b80e126019723385f8a78bb7c3c192fecdad":"§aSpruce",
+	"entity_name.8e0e8a18016b2be611d126e8c182647e7bddb9bf":"§aJungle",
+
 	"entity_name.1137fd06f6909452ca6e0f2f35aeee804a550eb8":"§aWheat",
 	"entity_name.b8f1db7af8c634d4c55d64fb4659419030ee5330":"§aBarley",
+	"entity_name.eb898fb6da832820055cb466dec4deab0e3123a5":"§aOat",
+	"entity_name.ed18c0bd83fe60a4274c86a17fb185f069881f12":"§aMalt",
+	"entity_name.dc22586a3a537e125eb3ddc0ae943ef1cc7a1a62":"§aHops",
+
+	"entity_name.806719e5ca9e3050ff0dbcb179cdbfb29c9b8c8c":"§aGudgeon",
+	"entity_name.fc8a4c0a907688d65b3b1675e3846defed7b0ddb":"§aTrout",
+	"entity_name.ffb63c84a2628967e614ac7e7a3fd9624057356f":"§aSalmon",
+	"entity_name.eff9932ace0abdefd466cfd66d3c45eff8812e05":"§aCarp",
+	"entity_name.2d086fc4ea767ea3cec72b487c18352d1c0ca431":"§aIcefish",
+	"entity_name.d42b2995bbca8eaaa8df2629c13b076616b10c4e":"§aPiranha",
+	"entity_name.f16f2538e66f6bfaf418dce07751b6ea5ca89d68":"§aKoi",
+
 	"entity_name.bdd196292def283c332285d07f79469088b45b41":"§%s§f Ⓙ§7 Farming Lv. Min: §f%s",
 	"entity_name.bdd196292def283c332285d07f79469088b45b42":"§%s§f Ⓑ§7 Mining Lv. Min: §f%s",
 	"entity_name.bdd196292def283c332285d07f79469088b45b40":"§%s§f Ⓒ§7 Woodcutting Lv. Min: §f%s",
@@ -40,6 +64,7 @@
 	"chat.267b4fd0683b79404601765a9c4221e32d4cf795":"§4You need to wait §r§c60 seconds§r§4 after logging in to gather from this resource!§r",
 	"chat.1e823f45cfa0b0577d0eb213474670a991522c71":"§4You need to use §r§ca Pickaxe§r§4 to gather from this resource!§r",
 
+	"chat.f4503f3a351646196d311c88c6abb0ecd573c9a6":"§4You need a §r§fⒸ§r§c Woodcutting§r§4 level of §r§c15§r§4 to use this tool!§r",
 
 	"chat.c69e9eb7979b3677d961600ffdf0facf6fa38feb":"§7[+18 §r§fⒾ §r§7Woodworking XP] §r§6[100%%]§r",
 

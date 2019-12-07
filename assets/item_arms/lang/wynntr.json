@@ -1,5 +1,7 @@
 {
 	"_":"----------------------------------------------------- ARROW --------------------------------------------------------",
+	"item_name.56ddeac161edac6cd4e3febb85da995f10c3f08e":"§dUnidentified Bow",
+
 	"item_name.21239a02cc87e045824c45faac0ecb5799040347":"§bZero",
 	"item_lore.fec9b11af9b3f71053d727816c80189d64b97529":"§8The unstable power within§r",
 	"item_lore.89e9b0519de0a0dee0e6f4864ca1a922bdf5290c":"§8this bow is capable of great§r",
@@ -25,24 +27,104 @@
 	"item_lore.5dc2e413ea0a06053252023b26c3466f73a33020":"§3Crafted Bow§r§8 [%s/%s Durability]§r",
 	"item_lore.8e9d2022c2886db04632e7f70978daf5c10e5ac3.regexp":"^§3Crafted Wand§r§8 \\[(\\d+)/(\\d+) Durability\\]§r$",
 
+	"item_name.2bcd6656d1a61f99f53b4c0e3fc40f1a3683b9c4":"§eKing of Blocks",
+	"item_lore.da2b96eb7e68882dc25b62e4af6f925dadb1bf59":"§a✔§r§7 Quest Req: One Thousand Meters Under§r",
+
+	"item_name.ebbe04dd290f6a7dac4ef6894834d85aafcfc584":"§eSilver Bell",
+
+	"item_name.5d509768744bf4e2bbfe7db88e6f6b313a700868":"§bInfused Hive Bow",
+	"item_lore.06c9f127fd99a19e548357e3f6945a9b1770cd70":"§a✔§r§7 Quest Req: The Qira Hive§r",
+	"item_lore.7f9ff6c9fa2523ebb883ffd0158f28b03491509d":"§8Deceptively plain-looking,§r",
+	"item_lore.c863b0465917b633a2203672a3d072c7e616ce39":"§8this bow has been infused§r",
+	"item_lore.9c9ae50d377d830358f084b97851913780eb8e32":"§8with energy from all five§r",
+	"item_lore.7426cc57b6480845b6582d2107ac2fcb455ff3ac":"§8known elements. Its string§r",
+	"item_lore.f7623c724b1cf9e207d4134cfd34b0af834d4975":"§8radiates a spectrum of colors.§r",
+
+	"item_name.c7dca874c26a3d3d9cd010fc11dff251da7bf816":"§bHellstrand",
+	"item_lore.af59a726eac53b75165c6f552d57fcc1e32bf901":"§8The Order of the Abyss§r",
+	"item_lore.bdaac7e1055207616cddee74dbe15ccaa08461b0":"§8crafted this bow in opposition§r",
+	"item_lore.d7660b88e7d6143d3f4cf3de76c5cbcf31ea4cb2":"§8to the House of Talor\u0027s§r",
+	"item_lore.c097da86cd884356e0fbba7ea3cef2822c175cbe":"§8holy relic. Holding it for§r",
+	"item_lore.fbb51ca147d49fec64292a3a60b8486e76229c20":"§8too long will strain and§r",
+	"item_lore.8fab8a596c80ba3800ab3bd7e8a94c37846fe675":"§8warp the user\u0027s mind.§r",
+
+	"item_name.70bfe4782e76ebb3727dfa6852bffe61a06310a1":"§eQuartzite Bow",
+
+	"item_name.6bc9514ed18d36be62d6265f6873dd3589a6fbb5":"§dFog of Creation",
+
+	"item_name.8149a8dacf929b7ab4de4a5cc2f21f1487e7dd54":"§bReturn to Ether",
+	"item_lore.fdceb742fbf227cc690aea92143ac4d09c2defb5":"§7Super Fast Attack Speed§r",
+	"item_lore.7f002079d814c7e8cc724bc85c276b45c48a7891":"§8This enigmatic weapon§r",
+	"item_lore.9aea21f8412e4b1f51bc50f24c3052f0e2055894":"§8can suddenly blink out of§r",
+	"item_lore.7cdca7d90c5a9550b6079fa87e9515d1c460c303":"§8reality with no warning§r",
+	"item_lore.d300714f85286bb37020113d6a41bb61e1c704e7":"§8only to appear exactly where§r",
+	"item_lore.bc56f7066794f209a22a4d0362abc7d1956ace74":"§8it was left later. Artificers§r",
+	"item_lore.ef3eb7b9275e3346ab928f744b1a036785f6470f":"§8have determined that almost§r",
+	"item_lore.1445b2d195f285201cd371d652544db52d279967":"§8the entire bow, by all known§r",
+	"item_lore.f1a01382817914b0fdf1a68546d4ae860770ad83":"§8laws of nature and magic,§r",
+	"item_lore.6019b46b8b06c494df68b0c3bdee9dcc6e34c36e":"§8should not exist.§r",
+
+	"item_name.8c889afac78ca0383f114cd89f77ff40e704e43f":"§bCluster",
+	"item_lore.2ca2c40cb4c54b4a1e4d30ff79d2fc39ab42b419":"§8Perhaps one is weak. To§r",
+	"item_lore.c268cd9c6cadf3816184d3b59af8acee3921c8c3":"§8be ignored. Perhaps two§r",
+	"item_lore.f4f183919bd07cddfe90d90efa6e8e7894f01a9f":"§8are not much better. But§r",
+	"item_lore.7f4d7c32a791482efa57a75ba37554d79abddbf2":"§8what of five? Ten? Twenty?...§r",
+	
+	"item_name.4455f0aa54d4b12ae84ca2067c901379dad383d5":"§dPetrified Horror",
+
+	"item_name.7acd148198288de62ba8142231fd31047faee6be":"§fImpeccable Jungle Bow",
+	
+	"_":"----------------------------------------------------- SPEAR --------------------------------------------------------",
+	"item_name.49b2821f353bf6c7c4f50dc82f187848389fce54":"§eUnidentified Spear",
+
+	"item_name.a760d2da01016c9f8109e9ca2230643c6c274f19":"§eSledge",
 	"_":"----------------------------------------------------- WAND --------------------------------------------------------",
+	"item_name.2e359c834f71b4300601310c3221c019cc0de1bd":"§dUnidentified Wand",
+	
 	"item_lore.8e9d2022c2886db04632e7f70978daf5c10e5ac3":"§3Crafted Wand§r§8 [%s/%s Durability]§r",
 	"item_lore.5dc2e413ea0a06053252023b26c3466f73a33020.regexp":"^§3Crafted Bow§r§8 \\[(\\d+)/(\\d+) Durability\\]§r$",
+	
+	"item_name.479b0067024c3002008c8afc86d41eed8eb37768":"§dStave of the Legends",
+	"item_lore.d93bc1874a653714fdd922a96c88fc494b9911a4":"§8Crafted exclusively by§r",
+	"item_lore.1e40b80b176d1150f2cfee0af612a50f9456d944":"§8the Temple of the Legends\u0027§r",
+	"item_lore.dd6a148af512d329c4b8524bf2bf5fa7b49211d6":"§8mages, this stave is honorary§r",
+	"item_lore.490e35f80322cc08a6b7cdc9347ef7278584db49":"§8to Mages who best the Temple\u0027s§r",
+	"item_lore.4c0b3171115dbc95a599c27a3f01776c7fc5ce39":"§8Grand Magus.§r",
 
 
 	"_":"----------------------------------------------------- DAGGER --------------------------------------------------------",
+	"item_name.46eec757b4084d1f9a10da2eb880ab8f7d3d6aba":"§bUnidentified Dagger",
+	"item_name.254330e687cdab192b470182f06dba568607bd68":"§eUnidentified Dagger",
+
+	"item_name.18898ad0fbc43e2ec522a72cd3d1a6400ea60887":"§fImpeccable Light Jungle Shears",
+
 	"item_name.130989b2002d2481e10b2b9a928c75262fcfac6e":"§fAndesite-hewn Shears",
 
 	"item_name.a6a5f519e8efdce9ed0dc1815e8ccd265c8f43f9":"§fImpeccable Granite Shears",
 	
 	"item_name.33994f25988379d8cff1cbb8adf2eba1ddb8e002":"§fImpeccable Light Spruce Shears",
 
+	"item_name.08253f9358dbf48379aee9285d5e88b16c139187":"§dThe Specialist",
+
+	"item_name.58d1790526df250e34b0743790f29bd7e7a7944a":"§bBlack",
+	"item_lore.9d4ae978a98f40bcf50535011f85e57062716c46":"§8Hewn from the great obsidian§r",
+	"item_lore.4c1b501737a32ea9c4cd221a00227e4dc4aff0fd":"§8spires surrounding the massive§r",
+	"item_lore.211df4ac0e343570eadad85ebbc74193f73f38ed":"§8Nether gate, this fiercely-hooked§r",
+	"item_lore.4634c7b9437504be093f8cf4c81ffa9155ed2502":"§8dagger absorbs light and§r",
+	"item_lore.e5d92ec55995b0b455d71b62f4b95f11e339f4c8":"§8magic energy alike to create§r",
+	"item_lore.ed6610dafd4f3fad62bed4c0a94248072dc8c2a5":"§8a desolate void wherever§r",
+	"item_lore.af6e30f15c5b8049d316d51d1472898e2aaa8444":"§8it is wielded.§r",
+
+	"item_name.bdd8bad97b8db08a3f129aead744dc3a64af83ce":"§eBackburner",
 
 
 
+	
 
 	"item_name.44fb43d6a2c5345ffcd24737c1fd413a63102694":"§3Mundane Focus of Siegfried§b [%s%%]À",
 	"item_name.44fb43d6a2c5345ffcd24737c1fd413a63102694.regexp":"^§3Mundane Focus of Siegfried§b \\[(\\d+)%%\\]À$",
 	
 	"item_lore.536ef9886cc44e3a5dd08c888e9771182a67502e":"§7[Plain Recurve Bow of Ragni]§r"
+
+
 }

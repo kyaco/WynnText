@@ -103,10 +103,6 @@
 	
 
 
-	"title.1c86acbc2270ca86e740a41372967f2c279f5a86":"§6Area Discovered",
-	"chat.e5263d4bcb5652c693f44d4bdf9f36422114400a":"                           §6[Area Discovered]§r",
-
-
 
 	"_": "----------------------------------------------------- QUESTS -------------------------------------------",
 	"_": "  4: Cannot Start...     a: Can Start        6: Started         2: Completed!",
@@ -1074,6 +1070,51 @@
 	"item_lore.9fd4d5b4ade381ad7d44d08f68648fdd6c5d15ca":"§7like it, still remain unknown. §r",
 	"chat.68e4aeead943e3e9c2c1437cb5e1fcc410332f40":"§8[§r§4Alert§r§8]§r§f The network will restart in 11m, it will be back right after!§r",
 
+	"item_name.074c55aa2a942b0e218e1a241c6628b90adc9ce4":"§b§lTemple of SwordsÀ",
+	"item_lore.fe44ed46518ca018b2db458f21d5d1b54bd059e4":"§7After realizing its true power, Hashr §r",
+	"item_lore.38b1ebdc4b064a64d9a2201c6d7e590dd7cad452":"§7realized he must hide the sceptre §r",
+	"item_lore.80999e43da237e50beda50d231e82a6e13d300ef":"§7where no one could find it. §r",
+	"item_lore.5410ebbf962fa827079f3723f93da0f8e9fd2ae9":"§7Many years later, a group of §r",
+	"item_lore.da11380cff215d4429cf2737a58f751a4cde8a9f":"§7bandits found refuge in this very §r",
+	"item_lore.3a0d383abc9f351d6a49c2183680bc8bde8cff73":"§7temple. §r",
+	"item_name.46b548742bd7996e2abd4a7894dbfa2aaa1869e9":"§fAncient Sword",
+	"item_lore.6da035a6a1713f5b43a414e7cb3454936d394512":"§8This sword looks out of place down here...§r",
+	"entity_name.2658e68e788377f54f29867e60ff3d793bd1f145":"§7Place Sword",
+	"chat.02b018840a744bf041b801817fd7a64f8193fdc0":"§7It sounds like some sort of mechanism inside the statue is jammed. Maybe a hit on the head can set it right.§r",
+	"entity_name.836562ec0b90d0431ae1821a77d740b6c7e819f3":"RaveSwordDiscLock2",
+	"entity_name.b68af941a521295e8a2064382ad0c906993508a2":"§aJunes§6 [Lv. 100]",
+	"entity_name.e48ff87c0fecbd908db31022b6d9737c7715d88c":"§2Junes",
+	"chat.935a52e82bc002f74a8e750e1a96c647c5103ff5":"§7[1/11] §r§2Junes: §r§aHow did you open this door? It\u0027s been sealed for as long as I remember.§r",
+	"chat.44afcf53459bead3c30b8aef47de2874030b4181":"§7[2/11] §r§2Junes: §r§aHowever.. This barrier doesn\u0027t look like it was made by the empire.§r",
+	"chat.7213d4379d7df92be1f2aeb3bdf0b804559b19ad":"§7[3/11] §r§2Junes: §r§aIt\u0027s still old, though. Let\u0027s give it a little nudge.§r",
+	"chat.96304080990494a02c363b315b35498c66e1d50c":"§7[4/11] §r§2Junes: §r§aWell, it seems to have fallen apart to the touch. This is one of the biggest rooms i\u0027ve seen..§r",
+	"chat.88fc9eac981ed7c97f7cd744390e4154a2cc1b9e":"§7[5/11] §r§2Junes: §r§aThis must have been important.. Let\u0027s go!§r",
+	"chat.dc44b11f2071f85f4739b5972519c77413bb5dd5":"§7[6/11] §r§2Junes: §r§aDon\u0027t you think this vault is a little grand for storing just gold?§r",
+	"chat.9249fd60887edfebf6193a555d397bad560addae":"§7[7/11] §r§2Junes: §r§aLook, there\u0027s a pedestal for something here, like a weapon.§r",
+	"chat.2c4506431462683573563dbbfece476a80acd198":"§7[8/11] §r§2Junes: §r§aThe dust is disturbed around it. Someone has been here recently..§r",
+	"chat.53a4acf3fbd5390c1f22dc1a90059175d0d16c36":"§7[9/11] §r§2Junes: §r§aBut why would they take whatever was here, but not all the gold?§r",
+	"chat.a11f39e00562cbe22ccf075448bed7cd8f6f3a13":"§7[10/11] §r§2Junes: §r§aWhatever was kept here, I think we can assume it was of great value to the Emperor.§r",
+	"chat.6462c0d2e848a68918b28b9e76a3324287bd598d":"§7[11/11] §r§2Junes: §r§aWe better get out of here, and don\u0027t even think about taking this gold - They are artifacts!§r",
+	"title.cbeed95c80be78e305e393100b22b6784a8d6001":"§3Discovery Found:",
+	"title.1bc0847eda80f98da6b79267f5a0256ef9d012d7":"§bTemple of Swords",
+	"chat.02f14a255783a7beee38d7f65c102d248f607995":"                           §3[Discovery Found]§r",
+	"chat.0bd32be7f3147a74a0054eb1e22a6426b1ebb417":"                            §bTemple of Swords§r",
+	"chat.0505032aa7db4ec5b0b8621c49577120f48e1384":"§d     -§r§7 +§r§f3700§r§7 Experience Points§r",
+	"chat.3cf6c3ce384193c34ae361a115a1cb8c93c7606c":"§d     -§r§7 Location: §r§fDesert [1/7]§r",
+	"chat.b951063967a9eb68340c6e0c56f6b63181180fcd":"§d     -§r§7 Discoveries Found: §r§f2§r",
+	"chat.bc05bb4a58f359ee1f631f5bbea2f58d5594ad5c":"§d     -§r§7 About Discovery: §r§f§oAfter realizing its true power, Hashr realized he must hide the sceptre where no one could find it. Many years later, a group of bandits found refuge in this very temple.§r",
+
+
+
+
+
+
+
+
+
+
+
+	
 	"_": "----------------------------------------------------- DISCOVERIES -------------------------------------------",
 	"item_name.ad7ab8e21055a61c01f0ea87eb93a2ceb22fe6bf":"§e§lRagniÀ",
 	"item_lore.77087d5dd649a3202f4381e135b3ad5e7d1d8689":"§7One of two great fortresses in §r",

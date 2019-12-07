@@ -1,5 +1,11 @@
 {
 	"_":"----------------------------------------------------- HELMET --------------------------------------------------------",
+	"item_name.d320da21e05e77bb8f708c912a5985a2ecd5587d":"§eUnidentified Helmet",
+	"item_name.1f95dc2e4ed6ff1bd45caaf674587d329c6e2388":"§dUnidentified Helmet",
+	"item_name.2b7882cfd350d2c5a1431c9c0f5c27c2fe947699":"§bUnidentified Helmet",
+
+	"item_name.999e15ac0fb6d5a457d46279eb85fa01e2c34422":"§fChipped Leather Cap",
+
 	"item_name.e036ff878d9bfd7c220ad418b5c84a1ccc8d8aa7":"§eBlushwind",
 
 	"item_name.acd2fe89ef3f162d7a5f5937b8556e5202c24600":"§bThird Eye",
@@ -11,10 +17,137 @@
 	"item_lore.8020bc8c32b837528a5d55342702017c7da0b6e3":"§8luck and powerful psionic§r",
 	"item_lore.07a336140b56a87a760e2f980dc29cbbd17b12c2":"§8ability.§r",
 
+	"item_name.8ff7b74f80c88f21eaf0efed20808f801ccdd1dd":"§bFenmask",
+	"item_lore.57a1b5675f07aed5718ecd9ec14cee9bce620b5c":"§8This matted tangle of§r",
+	"item_lore.150741ba9c0f0f1504d62f2e7804a614be68b1dc":"§8vines and marshland plants§r",
+	"item_lore.131df47f521ea82d03d9fd2861425a4743dce992":"§8contains various herbal§r",
+	"item_lore.c51935f45ed146ef748633480241db2ea3f5fb0a":"§8remedies woven into it.§r",
+	"item_lore.95c0f375e09a7256c3a4de5c3db4b3da4f9e3db7":"§8It is oddly comfortable,§r",
+	"item_lore.562af527860a2616f411acc882fc403d26d98fc5":"§8despite the thorns coating§r",
+	"item_lore.382b89d6e5ce00db4e2455e48255f5cc941224c1":"§8the inside.§r",
+
+	"item_name.d1d65b3565d35e172a54e585062d75176b5f605f":"§dSpectrum",
+
+	"item_name.814759ec138ffd7532b6421cae6f4d333145c98f":"§dAlbedo",
+	"item_lore.bad0b17ef56ad6039d1bad8fccc48fa211a38ca2":"§8[Community Event Winner]§r",
+
+	"item_name.3e55e4b4db20acddeae1c4989a2d2207b2f81d02":"§eMyelin",
+
+	"item_name.3a21bd91c6342b39260d2323b84588b360d142f4":"§eSano's Care",
+
+	"item_name.8e8872cbe5b39c278304fb713892cdfc88e046ed":"§dCumulonimbus",
+
+	"item_name.8ebf1bdfe269e30fce4962f6f4402787981dd9ab":"§bCancer֎",
+
+	"item_name.c8d4c457c3cc9607f24ae190c73bfa47e61025a0":"§dShimmersight",
+
+	"item_name.85eedf87c0cdd33caf11cb8bfea48bf2e52d0f18":"§bBlue Mask",
+	"item_lore.24fc2a04fe267872c1dfdc04c7771b5e5bb5ddaa":"§8The Blue Mask's physical§r",
+	"item_lore.23c353fb2b81395f39c0ce25c9a5e7d7376918e5":"§8traits are equal to that§r",
+	"item_lore.349c1f0f5e24592788b0e3a51d8cc23dc79ae16b":"§8of paper, but the mystical§r",
+	"item_lore.3749ad664aa3c04c9be7f73efde70df1a7e39817":"§8properties enhance the wearers§r",
+	"item_lore.62e649f6b5be3f953fe5973148af3e35032cb09b":"§8personal skills tenfold.§r",
+	"item_lore.2e500027a74e9fb3fde6b1a8f027fe8b18f41fc9":"§8The mask is thought to originate§r",
+	"item_lore.8328b9d94d211b1483b0d11ab57c24675e203fd6":"§8from an ancient Dernel tribe.§r",
+
+	"item_name.3f34e94a1df91f6f12a83de434fb084c398d1656":"§bPisces",
+	"item_lore.ac4c7cb35df6c22a7a48cc84e879ec3a48043eee":"§8The oddly uncomfortable§r",
+	"item_lore.7f5e69c88d6ae27d2b14271c5fe9d89b17359e31":"§8helmet was hand sculpted§r",
+	"item_lore.6888df79858683b040784a7170375e225f8d8514":"§8from a mystic clay found§r",
+	"item_lore.510efc697d47cf706ccf47d47c491474ac15d9b6":"§8only in the depths of Molten§r",
+	"item_lore.14b73c62651ef2f5aeb361db7cde2311f02f9904":"§8Heights. Not much is known§r",
+	"item_lore.ce88e1231f07813a209994982d544bbc5da43811":"§8about the substance.§r",
+
+	"item_name.2ef073041974575d00ab4cd9323609f1c2b1ad14":"§eGreen Helmet",
+	
+	"item_name.8967e1198017b3b1a5dcfd5f5466bacd5d0fe144":"§eLurrun",
+
+	"item_name.5d72322b8913cf230b0be9fd9feeeab984f65f1c":"§dMining Fever",
+	"item_lore.f7aa1624a5e62a0c402dacce97bafcfbaacde46f":"§a✔§r§7 Quest Req: From the Bottom§r",
+
+	"item_name.2cabb83a15e2ac9fc15215f97ded84838d37fdf0":"§dAzure Halo",
+	
+	"item_name.234a4db974524afbb2fb348ec4ba7ccef63149ee":"§bNecrosis",
+	"item_lore.c3158252e667049b4c50b30e230b7599d38659c1":"§8450 years ago a demonic§r",
+	"item_lore.0cbc0525c49431ac41ada35fff247bfa61913c48":"§8plague like no other spread§r",
+	"item_lore.891c07b78cfff0ebedd4cd3bd96e70facf4a09d4":"§8through Gavel, killing thousands.§r",
+	"item_lore.15183dc65a25a82a0e0805682d7c4504bdc343db":"§8That is, until a priest§r",
+	"item_lore.f9cab3d5586c13907c1b580739e75eb56c9a639c":"§8encased the disease inside§r",
+	"item_lore.02aa4cf4e3b1e19bdf91d812d87ca0ff2799819e":"§8a helmet and warned everyone§r",
+	"item_lore.7f07472176e1b34f245689db770705d2a6094069":"§8never to wear it.§r",
+
+	"item_name.e35bc8812bbe83ef8d33fb4ae1237c3415e41fe0":"§aMorph-Stardust",
+	
+	"item_name.d2444297856de8ba3ce990eefe5e4c8835337058":"§eClimbing Helmet",
+
+	"item_lore.ded3830f35e0139d5e9333381f79c42c1132c9ec":"§a✔§r§7 Quest Req: Ice Nations§r",
+	"item_name.62d471e1ac50eb1f47237945ca9e7c5cb946ecfd":"§eBreathing Helmet II",
+
+	"item_name.0769e5245eef80f70e715a464749e8b86bddaa84":"§eFactory Helmet",
+	"item_lore.565a29acf5f14113a229cd47c2eac38bdfd950c0":"§a✔§r§7 Quest Req: An Iron Heart Part I§r",
+
+	"item_name.57d74b19d62c4480ec5265da3b4459274b23885d":"§dPurified Helmet of the Legends",
+	
+	"item_name.cc155f742af3de32c0e8413fec9a1a3eac16704d":"§bClearsight Spectacles",
+	"item_lore.d379fa4250ce04b204711a68a693d2889ecd9894":"§a✔§r§7 Quest Req: Taproot§r",
+	"item_lore.69da602f5057f78058cfea4b40a9742e43b8250b":"§8Ancient magicks are required§r",
+	"item_lore.65d21675a87c0305a5c39aaeb21b18ca109dee1d":"§8to make these brilliant§r",
+	"item_lore.f2b35d972c7c05245557f2b8a00c95974c81a10e":"§8glasses, imbued with charity§r",
+	"item_lore.9a2b74e449c03704a8824f07cc4a0d886ac7a96b":"§8and selflessness. They allow§r",
+	"item_lore.7a5852e9fbfdc6e15ae2cb5dd2a3198bd14c3359":"§8sight beyond sight, rumoured§r",
+	"item_lore.6ef6d56170d7f460989f65fc6316f6c1d977c424":"§8to allow sight of a brilliant§r",
+	"item_lore.b435ea964c1c4270cc37978e5f779c83626daa9a":"§8realm.§r",
+
+	"item_name.32abf8482fb4a8a280632302418277108406eb26":"§dHelmet of Shimmering Light",
+
+	"item_name.1fa731f5acc88d4be9be74570e85ab1ca6f96bf4":"§fGert Mask",
+
+	"item_name.513dabedf92f31cb0754327db7e68cbff10464b1":"§eCreeper Mask",
+
+	"item_name.9b546060cc1fe0faef984a9ffc2b93cf4b6cdbe9":"§dHallowynn Mask",
+	
+	"item_name.3b572836bb954b111f73e70c7a023bda8c37ab7d":"§fGuard's Uniform",
+
+	"item_name.a590919919d1803d70715345103014eb481e2678":"§dSound Proof Earmuff",
+	
+	"item_name.30496343e4046cc53f39d3056c2e2bcb272006bf":"§dAvalanche",
+	"item_lore.edf3bd9b1581c8cae022c93813a093e90418693e":"§a✔§r§7 Quest Req: Fate of the Fallen§r",
+	
+	"item_name.a111d7245aee2fbda6f9f08dea94f2ec586ae712":"§aKaerynn's Mind",
+	
+	"item_name.2986d674418878e5bc2bfdb2143c6f1ae193de23":"§dRestored Ancient Helmet",
+	
+	"item_name.04ea003e91bd95377df349269c35a17c4854517b":"§aVeekhat's Horns",
+	"item_lore.15a252e0b56b0a07b74f4c493a53c8030e93954a":"§a✔§r§7 Quest Req: Cowfusion§r",
+
+	"item_name.f34c7417e2283948178512b1e7e42a5b1b64e8cf":"§eFemale Pirate Wig",
+
+	"item_name.2228c6964972e9b65b26bfb6f639a47489a70adc":"§dThe Queen's Headpiece",
+	"item_lore.b8ace83d342eda87e194c4e5becd4114e6f74c26":"§a✔§r§7 Quest Req: Royal Trials§r",
+
+	"item_name.44bb971bdc013326c844933ef978de142543d8cb":"§aChampion Helmet",
+	"item_lore.1dcca7319ec652afede05750fcdc93c87e7d1465":"§a✔§r§7 Quest Req: Tower of Ascension§r",
+
+	"item_name.b3c0aaffeed10ffd1b8ad4eb81489cd29a8a6a35":"§eAquamarine",
+
+
+
+
+
+
 
 	"_":"------------------------------------------------------- CHESTPLATE ------------------------------------------------------",
+	"item_name.730d041371de3b630c6727e8a09bfa396a86aaf8":"§dUnidentified Chestplate",
+	"item_name.fb55e4316b43353406255c71651e71d56743b355":"§eUnidentified Chestplate",
+
+	"item_name.780a88aea0b14db64b1292f6b1e27962583ade38":"§fChipped Leather Tunic",
+
+	"item_name.a1560a0f885c0604d1e61540fcd0332d7ebd44e3":"§eSolidified Chestplate",
+
 	"item_name.9bec541eb59b9f058c354e0ada6221d41453d6b1":"§dChestplate of Ineptitude",
 
+	"item_name.7e165ac349ff631206bd32f369a680ef004ce4e7":"§eNightvest",
+	
 	"item_name.81bba3efece1e6add522b2b8123b7cd4b0413719":"§aMorph-Emerald",
 	
 	"item_name.69b2e279d2942c428307446615f187102cdb7a01":"§bBooster Plate",
@@ -24,8 +157,208 @@
 	"item_lore.93686702ca4fd52c9e7da2884680fe894949ecd6":"§8steam jets to boost the§r",
 	"item_lore.5c6f1e8d9c64829739f6c039acef7cd6e7a1a0fe":"§8user's speed, at a minimal§r",
 	"item_lore.b03799bdda094f349035695b665e22eb8feb3b06":"§8cost to protection.§r",
+
+	"item_name.8f2eb62f7ebea27031d4021e8129ae6ef31eb9df":"§bLibra",
+	"item_lore.cf6d41881a376136b459d1378a7a12fe92816118":"§8Before the invention of§r",
+	"item_lore.54822b803277b3c788c9be05e85c0d8b9aba1856":"§8magical weight detectors,§r",
+	"item_lore.e902728242be84d1995acdfc4fa48437b23895b7":"§8there was a giant pair of§r",
+	"item_lore.6406184d71bb74099ac808ccfbce2b3253dc73eb":"§8public scales in Cinfras.§r",
+	"item_lore.6b60ef869834470a79cb1f6f69435596b2d91f74":"§8Instead of being thrown§r",
+	"item_lore.c4f0f250a5ed4f5c1fbf99db80708cc4f621a4a2":"§8away, they were reforged§r",
+	"item_lore.bd700e261804021be162e78b28977dae5c884c45":"§8to be a formidable piece§r",
+	"item_lore.af2dd056f91382b41b543c883f81c19f49bbca2c":"§8of armour.§r",
+
+	"item_name.a70dc53751471ab031263b39bbfedce150a0de66":"§dSoul Signal",
+
+	"item_name.611bd759e49da45f0a5c26d3a209c60fad0a3eeb":"§bHetusol",
+	"item_lore.a1267e3b1e07b1af7e240f4f4c9f7d9796e71e59":"§8The make of this massive§r",
+	"item_lore.d38a77c2e1ac5eec213f81b2f3eaa7fdecf32a38":"§8cloak is unlike anything§r",
+	"item_lore.b3be45455673429539290db53a308396e293a473":"§8seen before among the provinces.§r",
+	"item_lore.96619883230cd7eb7d546709c7edb9d9a7396d1d":"§8Foreign images shift and§r",
+	"item_lore.f1d2feef4ee48833f52c6e8c3b0ecc841f2b02e5":"§8melt in ethereal projections§r",
+	"item_lore.209629243897a1e3a40599e010aa2646da929575":"§8within the inside.§r",
+
+	"item_name.84ce56d177b614214b6b9205f3d907ca5bd8f880":"§bGravity",
+	"item_lore.97ddfd9d2f6fed69048f3286f60ffd32e1af3c95":"§8No one knows how this§r",
+	"item_lore.50ea6eabd383274e3ac43d2886efe14a5945a4dd":"§8extremely dense chestplate§r",
+	"item_lore.9c071b9a9a0be861a70e77e9f21d5b15653bb3b4":"§8can even logically exist.§r",
+	"item_lore.fba45ff6ed14ccd82f479258a72036ddc682a5f3":"§8It is almost paradoxical§r",
+	"item_lore.4dd41da92c123547b47e5503e1f4b059b6e25b0f":"§8in nature, and affects its§r",
+	"item_lore.59f24bd5062aee80232971b761d910fbe912c575":"§8wearers in unfathomable§r",
+	"item_lore.62be7a852b8cc375bb4ed7b248f73bacff574f08":"§8ways.§r",
+
+	"item_name.e8daebeae6420da90662535670c14542c0c84c95":"§dDreamcloud",
+
+	"item_name.377e552bf6a847d8c6c61fdb85239c01dbf412a0":"§eCalidade Mail",
+
+	"item_name.31f7e0a2e4a8145a6424d09db307dc612cab400e":"§bAndesite Aegis",
+	"item_lore.3d1b303dbabe84c4f4b236e9b1bd52c6f426be7f":"§8Andesite is a stone commonly§r",
+	"item_lore.a970bd0f2efc89a88a7389a5a04a96ec6c938392":"§8used for weapons and construction,§r",
+	"item_lore.116800bcad48ed4acbb325d2cd48dfa68db262a3":"§8but tends to be ineffective§r",
+	"item_lore.ffeaa0196378c6b8d162100af6d9b05dd952f302":"§8as armor when impure. This§r",
+	"item_lore.3e3d1cd8ce6b4b6e476ebe2d6aedea253c1c73cd":"§8sturdy chestplate, however,§r",
+	"item_lore.cba265f1e7536c68eec4291fb36feb86fdaf7a2e":"§8is testament to the strength§r",
+	"item_lore.806c9b6b12ea82407f385e17dc11d28fb726aea0":"§8of pure andesite.§r",
+
+	"item_name.46d1439c7a4f33edab3793b0408f42dbbd1a1d22":"§bRekkr",
+
+	"item_name.2692c7d7a8332ad8c45753be2336d6f8bd402334":"§bAdamantite",
+	"item_lore.4b76b3465aff958e4f4459c72b4ee1f5b96f433b":"§8Adamantite is a soft metal§r",
+	"item_lore.955d6332c609613f3a23d19a17529c510a04fb49":"§8often added to exotic medicine§r",
+	"item_lore.e0901ad486b465ad93a0c2baae2759dda15636c5":"§8to increase one's health,§r",
+	"item_lore.eb9aa89b73bdce49e15e220b6d906692e993e5a9":"§8but a revolutionary blacksmith§r",
+	"item_lore.2be068e3cc25309e6b975bef1290760bc7cec4f1":"§8on Black Road, created a§r",
+	"item_lore.d217991ea0c1ed65aae6196b0529bb5f3a671d96":"§8chestplate with an Adamantite§r",
+	"item_lore.2debf8fbbc5dd76d6df52723bb7ee2d6e4ea59d6":"§8alloy, which is advertised§r",
+	"item_lore.4ccd8b36426aabe931bb8de0df99d75530efb566":"§8to bolster the users endurance.§r",
+
+	"item_name.cddcabcb15bbedf9949920307d873affc1d82dd4":"§eGravesbane",
+
+	"item_name.4f8484eef87fd19916fa48dc71190123583a9b95":"§eAzurite",
+
+	"item_name.787c78e22030ac708a3b9cbfc61da911b5c952a9":"§dNeutrino",
+
+	"item_name.25d0944b624cb6ff6b12a072005fa84e68d7ea10":"§dLeictreach Makani",
+
+	"item_name.c8369b76c9494f26992e46373a2373b0943a791e":"§bDark Shroud",
+	"item_lore.6774bf38390a6f0581042e9c96487c9c1af3041d":"§8Wearing this deceptively§r",
+	"item_lore.fa88fa0dcbee8d6df025da947d0c324f91b21a72":"§8simple shroud causes the§r",
+	"item_lore.715299d385e07f3a75b1daa41442780705a0689f":"§8user to fade into the shadows,§r",
+	"item_lore.c8d3e3753af253535c876701d51656e39d00c1e6":"§8sometimes flickering out§r",
+	"item_lore.a24cebead300ec4cb34ef4987e304a82bea64e9f":"§8of existence for a moment.§r",
+
+	"item_name.5a9a67329a54bd1457e894f0095b824a259b8ab3":"§eTailwind",
+
+	"item_name.5c9e41aa3df079ee7e85c1d1ef146009b2bb8034":"§eRapids",
+
+	"item_name.1650900025e8dba8662690a243559d724e5cb99d":"§bGreaves of the Veneer",
+	"item_lore.569024b8011fdc0f9d771c4d2ababb0788e0bf76":"§8Forged from mystic, previously§r",
+	"item_lore.fe4e3f29618f89de5976ce1ad40015c9774db79e":"§8unknown metals revealed§r",
+	"item_lore.856325220f9e12a93e576e35578e8ff72471210c":"§8in the deepest dwarven mining§r",
+	"item_lore.9f5d938f5a48ee94b71de40c3895333edd4020cb":"§8site to date, these sleek,§r",
+	"item_lore.c90ea1fd79ea63d2bd9e4e08d6d59f9758ce14bc":"§8glowing greaves are believed§r",
+	"item_lore.a5829e87e64a281183110d75f016df327f7830b5":"§8to be utterly indestructible.§r",
+
+	"item_name.2ca5de490fa19d6550e0a149595317b3eedde1cc":"§dThe Golem",
+
+	"item_name.2d13d56db2a3b71309dff228cc01593e8c55272c":"§eRation",
+
+	"item_name.0816506867da4be69f73cb0da6858227f19f2975":"§bPost-Ultima",
+	"item_lore.eea9f179e7c1c79b6898c957f53c7ea9fc0b3ee9":"§8These leggings are the§r",
+	"item_lore.e99731c011e09ca6e811f77c2eeb7aa01cf3d9da":"§8last remaining piece of§r",
+	"item_lore.0ed8cc2becf46e9d46f3bc99c3a992f9efbd1962":"§8a historical set of armor,§r",
+	"item_lore.d9f0439160643d21b5502a415595e6054fbb3981":"§8created with such power§r",
+	"item_lore.682814e9d5449b9e2670cf86c5b0f55cf2e4556a":"§8as to be thought impossible§r",
+	"item_lore.c6c12a23283c67540af5960562dcf3b12a67a584":"§8long ago.§r",
+
+	"item_name.a354d65b17998b1d59b1bc47cf26428a2b4a3089":"§bGemini",
+	"item_lore.aaafb56b933ad838609b68deeba8d9161e6fc6b6":"§8The gods of air and thunder,§r",
+	"item_lore.064c0ce987381ca2d3ae6c96e772ad548b01f0f1":"§8frustrated with being physically§r",
+	"item_lore.07b0ede3a4c37e8f6d7a1d20ff7a778a6dd6ecad":"§8insubstantial alone, decided§r",
+	"item_lore.17a35d3b6327c500cbed894a869c07195d88d4ae":"§8to band together to forge§r",
+	"item_lore.85edfc0cf559499c9e841831e43aefc7f8cfab31":"§8the ultimate leggings of§r",
+	"item_lore.74673089cbfb317755e361e016f272459c67773a":"§8defense.§r",
+
+	"item_name.4a1dfe6a25b1e0608ea8d24648331e41e04814f0":"§dPapyrus",
+
+	"item_name.808a493020033b99f28f1db5dc9b8c07dcc8904a":"§dDiamond Dust",
+
+	"item_name.2380a85e9e2a8bf406a7669665e003e519ddc85f":"§dDelirium",
+
+	"item_name.5b7e64ff538cfffbd8820feec38a19664d8fd369":"§eTerra's Mold",
+
+	"item_name.3c3c2e3546b40d3a0427af9e50d1bb85790d0617":"§bChimaera",
+	"item_lore.468f42615022c6ad63fa27060dfc9edf98f931a0":"§8The one true Chimera in§r",
+	"item_lore.b61c2017a411b3b663c2ad2c6e5d86a2b7e6fc35":"§8existence is sought by many,§r",
+	"item_lore.864305873cdeea5cea9efbe4fc7aef30badf5a21":"§8for great stories are told§r",
+	"item_lore.7c0444e5fd51279787a0e75a90fe39c85893f2a6":"§8of its gifts to the worthy.§r",
+	"item_lore.751d239f6bb5289785a9ecd4a209d68892bc3365":"§8One such gift was a simple§r",
+	"item_lore.978cfc90e35ec724a529ebef88973d1feaa0f4b9":"§8fur coat, which gave the§r",
+	"item_lore.fcdbef19011ed9b3d26c6ae750c9d648bf975572":"§8wearer but a taste of its§r",
+	"item_lore.458d32252cfaf5881c2f9a905d62db1ab7fd1c85":"§8power.§r",
+	
+	"item_name.14a72acd92b93e2aff7cd2f613f1ae4574b735bf":"§bMatryoshka Shell",
+	"item_lore.451e31288444a5598c7a993b5f993ea172baa44a":"§8The armor worn by the§r",
+	"item_lore.5856d414d6188743d44167e04ddb1419c1ff629a":"§8enigmatic Matryoshka Idol.§r",
+	"item_lore.6d9bec0fbfb8504d60d1238f1cc76e57a1fa14a9":"§8It appears to have a nearly§r",
+	"item_lore.76a4b49963045c115e4231d44671a0b4a1324fc4":"§8uncountably high number§r",
+	"item_lore.4fb9b7d2f840d9f1c4866f60859ea95f003ebaf1":"§8of inlets and sockets set§r",
+	"item_lore.62462278c5760e9adaa1545aa1be87e4553cb398":"§8inside.§r",
+
+	"item_name.250210b68ad696738b3aac7e87e9d82d359d3971":"§aMorph-Steel",
+		
+	"item_name.e0c30982bd223b416ce7d0e5e447f0ed31a51aab":"§bMummy's Rag",
+	"item_lore.00b836a0617ae88a119d2230c8586691019888c1":"§a✔§r§7 Quest Req: Wrath of the Mummy§r",
+	"item_lore.5200f4f7241ebd71c7935bf1332d4d0f70369893":"§8The accursed mummy once§r",
+	"item_lore.5b4ab3f0bc1ae2c08337a66d7e4aa3fcadb62c13":"§8wore this robe as a great§r",
+	"item_lore.1ea2fdb6891ff969e5e361ea94dbcd3a704f2474":"§8pharaoh of the desert. It§r",
+	"item_lore.347de473bd9e5a28138f42f47a19f93fc7f6f13c":"§8has long since rotted, leaving§r",
+	"item_lore.f83b39785a38902ac5f3448307c6dcc9d8ff3e1d":"§8only a cursed shell of its§r",
+	"item_lore.eae5df8691b558ad433368c51197956101fb8113":"§8former greatness.§r",
+
+	"item_name.2d6d43678b33b17d64d09d6097c6565d19e9285f":"§dHide of Gregg'r",
+	"item_lore.43ac7616fc1676ab1b377b2f258e7617f2cb3404":"§a✔§r§7 Quest Req: Green Skinned Trouble§r",
+
+	"item_name.0988a77614343206d956e5936a9f229fef6f05b5":"§dEssren's Coat",
+
+	"item_name.1da6860319f4dd226c2114b3981f33084684b728":"§dPsychomend Vest",
+	"item_lore.40804055b01d9fde9de88ac6efd264b294447cd0":"§a✔§r§7 Quest Req: Shattered Minds§r",
+
+	"item_name.3262ca81eb7dd30bacf5b907c10e7273563fbaf9":"§dThoracic",
+	"item_lore.4935bde6c53b0c6a3696c69cd9a80c8dbfdc8e6e":"§a✔§r§7 Quest Req: The Sewers of Ragni§r",
+
+	"item_name.4532e51fcc3dc7aefbb4e5fe2ec3b6ff6b21eab9":"§eBob's Battle Chestplate",
+	"item_lore.8860160b969e2785adce6f83f5d11b0d026b2188":"§8This battered chestplate§r",
+	"item_lore.b3e49712843f775bdc6159b3ef0c3e5d14f418f3":"§8was once worn by the legendary§r",
+	"item_lore.ace6b1d87480acf89cf5cae92c3070e75bb82bfe":"§8Wynnic protector, Bob, during§r",
+	"item_lore.f5e95cd7e88cdbaa5fe1c9a89642cb218d6f867f":"§8the fearsome corrupted sieges§r",
+	"item_lore.d169140ac5664aba2551460957c0658333deb703":"§8before he gave it away to§r",
+	"item_lore.f6875193a8c9cd6e1753c5d57e24b01d12bc8cf5":"§8an old friend. An air of§r",
+	"item_lore.aa5f5a33423077d8d479d560fb8936b9da58f8ac":"§8melancholy hangs over it.§r",
+
+	"item_name.bcb413ee6c19ef2c6dd614572b017095d255c5d4":"§dCloak of Luminosity",
+	"item_lore.aa53b625e71a11e6a24ab471edb326cf6aab198c":"§a✔§r§7 Quest Req: The Realm of Light§r",
+
+	"item_name.d16b96b67244abf3d188d610427d3757f8285f54":"§aKaerynn's Body",
+
+	"item_name.dc30f9499e185371a056c11e4a10a9955be2f488":"§dDragon Hide Plate",
+	"item_lore.6333bcf632ff86c8dca5bc9971f3a775c115f1b1":"§a✔§r§7 Quest Req: The Belly of the Beast§r",
+
+	"item_name.f1482fcfbc6ccc1ef72e38f62c41da2622f94fe6":"§dChangeling's Chestplate",
+
+	"item_name.a50771fa674de71b72b4ed77e4744ce41f76932b":"§aVeekhat's Udders",
+
+	"item_name.c33a0b901cb7662a5675e768aadc7b90328f574e":"§dThe Master's Gi",
+	"item_lore.676f228748a488f06192b62dc3cf0a8e07c5f679":"§a✔§r§7 Quest Req: Enter the Dojo§r",
+
+	"item_name.4782110e42765d4d3be6fbf017a9b0f59f6d2510":"§aChampion Chestplate",
+
+	"item_name.1d6501537a97fd72726f1da689a78f82e28d29ee":"§dSky Chef's Apron",
+	"item_lore.ed8f52c3adae15d363126390cef1c5e8f1c6ef91":"§a✔§r§7 Quest Req: Recipe For Disaster§r",
+
+	"item_name.0e0813bcf9425580d419d1abbbcb522d490bfc3f":"§fBrilliant Diamond Chestplate",
+
+
+
+
+
+
+
+
 	
 	"_":"----------------------------------------------------- LEGGINGS --------------------------------------------------------",
+	"item_name.d5d31929270a2783c87ac153fd326a44d4ea7a98":"§dUnidentified Leggings",
+
+	"item_name.10eebb2f19e1851a2b122603f1462d3089a125d6":"§fPlain Leather Leggings",
+
+	"item_name.8e15f56b30c498382eb50316cc6dc688ee07896d":"§fChipped Leather Boots",
+	
+	"item_name.84fb472e92525648b073fef4cff2e75e32afd6b3":"§ePlains Runner",
+
+	"item_name.0f8e52dce69c8ee33ddbb01f08dd69350c83d1c6":"§fChipped Leather Pants",
+
+	"item_name.a1ae55e7ec783931329e00e78d940d657141ac15":"§eBattle Leggings",
+
 	"item_name.143259c59f5ab0c4274b26baba743d062b4c2861":"§dTrench Scourer",
 
 	"item_name.61a74429d4ca972f907cac128687ce1ba51f7e53":"§fClear Diamond Leggings",
@@ -44,7 +377,59 @@
 	"item_lore.7eae0b1bbe65a483f3b15edee3c472b28c1b9cee":"§8them. Her courage fuels§r",
 	"item_lore.08977988e045666ea990a3603db92cf062a8350b":"§8their wearers.§r",
 
+	"item_name.6a5bf10deaa7ce8a77203310d40ce5ea50a55c38":"§eCurador Boots",
+
+	"item_name.5371e5ff82a5a2331489d6101b1193ac64dff455":"§bMemento",
+	"item_lore.b844a865cef6e88b52414be62efe57775ef55394":"§8All those who wear these§r",
+	"item_lore.510694f874901ca96ec5a57795480017f2bf092b":"§8enchanted boots deposit§r",
+	"item_lore.b856a00f3aa9cd53844e0ac16f399054aee3377c":"§8a single fond memory into§r",
+	"item_lore.0b369b84ec2183fff769ac8133b1f4006cce1ed8":"§8them. They are forgotten§r",
+	"item_lore.558ddafa90a2a1256243bf4cd2feb9f11055129d":"§8forever, but wearing them§r",
+	"item_lore.eb3f75c02e70e49c124f8f2e89998d7f1f5020ca":"§8recalls every memory within§r",
+	"item_lore.6fc2ba8ff56abe3ab3d75485bbe0acdf2f447dcf":"§8vividly.§r",
+
+	"item_name.94b35e614ccb09302ecd45d18508e6995619f105":"§dOuroboros",
+
+	"item_name.d85c6cd0390baa9d193b122be8d29fcbda19ee33":"§eGrip of the Land",
+
+	"item_name.94432f7ea9e3b8b39cd4b79d694d4801dd87b7e6":"§dLeadlights",
+
+	"item_name.3648537a13d2cfb893ca5801ac7a9eda5d585dd7":"§bVentus Tail",
+	"item_lore.2eca9362b223b3598a7eab0a8d9d02c6c1872668":"§8Fashioned from the cut§r",
+	"item_lore.2b1272a1b030300da11dc5fa5c47a50d40faee77":"§8tails of the now extinct§r",
+	"item_lore.1ef9939373e0ab11faaf113bd5a2074192f04dff":"§8Venti, these nearly immaterial§r",
+	"item_lore.030e5d27753051f870d1b567a7c7c2f798749ba3":"§8boots are light as air and§r",
+	"item_lore.620d7707a87f5bfc5245cbb662c8e5aa239a531b":"§8crackle with lightning.§r",
+
+	"item_name.da7acc223bcc9c6fc59e690ba7e82ec796845ad8":"§dMesosphere",
+
+	"item_name.6e1061be59be845ac032a362574017a0afa15357":"§eThe Oblivious",
+
+	"item_name.40ebcbf4446a16044db15d80f6228bdd2168fdaa":"§dShameful Greaves",
+	"item_lore.96a1e0fab106a01c456b420f1ea20505528482f5":"§a✔§r§7 Quest Req: An Iron Heart Part II§r",
+
+	"item_name.e90034c2bc29252b5ab761098d86c8e814b66c2d":"§dLeggings of Desolation",
+
+	"item_name.87e5d03819f69be91d691d64396afea667889f63":"§dFire Wire",
+	"item_lore.05f623c8c98dd6c8235220fcb68499a73dfe326f":"§a✔§r§7 Quest Req: From the Mountains§r",
+
+	"item_name.167073022c803c9db39265bfdecd8ca8fb59f375":"§aChampion Leggings",
+
+	"item_name.56a97753a80b7e065b6016be204a35c5a836f374":"§eBarbarian",
+
+
+
+
+
+
+
+
+
 	"_":"----------------------------------------------------- BOOTS --------------------------------------------------------",
+	"item_name.7fcab99a396f8372f81ab57aef99bf7237fdece4":"§eUnidentified Boots",
+
+	"item_name.5a286ffc3662613e4860192701c897e29fafaf40":"§fBrilliant Diamond Boots",
+	
 	"item_name.63e59117f8041b48e90905dd625266d4b9d5caf6":"§bSteamjet Walkers",
 	"item_lore.5fc419984bb812a0426dd5872fad39b8ec8d372b":"§8A rogue inventor stole§r",
 	"item_lore.fe630af2300f18d7efa94167222c20448c1fd2e1":"§8the plans for a steam jet§r",
@@ -78,6 +463,52 @@
 	"item_lore.1946fbccd16661ba009b15e8920c745919abfff2":"§8the strength that is provided§r",
 	"item_lore.4597e4b591e9606ac500bc5411a48c73beacfbfd":"§8when they are worn is unparalleled.§r",
 
+	"item_name.e674e5fd360d183a3104e44415c1676d5fd15eaf":"§bPirate Luck",
+	"item_lore.ed146eeae328fa7267c901422bfbbc7702b625f5":"§a✔§r§7 Quest Req: Beneath the Depths§r",
+	
+	"item_name.a51778ab0a224ad183ac969e0bfffb13fe4990b1":"§eBlack Sheep",
+
+	"item_name.2cf909e4168aa3cc1da0ddf9970ef635ae5b7c7c":"§ePlacid Step",
+
+	"item_name.03c8659f1e9a5ffb4be631ac93aa1623abebedf5":"§bScorpio",
+	"item_lore.d4e6a2b777563fe86af49bb37f6b0ddd0a542b09":"§8The carapace of the common§r",
+	"item_lore.35dc3bd8f1d2b0d60c456cd77bbd42311f2fbaf9":"§8Maexi pet fire scarabs,§r",
+	"item_lore.000625de8b857a4731468a061bb97d9902d27d74":"§8while alone, only cause§r",
+	"item_lore.7cbea7240cbd74a0ee70b415902bd4c239aa71d5":"§8minor burns to the touch.§r",
+	"item_lore.32f310115a0efa06df2388706f04caeaa2bc3a14":"§8However, when woven together,§r",
+	"item_lore.85e3033a85c2093c3467d713ceeb5546554ee3d5":"§8they produce a variety of§r",
+	"item_lore.d48f8f80fd0d9492c19bd57096df4479afec5120":"§8cumulative effects.§r",
+
+	"item_name.2326823498ce68f3fa04ac450476a7f16f15e7c2":"§bAudacity",
+	"item_lore.1eaf3922a35fca580134b7e8fd31b9732db442b7":"§8A powerful mental curse§r",
+	"item_lore.72358d588dc8cea3aa7d33796659d89b01660c2d":"§8surrounds these boots, inciting§r",
+	"item_lore.5cbf84bc17fa40ffa82fbcc7bac6fe325c2ec570":"§8uncontrollable rage into§r",
+	"item_lore.4c77c89d4d21bbcbb74866699cf8c74ff279559b":"§8the wearers, as well as§r",
+	"item_lore.7722f7c63c69f3d2e5d5dd2bf23b7436f00a4374":"§8the power to enact it upon§r",
+	"item_lore.dbbfe0ebf2467d614881a0c31f6de23159b00e53":"§8others.§r",
+
+	"item_name.622457302ae1616397cfd4e27fb2c6676e659f25":"§bSodeta Boots",
+	"item_lore.33bea69a4550c2398b289c7d9078f7cf4b4608a9":"§a✔§r§7 Quest Req: Lost Soles§r",
+	"item_lore.2f686e2739cfe740c870fe9ae1d478bbe0010d50":"§8These boots were standard§r",
+	"item_lore.9cc4c95dcd4fa83f3181d8872520f7434e324db9":"§8issue to members of the§r",
+	"item_lore.e9f64d425babc272eae6708b597159da94bac5d9":"§8prestigious, and now disbanded,§r",
+	"item_lore.7362ec692dbb878b79f5edab9bd44deb47ee1c8d":"§8Sodeta Guild, and given§r",
+	"item_lore.0e52214e3f4c0cfa765b9c157b1f772575c966d3":"§8as a gift to the owners§r",
+	"item_lore.6fb8964d1d7eaef5930c0c211088376847a73dc5":"§8of Delnar Mansion one day.§r",
+
+	"item_name.daf61ee7b200feffb00b2327ee501ddc03b96392":"§aChampion Boots",
+	
+	"item_name.c4775793518d65c0438290b1dd97c1cbb28c082b":"§dElectro Mage's Boots",
+	"item_lore.0f41a0461924b08abb80006c3c15c08c2ff58dc5":"§a✔§r§7 Quest Req: The Envoy Part II§r",
+
+	"item_name.3a17f0632c3b9fd5d5e0ddf6bc1cd1e6836b6039":"§eThe Stokers",
+
+
+
+
+
+
+
 
 	"_":"----------------------------------------------------- RING --------------------------------------------------------",
 	"item_name.44fe9ebcddd887f94f155e357f549e8f1bcc7b6c":"§bDiamond Steam Ring",
@@ -90,14 +521,122 @@
 	"item_lore.6cbb3436059dbefc59f493fafbf9da30af5aaaaa":"§8clear diamond.§r",
 	
 	"item_name.057eb1d04477b5995ac67fcd01c8cb89757a3db3":"§dClockwork",
+
+	"item_name.8291568723d2729edd63f7315cda4137a79be6d5":"§eFehu",
+
+	"item_name.7dc59fc4496454d4cf193af5c9307821b26767dd":"§dVoidshard",
+
+	"item_name.eba0fb0085469bff354ddbf6f8f66c51bc11e915":"§dRing of Generosity",
+	"item_lore.aa0577b26f14f82822613cf18c36a602e8cddca3":"§a✔§r§7 Quest Req: Memory Paranoia§r",
+
+	"item_name.bbcc3418b05991fc06875fb155d95e8e005944e3":"§eAcid",
+
+	"item_name.b31d4348129c37c81a43799bddee10b2e9e9cb19":"§aJester Ring",
+
+	"item_name.ff44d4c97dd263f72b4b3b09c1ee48c5b414cc43":"§dDetective's Ring",
+	"item_lore.434a37483fac6d56342494be2caece877bde7f1c":"§a✔§r§7 Quest Req: Murder Mystery§r",
+
+	"item_name.3f3d66d439b84c6f79eaed4d1c334a31eb63d070":"§bPrecious",
+	"item_lore.2e492340353b89c1a58dc8aa86cfdda6f58aa2ff":"§8A strange magic attracts§r",
+	"item_lore.0e2ec82d0eee647fbe11496d5eda1727e45f9c7e":"§8you to this ring. Maybe§r",
+	"item_lore.cfab839704a0c0e319830e5dc5dafd5e7c2a0fa7":"§8you shouldn't tell anyone§r",
+	"item_lore.e91edac465946d005945b14b3f48d3167ab24f17":"§8about its existence?§r",
+
+	"item_name.056a977c2e156c2386e4681f5acf1503625b1d41":"§eBlack Ring",
+
+	"item_name.d01ac8afc8624a9d33a8a4e6168be69c4a5549aa":"§bSaundersi Signet",
+
+	"item_name.5b1601aad81cf5d85de9768171441d4a44954b8e":"§bDownfall",
+
+	"item_name.466a918e422d6ee8a80cc10603bd4d63dd87e7ee":"§eRing of Wisdom",
+
+	"item_name.c7e46817e542e0777e5ba97a28a004f45b464aba":"§dRing of Rubies",
+	"item_lore.9f03a85a5e19ae0ee323326d6be27b7f62014625":"§a✔§r§7 Quest Req: Flight in Distress§r",
+
+	"item_name.6c40409c1e9e0d3b51730a30f1457f24d354071e":"§eGiant's Ring",
+	"item_lore.a4eabc8a8da1ae0007510bc8c9f55319b2a5e450":"§a✔§r§7 Quest Req: The Bigger Picture§r",
+
+	"item_name.6c160b104fbaad81d5e3a62f249e8de0e40e21de":"§eGnome's Ring",
+
+	"item_name.49014ce2df1b12cb11f7cc470b9f334edd6aef6d":"§dQuartron's Eye",
+	"item_lore.2c8c58b2204a707eed51df6a6d7873312437e561":"§a✔§r§7 Quest Req: Rise of the Quartron§r",
+
+	"item_name.ed7bf59e1bbece9da4701e17eab7b72f065e86dc":"§dRaging Wind",
+	"item_lore.9a8af98c965322c58644ab89a9d7f33739069193":"§a✔§r§7 Quest Req: Beyond the Grave§r",
+
+	
+
+
+
+
+
+
+
+
+
+
 	
 	"_":"----------------------------------------------------- BRACELET --------------------------------------------------------",
 	"item_name.28a4eb877e3545fc2b92cd5d1df3e069c9ead8e7":"§bVanguard",
 
+	"item_name.b648678b787f02ce1b2e4cd30844100f91b4d3a4":"§eFoam Bracer",
+
+	"item_name.77c4013e154f2381e2a7a8fbc847a2432da9f0ce":"§dKrolton's Cruelty",
+
+	"item_name.2383f5e6277cc25f70b7265368c0883f72869cb0":"§aJester Bracelet",
+
+	"item_name.e4e030f14e567c623c1226a3d7a8de18c358e06b":"§bKnucklebones",
+	"item_lore.04b21d14b19460b2d25ecf085daef39d8e6f2d67":"§8An old Nemract saying§r",
+	"item_lore.742f2a642881e030fd0cf06641ec1d54b031b6f5":"§8is engraved along the metal.§r",
+	"item_lore.90a391727363267ac084a68b65b5ff1e87a52dcd":"§8\"A single toss of the knucklebones§r",
+	"item_lore.9bf38076291eea66bb05ae7ff6d216137684eec9":"§8can make or break a gambling§r",
+	"item_lore.721348a7da769d796d53032fb51e1852f1f2f20e":"§8man.\"§r",
+
+	"item_name.ba377c79164b337415d8b0e56691c347dd5bedc7":"§aMorph-Amethyst",
+
+	"item_name.d78b13e2e78c40e821f995fc2123fa470c1796d4":"§eKayde",
+
+	"item_name.9d9e74822a0d0f9bc056f60bb8b65224ed6d4e98":"§ePower Bracelet",
+
+	"item_name.bf00cafb64a1fc333cf5ffeffa562323282f26ae":"§dRagon's Bracelet",
+	"item_lore.ff8795041c65331ca8668806a48f0560fcfabf13":"§a✔§r§7 Quest Req: Elemental Exercise§r",
+
+	"item_name.9c301f857db88cfb959af96da37d0d607706baf1":"§dGenerator Amulet",
+	"item_lore.e5ed96b00b3bdd931dac326d05adba64cb2488f6":"§a✔§r§7 Quest Req: Heart of Llevigar§r",
+	
+	"item_name.5dcbcea33869cb46c5045aeaa3b82a94279cf199":"§bAbyssal Amulet",
+	"item_lore.7d734912d666dbaac484b66be252b4e2da4316fc":"§a✔§r§7 Quest Req: Eye of the Storm§r",
+	"item_lore.da69d1856c2b5a97a7caaf230f145fce80d6b83e":"§8Used by the Order of the§r",
+	"item_lore.17ced539d10515f6be8fd5ede0c26ac52bc1d6bc":"§8Abyss to aid their summoning§r",
+	"item_lore.602a10212ddf8e25f3333f24c482aefe25375482":"§8rituals, it contains a strange,§r",
+	"item_lore.f8870c5860603417c03a5f6e1010394d6ef787cc":"§8fiery energy. It has ties§r",
+	"item_lore.da046eb1feda511a374f689e74d514bfd7306d0a":"§8with a terrible demon...§r",
+
+	"item_name.dd5a800f7657adb5adb9d6a16c157cff3fd83351":"§dMech Core",
+	"item_lore.4eaa5aa47df803fbe5aecf3530cd14c79442c1ea":"§a✔§r§7 Quest Req: Desperate Metal§r",
+
+	
+	
 	"_":"----------------------------------------------------- NECKLACE --------------------------------------------------------",
 	"item_name.bbe54134733de23d4073414963fce73c73a08152":"§dPendant of Prosperity",
 
 	"item_name.99f7129df784f3779958a435725eb785082b082f":"§bGigabyte",
+
+	"item_name.9388e3b906b954aa0fe4b33d3f5f93f1a88b2934":"§dOminous Wind",
+
+	"item_name.2349215ff4306c8aa11f61cfa5e042bc106d48d4":"§eGospel",
+
+	"item_name.3e4fd21fe0c873bdbb272c9aa19521c67a392379":"§bPlanet Healer",
+	"item_lore.984f48ac5c287c7974177a25a673017a4e7770e1":"§8The jewels in this necklace§r",
+	"item_lore.3fcd80deff12615c0ecc84febc751c2cae8178fc":"§8naturally draw darkness§r",
+	"item_lore.43409a80459d89e27c9785d78dba143836878596":"§8and corruption into its§r",
+	"item_lore.e4c7ac8650e4217486097890507a8fcd48194912":"§8wearer, purifying the land§r",
+	"item_lore.0a0fef742706405cc239e9ecf9b1d8dd1dc551ce":"§8around them at the cost§r",
+	"item_lore.844e8d86ec00717878621e6b030d0a8b769d4abf":"§8of their own life.§r",
+
+	"item_name.f8e06ca44b257cbee8fbf0357fc01619a63bae88":"§aMorph-Ruby",
+
+	"item_name.5a3474056ab969d2f97a75fb4033207ffd2e4769":"§eTrainer's Pendant",
 
 
 
@@ -108,6 +647,7 @@
 
 
 	"_":"------------------------------------------------------- ARMOR STATUS ------------------------------------------------------",
+	"item_lore.6802e65bbfa14cb38778c218be5cedef67eb7429":"§7Very Slow Attack Speed§r",
 	"item_lore.95b7c98aa47e03f8db49e2f91384580a449b5cb5":"§7Slow Attack Speed§r",
 	"item_lore.ebcf77e95594614ce922f80f26c5b11d785b7e6d":"§7Normal Attack Speed§r",
 	"item_lore.e9a7fc1c944a3d017495ebe492341f7db7c9c663":"§7Fast Attack Speed§r",
@@ -175,9 +715,12 @@
 	"item_lore.ee9b60a3212966f99cfcdc6d6916366f7b829d8e.regexp":"^§(a✔|c✖)§r§7 Intelligence Min: (\\d{1,3})§r$",
 	"item_lore.d1e8dbcd089bcc806adfa33e91fd5e773a69adfa.regexp":"^§(a✔|c✖)§r§7 Dexterity Min: (\\d{1,3})§r$",
 
+
 	"item_lore.96e2463f43367c03058a9611f0415bb271dd0968":"§c-1 tier §r§7Attack Speed§r",
 	"item_lore.59cd5de08dbc7b787a8b1e444dc4ad17ec651d19":"§a+2 tier §r§7Attack Speed§r",
 	"item_lore.e3c82d0aad6f1c75f1d43697a379f5f4b8ebe0c0":"§a+2 tier§r§2* §r§7Attack Speed§r",
+	"item_lore.7fc5609f0247493b02fe53d687fc782d93687c60":"§a+3 tier§r§2** §r§7Attack Speed§r",
+	"item_lore.04fa5a52e691bbc9437a2eb7c83d882d44f03f70":"§a+3 tier§r§2*** §r§7Attack Speed§r",
 	"item_lore.8fe001a281f4e8b398f72b7ecaaca887e4758a7d":"§a+11 tier§r§2* §r§7Attack Speed§r",
 	"item_lore.bfc059fac0a7262b3f8641aebacf3eec490b48c7":"§%s §r§7Spell Damage§r",
 	"item_lore.4ede6c951987e6696e0465c9a97d86d1cafb9c7b":"§%s §r§7Melee Damage§r",

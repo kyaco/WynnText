@@ -29,5 +29,25 @@
 	"item_lore.c8cd2247fb4b0c3ecf30fec66521ddf690a48cc8":"§aJester Set §r§7(0/3)§r",
 	"item_lore.aa0d58666b0350aecc74d7766ed05d1b36a6094f":"§7- §r§8Jester Necklace§r",
 	"item_lore.390383859d4cdfe2dc22b90bef525b06a108a2ee":"§7- §r§8Jester Ring§r",
-	"item_lore.dd43a61bf677f856c4460357a8bca9e4ab001f81":"§7- §r§8Jester Bracelet§r"
+	"item_lore.dd43a61bf677f856c4460357a8bca9e4ab001f81":"§7- §r§8Jester Bracelet§r",
+
+	
+
+	"item_lore.343f5cb82995ef8033c1566a1c0dd26434a44f49":"§aKaerynn Set §r§7(0/2)§r",
+	"item_lore.552f840203fd120380fa0ec71bea25e052f6e4c9":"§7- §r§8Kaerynn's Mind§r",
+	"item_lore.b813c8e211fa1a2f8472e64867dd3cab2cd2c8c0":"§7- §r§8Kaerynn's Body§r",
+
+
+	
+	"item_lore.e7d2bc8ce892a47be6e5cdce1d02474511f7aa7e":"§aBovine Set §r§7(0/2)§r",
+	"item_lore.7be91760f4c21540d93f372e4d820a34c4fe8a39":"§7- §r§8Veekhat's Horns§r",
+	"item_lore.236ec616ae9139cb232d1b96cbcfef46fa999078":"§7- §r§8Veekhat's Udders§r",
+
+	
+	"item_lore.5a3b66da389f92976f18c47b93cd506bb0536475":"§aAscension Set §r§7(0/4)§r",
+	"item_lore.a682e0e65141deb6e371698e301c3c49ee8d4670":"§7- §r§8Champion Boots§r",
+	"item_lore.0876bf767ef3d6d07e5bf21ad470ca88536eb1b7":"§7- §r§8Champion Chestplate§r",
+	"item_lore.ae493e35a901a9cd7d04974573365021df0f8bd3":"§7- §r§8Champion Helmet§r",
+	"item_lore.9db789b3b2448c452188034049627d05fc668567":"§7- §r§8Champion Leggings§r"
+
 }

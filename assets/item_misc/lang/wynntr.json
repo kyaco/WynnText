@@ -1,4 +1,74 @@
 {
 	"_":"----------------------------------------------------- MISC --------------------------------------------------------",
-	"item_name.adfc8e5c7046f2b801cbff86a67937112c415188":"§fMama Zomble's Memory"
+	"item_name.adfc8e5c7046f2b801cbff86a67937112c415188":"§fMama Zomble's Memory",
+
+	"item_name.243c143d880f2d51eb58f0b692d7a62e65d78c26":"§fCluckles' Favourite Feather",
+
+	"item_name.771215b890bcfdd850d244c7fda9af255875c152":"§rWitness Report II",
+	
+	"item_name.e4ab9a491dde955859aa76b48239612a8ea4df82":"§rHealing Water",
+	"item_lore.5bbf7d9bbe1a355649933f77cbd3143007cf0a1c":"§7You can almost see the§r",
+	"item_lore.002aa8baec722557f774da081c4d8c93be9950ba":"§7mysterious fluid glow§r",
+
+	"item_name.b3f8831130f7b1cdd562e2c61f1588b7acfacf9d":"§rWitness Report I",
+
+	"item_name.e5ec5c8c1b7301562932be091bc127c5ba6ac0dc":"§fHighly Explosive Magical TNT",
+
+	"item_name.da71543d5e1bd7474969f0bdc31946e116049a43":"§7Old Basement Key",
+	
+	"item_name.8332e6ae349fb368e666cf2a2f68f6ed53004efd":"§fMaxie's House Key",
+	"item_lore.c7909acabf1cffd482cc513ba61a638624f70f86":"§7The house is located§r",
+	"item_lore.d0e758f82a6bd7ac1836d78b7bd751dfc3abfbce":"§7at §r§f[-1572,68,-2876]§r",
+
+	"item_name.bb323e5617653731a240d68c16350593686442ff":"§fMap of Gateway Island",
+
+	"item_name.a1df21084fd3b4dc4eb2d99d3f4792fbcfcb6945":"§fCorrupted Treasure",
+
+	"item_name.9f6c4e303bd56ed541149ac4b38395438fb1d1ec":"Wealth or Knowledge",
+	"item_lore.0c4e3d6ac48298cc63938b3458c1b622053ebbee":"§7All this book says inside is§r",
+	"item_lore.5c4014a05d698eb6c649d41efa463ecb96310158":"§7\"Take your pick. Wealth or knowledge.\"§r",
+
+	"item_name.98e98f8bdddf0158391c571333ba0f729a23d06f":"§fMeteor Shard",
+
+	"item_name.6c0d24c016c7c30c9e29a5d969f053c8e14a18a0":"§fMage's Riddle",
+	"item_lore.a32c771d79d5422e59447ae160047fd7e9a9cafb":"§7The riddle is neatly written as follows:§r",
+	"item_lore.12ac5084d30cd0c7729a6c22df9fb296aa98486d":"§3Near a corrupted bridge, a ruin past its prime§r",
+	"item_lore.3a55f21ae46f19c5afd88b4bd50b9b9818e3dae5":"§3lives a cursed sheep, with the color of lime§r",
+	"item_lore.fff69837441cab93226d40743bc3796e6f7eec4f":"§3lead it down the trail, heading to the slime§r",
+	"item_lore.25a9faf0748faae297548b8dfb78b3c411ce310c":"§3sacrifice its soul, in the blood and grime.§r",
+
+	"item_name.45d9a681b34bab7f03300712939acd0f4af181d3":"§fQuartz Contract - Q Project",
+	"item_lore.5da9c391e73b57579e391ffb73af48d684684a0a":"§7Deliver Goods to:§r",
+	"item_lore.86b24412604a3f184fc507d200ad0993b975cdda":"§7[-1540,73,-4394]§r",
+	"item_lore.a15827b5a395086dff32e097920e3929a27cc8e1":"§7Signed, Kaosuw§r",
+
+	"item_name.32a04d8d72cbf5fcc80ce5c44d374bd30a5981c6":"§fCaissop's Master Piece",
+
+	"item_name.38b4dd366ff9c4a84bb3a1a5fe2a13382bc0c295":"§fDisenchanted Map",
+	"item_lore.46b313abab47523dbc100a7f4d8cd3ca733aa4a9":"§7The map shows the§r",
+	"item_lore.6e3dcc4ae403db27f94a2c188b1ae74ad52c441d":"§7entrance at§r",
+	"item_lore.fca1f2651404fb8ee44f2830590fbecbbcd9aed1":"§7-187,16,-3452§r",
+	
+	"item_name.bb517d2ac59b9337817b1795982ffc16ea4bf70f":"§rScrawled Note",
+	"item_lore.3665e53e985c3d6a4df42639cd64d61b2da92bd9":"§7We hid the sceptre in the house next to that cart.§r",
+	"item_lore.e24fe659ddfcc88fa12f3d2a7aeee1c1cbb7cc9d":"§7No one would supsect it that close to the trap.§r",
+	"item_lore.8f0761d27603ebab2b938b44db6d3e0c7950c66a":"§7[...] was hard enough to get rid of.§r",
+
+	"item_name.4d6a8024dd3c14079acdfc86aa48cc63028e3059":"§fStrange Invitation",
+	"item_lore.3dd84237218dbe81c4ed66b7fb8af12a58f9d069":"§7The letter says in faded letters:§r",
+	"item_lore.cf47583d3acf523fd39f561203d116cf58982590":"§7\"The King of Troms has hereby invited you§r",
+	"item_lore.12e6de5fbf33d83ac754047aa520c162a7236888":"§7to help assist in fighting off the undead.§r",
+	"item_lore.31e6b94694734ad47578b045a523c7582a45a0b2":"§7As a gift, we have lent a house to you§r",
+	"item_lore.788b4fbede64458166afc6b13ddb030d4a6c4123":"§7so you can live near Troms for the time being.§r",
+	"item_lore.36c21797adcde432dac28d3d4ce2af52519d329d":"§7Your house will be at the coordinates:§r",
+	"item_lore.9004422ec82392862a1d04e176575cc0100c6b67":"§3[-732, 65, -974]§r",
+	"item_lore.ad048ba860511e8a150bb3fe42cc07ad1cb150a3":"§7Signed,§r",
+	"item_lore.3920c28530b4ca103986511f1a2d078e5fcf6318":"§7Carlos, Adviser for the King of Troms\"§r",
+	
+	"item_name.32691509013c3549b3c00839c546f986e56fd150":"§rRoyal Token of Gratitude",
+
+	"item_name.e387ab109b22b872cd0e16126d6f2c669b74574a":"§fCanyon Chart",
+	
+	"item_name.2b3f1c44efded5b4281b9f33e7d4b9a336e013ab":"§rBlue-Ring Grook Egg"
+
 }

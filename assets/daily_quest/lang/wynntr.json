@@ -8,7 +8,31 @@
 	"scoreboard_player.fbac20c3b30916ca8343cae8cf952608a788b935":"§c- §7Gather Fish: §f0§7/30",
 	"scoreboard_player.eccc624ad82019adb7e7999988cda8b243c2f3b7":"§c- §7Gather Wood: §f0§7/50",
 	"scoreboard_player.6810b2281ff8618081b4f3e755faac069f8db454":"§c- §7Gather Crops: §f0§7/30",
-	"scoreboard_player.d4749eb96c2da5495abd01a63e02790398480fc4":"§a- §7Find Discoveries: §f0§7/10",
+	"scoreboard_player.2ce09684dc45859dd12fb3b205007ab61eb5ba1d":"§c- §7Gather Resources: §f0§7/40",
+	"scoreboard_player.d4749eb96c2da5495abd01a63e02790398480fc4":"§a- §7Find Discoveries: §f9§7/10",
 	"scoreboard_player.2845b252d5ca7fbc30f8a7d4776fc4fc79f2826e":"§c- §7Craft Items: §f0§7/4",
-	"scoreboard_player.0657eac7707848a8cf2f210b490d149514e90825":"§a- §7Craft Items: §f0§7/8"
+	"scoreboard_player.0657eac7707848a8cf2f210b490d149514e90825":"§a- §7Craft Items: §f0§7/8",
+	"scoreboard_player.962d7ca7e547462e3dad17823664f5fc01df7b70":"§c- §7Loot Chests: §f0§7/8",
+	"scoreboard_player.b61c5f0cc107e21b28291582a1de6e6dd84fc94e":"§c- §7Loot Chests: §f1§7/8",
+	"scoreboard_player.2cc88c9d19e45b787f6847d4c504a8eb6af2c99d":"§c- §7Loot Chests: §f2§7/8",
+	"scoreboard_player.c498427f011dd6d10a66a1c7eb4b48a7f57a59ee":"§c- §7Loot Chests: §f3§7/8",
+	"scoreboard_player.e7bad848fffa32e0035582de6af870ca5cb4889d":"§c- §7Loot Chests: §f4§7/8",
+	"scoreboard_player.03912225b7d364e4cc02c500cea148773bb45e79":"§c- §7Loot Chests: §f5§7/8",
+	"scoreboard_player.bb0254ce394b5f332729f1ae6345793151675d9e":"§c- §7Loot Chests: §f6§7/8",
+	"scoreboard_player.21a8cc97d411d9e7db0def6e37cfaa423c8cd02f":"§c- §7Loot Chests: §f7§7/8",
+	"scoreboard_player.3521d0e1a0f80d06624ea30aed054b87955710b5":"§c- §7Loot Chests: §f0§7/14",
+	"scoreboard_player.4bcb9a3270a6ac212e21f26d23bf925b42ff45ef":"§c- §7Loot Chests: §f1§7/14",
+	"scoreboard_player.4f9d89fabdf2680358e4bd9c7b1d3242f303f299":"§c- §7Loot Chests: §f2§7/14",
+	"scoreboard_player.0c1946969acb0fe4c7185587f707232fbd199b5e":"§c- §7Loot Chests: §f3§7/14",
+	"scoreboard_player.142f639657af059ed7c6ac9bf54e8dd094e347ae":"§c- §7Loot Chests: §f4§7/14",
+	"scoreboard_player.49af3e517684c21136aa85377cb920d67f1556ce":"§c- §7Loot Chests: §f5§7/14",
+	"scoreboard_player.84f512a3750e550ca071672f518484f97f7bce86":"§c- §7Loot Chests: §f6§7/14",
+	"scoreboard_player.38e095ee17b91e4bf53abcee1dbc53664a097d6b":"§c- §7Slay Lv. 100+ Mobs: §f0§7/125",
+
+
+	"scoreboard_player.9f5052b6f8c98bb480290be69ee505f24a9f37f7":"§c- §7All done",
+	"container_name.d31a12460ea19372480414ef64e5e61506b80a93":"Loot Chest IV",
+	"chat.4347db477f380391d39afa6dd77499a1214c9490":"                         §4[Objective Completed]§r",
+	"chat.d7c67d0bbc2b8730244b2b2958e3f0e6071b5765":"§c                               Loot Chests§r",
+	"chat.b6e64b979be2554dee80cf4225b058251badebd1":"                  §6§nClick here to claim your rewards!§r"
 }

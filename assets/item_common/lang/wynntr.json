@@ -40,8 +40,6 @@
 
 
 	"_":"----------------------------------------------------- UNIDENTIFIED --------------------------------------------------------",
-	"item_name.49b2821f353bf6c7c4f50dc82f187848389fce54":"§eUnidentified Spear",
-	"item_name.254330e687cdab192b470182f06dba568607bd68":"§eUnidentified Dagger",
 
 	"item_lore.22f007ffac8a1336c3d388621a90c46bff8430dd":"§7This item's powers have§r",
 	"item_lore.cc6a3e38195c18d261abf17d43092b3623e084ca":"§7been sealed. Take it to§r",
@@ -50,9 +48,14 @@
 
 	"item_lore.da05772894ab6b35f1f48afa0497be52667c7945":"§aInfo:§r",
 	"item_lore.f2f99befb5d340aef01dc760015e761534663128":"§a- §r§7Lv. Range: §r§f8-12§r",
+	"item_lore.05fe4d68b7dd1d8dff8f13695e1b72690850feee":"§a- §r§7Lv. Range: §r§f36-40§r",
+	"item_lore.3630f80390505959a35369c8061a29774bb05f41":"§a- §r§7Lv. Range: §r§f60-64§r",
+	"item_lore.cc272f374ffe02db7c378a8b7d8c778eb4536cbe":"§a- §r§7Lv. Range: §r§f76-80§r",
 	"item_lore.73196396ec79001e9327d3b33dfbc5c9f0833503":"§a- §r§7Lv. Range: §r§f88-92§r",
+	"item_lore.88ca8391bd1380410ef915b3a211df94ae9f9496":"§a- §r§7Lv. Range: §r§f92-96§r",
 	"item_lore.c73d49af9d04e2cf0ce3b92fc97c49ced1ebe4a4":"§a- §r§7Lv. Range: §r§f96-100§r",
 	"item_lore.9c747fcfe4493181e2ad883c75b532ef55fa7423":"§a- §r§7Tier: §r§eUnique§r",
+	"item_lore.af9ac784eba7a444839ffd544d3673158288eb1a":"§a- §r§7Tier: §r§dRare§r",
 	"item_lore.4599243897d3c23dffadc9fe3061bf6aa38b8285":"§a- §r§7Tier: §r§bLegendary§r",
 
 
@@ -60,6 +63,10 @@
 
 	"_":"----------------------------------------------------- HORSE --------------------------------------------------------",
 	"item_name.6dbcc7e1b42eef0bf5a8b846ca42052d2e572387":"§fChestnut Horse",
+	"item_name.976c56125ae1bdcba87378fe7c6789af59d09d0a":"§fBlack Horse",
+	"item_name.bd25227cca35fe1640226d0aaac843b66f10903f":"§fBrown Horse",
+	"item_lore.79a2ae87883f150a31d6e99f07b7364c45296c69":"§7Tier 1§r",
+	"item_lore.9b1700796fe8d72293f9ef563e1cf1786d5f1b5c":"§7Tier 2§r",
 	"item_lore.99af45f5658e855c7587b357392735608c76ab7d":"§7Tier 3§r",
 	"item_lore.5efbe9a008b84ad4ed47ebec128e5b57e595bcc6":"§6Speed: %s/%s§r",
 	"item_lore.5eed1e81c7f96a090529c47af409ac2c3e67e68b":"§6Jump: %s/%s§r",
@@ -148,12 +155,18 @@
 
 	"item_name.75aef63346c978f368e79dbf26e99f808c721137":"§aPotion of §2✤ Strength§a [2/2]",
 	"item_lore.7485bc7b0f2669ae6d162feb190490dff2d5f1f0":"§aEffect:§r",
+	"item_lore.5b1d63f508b6099412f31d797e2cbf1b330b790b":"§a- §r§7Effect: §r§f+27§r§2 ✤ Strength§r",
 	"item_lore.bb40cae25ac0a1c039ffcd49463471b0e0ed4ef0":"§a- §r§7Effect: §r§f+71§r§2 ✤ Strength§r",
 	"item_lore.a8705ce875561825e8ef2bb04a46d02a1b40fcd8":"§a- §r§7Effect: §r§f+50%% Melee Damage§r",
+	"item_lore.212b8eeb362a0ceb142161190deb00f1426a5bc1":"§a- §r§7Effect: §r§f+12%% Melee Damage§r",
+	"item_lore.545628ca68bc3f5a333938c6404e5083ce9e01b6":"§a- §r§7Duration: §r§f120 Seconds§r",
 	"item_lore.a03a8f659669549cb6b5c6c1b1e0a329d4bddff1":"§a- §r§7Duration: §r§f480 Seconds§r",
 	"item_lore.1a456a8cfc80be9d15521191268138d437084022":"§8boost your ✤ Strength by§r",
+	"item_lore.cf2849b59faba06413497cd688e129c0c75478fb":"§827 and boost your Melee§r",
 	"item_lore.163354b809f5d5f6fe59b50d84950ec4bbea6e85":"§871 and boost your Melee§r",
+	"item_lore.71eb57474d319fe21a10dc72e9cce75ed2bf86c0":"§8Damage by +12%% for 120 seconds§r",
 	"item_lore.c30f6c2bdbf39a31299c8d4b15c7d0cc8588c9c2":"§8Damage by +50%% for 480 seconds§r",
+	"chat.ab0aea861946e866176c7d177d984485582da4e8":"§a[+27 ✤ Strength for 120 seconds]§r",
 
 	"item_name.8cbe31458bec36f33747ff66ee291b20165abe99":"§aPotion of §c✹ Defence§a [2/2]",
 	"item_lore.2885127ba354448cc3f4a181cd94f6a47e250e39":"§a- §r§7Effect: §r§f+71§r§c ✹ Defence§r",
@@ -180,9 +193,12 @@
 	"item_name.ba674182a92036cc5d538a7ee9f87368c041e2ac":"§bPotion of Mana§3 [1/2]",
 	"item_lore.fbe133a19dd318ae4c48aa10f2925b442dca4376":"§3Effect:§r",
 	"item_lore.41f1cfa970c2e014e51b34e470975e32c54b6b7f":"§3- §r§7Mana: §r§f18§r§b ✺§r",
+	"item_lore.91d1b87960309ec125ef91ee3740ceefe92b96f0":"§3- §r§7Mana: §r§f66§r§b ✺§r",
 	"item_lore.7b67ffb953ad842bfae09bef62fa2649e6153395":"§3- §r§7Duration: §r§f6 Seconds§r",
+	"item_lore.bf6fff3f87b9779e25dffd9fb667a2414ce868c4":"§3- §r§7Duration: §r§f22 Seconds§r",
 	"item_lore.82647cec92e46094324ab319524169ab79f9c25b":"§8regenerate your mana over§r",
 	"item_lore.947a569b3a12619cc0c85811ad977d00d9e8e3c1":"§86 seconds.§r",
+	"item_lore.4dd19c0de2f4e9c12d32b5a989239646f3f43814":"§822 seconds.§r",
 	"chat.81b1e9a9f4d02a7b9c31e62e36530b5e0266e63f":"§b[+18 ✺ for 6 seconds]§r",
 
 
@@ -205,6 +221,7 @@
 	"item_lore.409459e63eaeae444596f19d38c64bf05e95efbB":"§5Mythic Item [2]§r",
 	"item_lore.409459e63eaeae444596f19d38c64bf05e95efbC":"§5Mythic Item [3]§r",
 	"item_lore.409459e63eaeae444596f19d38c64bf05e95efbD":"§5Mythic Item [4]§r",
-	"item_lore.b8d5bb8a25beff0c67f2b6db344318458759b24e":"§5Mythic Item [5]§r"
+	"item_lore.b8d5bb8a25beff0c67f2b6db344318458759b24e":"§5Mythic Item [5]§r",
+	"item_lore.c2d21a38196aa19b4a6b8ef601194b738cf4817c":"§cQuest Item§r"
 
 }
