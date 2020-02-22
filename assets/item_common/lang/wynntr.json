@@ -1,4 +1,16 @@
 {
+	
+	"item_name.62884b57d9548dca4b8f3aeab60ddf875cfd824d":"§6Ingredient Pouch",
+	"item_lore.2e197eee83a976870a777b8812af287d807ab9fc":"§fLeft-Click§r§7 to view contents§r",
+	"item_lore.cd3d30bf874960313890842a46e8a89b47005cdb":"§7(No ingredients found)§r",
+	"item_lore.841b020330ace23c260a1cf54668d01ff6b4cc08":"§7Right-Click to disable auto-pickup§r",
+	"container_name.00a3f8ccf87849879f0e0a1406ecaaf23c21c523":"%s's Pouch",
+	"container_name.00a3f8ccf87849879f0e0a1406ecaaf23c21c523.regexp":"^(\\w+)'s Pouch$",
+	"item_lore.eea243a5a090b649e192cdcf82bb1e6a3d843ae0":"§7(Your pouch is empty)§r",
+	"item_lore.1efac390f66e68c36d2b0eb38d85a7becfc1bc10":"§7Right-Click to enable auto-pickup§r",
+	"chat.806ec6a24a918fdc2f602236c185eef22c65c37f":"§7You have disabled ingredient auto pickup.§r",
+	"chat.f2916ab435b4876ce4cdbac650fe92296346160c":"§7You have enabled ingredient auto pickup.§r",
+
 	"_":"------------------------------------------------------- STATUS ------------------------------------------------------",
 	"item_name.72c13701270abeed69875e6d3bf6915cffe386d7":"§7Accessory Slot",
 
@@ -33,6 +45,10 @@
 	"item_lore.f2cd8cfb3083af92d21b35e76708113b24a0fa2c.regexp":"^§6- §r§f(\\d{1,3})%% §r§7of your un-IDed items§r$",
 	"item_lore.685b7d3d3b6b4216f3c3b68c1ca050a82ba6b44e.regexp":"^§6- §r§f(\\d{1,3})%% §r§7of your materials/ingredients items§r$",
 	"item_lore.40953fd493bfcfb7276e1515935b01a34bcd3098.regexp":"^§6- §r§f(\\d{1,3})%% §r§7of your other items§r$",
+	"item_lore.7b774456a5aba14d1519a6a834dc6cb87e9a5928":"§cShift Right-Click to enable hunted§r",
+	"chat.7737a3a5a7c1b5fc90e924f0da002606c4c61c1e":"                  §c§l§nClick here to toggle hunted mode§r",
+	"chat.ffe29adebefd7b53cce7f04d1fc5270b2afab4dc":"                      §4§oThis will enable PvP combat§r",
+	"chat.5fe90ee8300b922f0d3d83999448716f8d67a20b":"§4You need to be in a town to toggle hunted.§r",
 
 
 
@@ -49,6 +65,8 @@
 	"item_lore.da05772894ab6b35f1f48afa0497be52667c7945":"§aInfo:§r",
 	"item_lore.f2f99befb5d340aef01dc760015e761534663128":"§a- §r§7Lv. Range: §r§f8-12§r",
 	"item_lore.05fe4d68b7dd1d8dff8f13695e1b72690850feee":"§a- §r§7Lv. Range: §r§f36-40§r",
+	"item_lore.24549239f09ff034ee20250af0315ae4b11ea239":"§a- §r§7Lv. Range: §r§f44-48§r",
+	"item_lore.a2b1c34e6bba2f3dc02ac8ee94f7caf21194b19a":"§a- §r§7Lv. Range: §r§f48-52§r",
 	"item_lore.3630f80390505959a35369c8061a29774bb05f41":"§a- §r§7Lv. Range: §r§f60-64§r",
 	"item_lore.cc272f374ffe02db7c378a8b7d8c778eb4536cbe":"§a- §r§7Lv. Range: §r§f76-80§r",
 	"item_lore.73196396ec79001e9327d3b33dfbc5c9f0833503":"§a- §r§7Lv. Range: §r§f88-92§r",
@@ -58,6 +76,8 @@
 	"item_lore.af9ac784eba7a444839ffd544d3673158288eb1a":"§a- §r§7Tier: §r§dRare§r",
 	"item_lore.4599243897d3c23dffadc9fe3061bf6aa38b8285":"§a- §r§7Tier: §r§bLegendary§r",
 
+	"item_lore.f28aea71240fd7e2ef9a07a037c5956188eafdde":"§a- §r§7Type: §r§fWand§r",
+	"item_lore.fef196dba9f695223f902b88edb02dafcbbef2a9":"§a- §r§7Type: §r§fChestplate§r",
 
 
 
@@ -144,6 +164,10 @@
 	"item_name.b627ea0efc89ea0bc2a448a1cb6028eab8c28703":"§cPotion of Healing§4 [3/3]",
 	"item_lore.8465cf41ab22848f635a91a4c2672f32f161ece2":"§4Effect:§r",
 	"item_lore.1375fa798a50f5b77227003bea94f1c330c78f43":"§4- §r§7Heal: §r§f24§r§c ❤§r",
+	"item_lore.536ee95bfd457e928ddfee971c68da6472501ee5":"§4- §r§7Heal: §r§f300§r§c ❤§r",
+	"item_lore.3fed423c63f1b90bbd13b71eb054d6dc4acdde3d":"§4- §r§7Heal: §r§f420§r§c ❤§r",
+	"item_lore.2445aa458c27479cf2b5245933c121cafceb9e31":"§4- §r§7Heal: §r§f560§r§c ❤§r",
+	"item_lore.3885412b9fc92081e4dea5a6e5c027b89a83e024":"§4- §r§7Heal: §r§f750§r§c ❤§r",
 	"item_lore.7fdde569fa239561f78fbd88c2b2220fa2e979f5":"§4- §r§7Heal: §r§f4500§r§c ❤§r",
 	"item_lore.040155910e2f77f59bb7bd6fe4eb363f5fc9f17b":"§4- §r§7Duration: §r§f3 Seconds§r",
 	"item_lore.ba74ade67d8482cb21e7e66b3134ddd2256f5e7d":"§8Drinking this potion will§r",
@@ -189,17 +213,29 @@
 	"item_lore.79b112bacbac3687f552d72bd11979f4809fd27a":"§871 and boost your Walk Speed§r",
 	"item_lore.14f6904e25ce8b4d7587238993130c9ad0807455":"§8by +50%% for 480 seconds§r",
 
+	"item_name.1b0eb00ca6b76888bc14f4c5e11039165c89fc3b":"§aPotion of §e✦ Dexterity§a [2/2]",
+	"item_name.aa2c1675d6f22d724dfc2830ecb60bf96099fcaa":"§aPotion of §e✦ Dexterity§a [1/2]",
+	"item_lore.3d3dfc758dd591eb3edb96a158c9606d25ab65e2":"§a- §r§7Effect: §r§f+27§r§e ✦ Dexterity§r",
+	"item_lore.1e1d4ad0dd2af77a56e39b06c637ea91397d4c1f":"§a- §r§7Effect: §r§f+4 Melee Damage§r",
+	"item_lore.f4e64f56c121e0cae9876a01c7fdf7af3bf8cf04":"§8boost your ✦ Dexterity by§r",
+	"item_lore.530a00b4659421ed7d00c01c0581929b7ccff48b":"§8Damage by +4 for 120 seconds§r",
+	"chat.60ed2e4b426065a04ba793c5521d3828bacdd25f":"§a[+27 ✦ Dexterity for 120 seconds]§r",
+
 	"item_name.314d5c5964fbae57d8217540f0ac31110365c4d9":"§bPotion of Mana§3 [2/2]",
 	"item_name.ba674182a92036cc5d538a7ee9f87368c041e2ac":"§bPotion of Mana§3 [1/2]",
 	"item_lore.fbe133a19dd318ae4c48aa10f2925b442dca4376":"§3Effect:§r",
 	"item_lore.41f1cfa970c2e014e51b34e470975e32c54b6b7f":"§3- §r§7Mana: §r§f18§r§b ✺§r",
+	"item_lore.2afd86c664d915957a080c9a1db28f3b728ad981":"§3- §r§7Mana: §r§f30§r§b ✺§r",
 	"item_lore.91d1b87960309ec125ef91ee3740ceefe92b96f0":"§3- §r§7Mana: §r§f66§r§b ✺§r",
 	"item_lore.7b67ffb953ad842bfae09bef62fa2649e6153395":"§3- §r§7Duration: §r§f6 Seconds§r",
+	"item_lore.9788e3595977880928c993d9ca738ad4c05e77b4":"§3- §r§7Duration: §r§f10 Seconds§r",
 	"item_lore.bf6fff3f87b9779e25dffd9fb667a2414ce868c4":"§3- §r§7Duration: §r§f22 Seconds§r",
 	"item_lore.82647cec92e46094324ab319524169ab79f9c25b":"§8regenerate your mana over§r",
 	"item_lore.947a569b3a12619cc0c85811ad977d00d9e8e3c1":"§86 seconds.§r",
+	"item_lore.7d6e19ba484c0685fc1a5268209f8990f712e41e":"§810 seconds.§r",
 	"item_lore.4dd19c0de2f4e9c12d32b5a989239646f3f43814":"§822 seconds.§r",
 	"chat.81b1e9a9f4d02a7b9c31e62e36530b5e0266e63f":"§b[+18 ✺ for 6 seconds]§r",
+	"chat.32030283c448a637804b4671d6c4a901f0f8ebff":"§b[+30 ✺ for 10 seconds]§r",
 
 
 	"_":"----------------------------------------------------- CATEGORY --------------------------------------------------------",
@@ -222,6 +258,7 @@
 	"item_lore.409459e63eaeae444596f19d38c64bf05e95efbC":"§5Mythic Item [3]§r",
 	"item_lore.409459e63eaeae444596f19d38c64bf05e95efbD":"§5Mythic Item [4]§r",
 	"item_lore.b8d5bb8a25beff0c67f2b6db344318458759b24e":"§5Mythic Item [5]§r",
+	"item_lore.d767a2b40dda006ce7e07d274dd1467163abc484":"§7Misc. Item§r",
 	"item_lore.c2d21a38196aa19b4a6b8ef601194b738cf4817c":"§cQuest Item§r"
 
 }

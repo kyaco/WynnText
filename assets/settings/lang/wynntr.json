@@ -1,9 +1,4 @@
 {
-	"chat.bc2bc9482b526964258b6287957323d1f780d85b":"§c%s§r§4 requires your agility skill to be at least §r§c%s.§r",
-	"chat.0943f74dbe606cef43a04fa2e6807469d9278b28":"§c%s§r§4 requires your dexterity skill to be at least §r§c%s.§r",
-	"chat.bc2bc9482b526964258b6287957323d1f780d85b.regexp":"^§c(\\.+)§r§4 requires your agility skill to be at least §r§c(\\d{1,3})\\.§r$",
-	"chat.0943f74dbe606cef43a04fa2e6807469d9278b28.regexp":"^§c(\\.+)§r§4 requires your dexterity skill to be at least §r§c(\\d{1,3})\\.§r$",
-
 	"_":"-------------------------------------- SKILL POINT -------------------------------------",
 	"container_name.a881ff52d39a3f4fb7dfb3376a08fb0194794fd8":"§c1§4 skill point remaining",
 	"container_name.a376afa4d2c135323d4d9f79312f89f702def6d9":"§c%s§4 skill points remaining",
@@ -30,10 +25,17 @@
 	"item_lore.e21300f59a3985a3d89718d4073ea287d53027dd.regexp":"^§f      (\\d+\\.\\d)%%§r§a   >§r§2>§r§a>§r§2>§r§a>§r§2>   §r§e(\\d+\\.\\d)%%§r",
 	"item_lore.6a061cdf7196570575452e23d237ca19e5545cf5":"§7      §r§7§lNow           §r§6§lNext§r",
 
-	"chat.7a914def458d49935708ff5823bdb35f75e9db0a":"§c%1$s§r§4 requires your strength skill to be at least §r§c%2$s.§r",
-	"chat.7a914def458d49935708ff5823bdb35f75e9db0a.regexp":"^§c([\\w\\-]+)§r§4 requires your strength skill to be at least §r§c(\\d+)\\.§r$",
+	"chat.7a914def458d49935708ff5823bdb35f75e9db0a":"§c%s§r§4 requires your strength skill to be at least §r§c%s.§r",
+	"chat.0943f74dbe606cef43a04fa2e6807469d9278b28":"§c%s§r§4 requires your dexterity skill to be at least §r§c%s.§r",
+	"chat.afe17433b2d2bcdfff63f96566f7d08327421073":"§c%s§r§4 requires your defence skill to be at least §r§c%s.§r",
+	"chat.bc2bc9482b526964258b6287957323d1f780d85b":"§c%s§r§4 requires your agility skill to be at least §r§c%s.§r",
+	"chat.7a914def458d49935708ff5823bdb35f75e9db0a.regexp":"^§c([^§]+)§r§4 requires your strength skill to be at least §r§c(\\d+)\\.§r$",
+	"chat.0943f74dbe606cef43a04fa2e6807469d9278b28.regexp":"^§c([^§]+)§r§4 requires your dexterity skill to be at least §r§c(\\d+)\\.§r$",
+	"chat.afe17433b2d2bcdfff63f96566f7d08327421073.regexp":"^§c([^§]+)§r§4 requires your defence skill to be at least §r§c(\\d+)\\.§r$",
+	"chat.bc2bc9482b526964258b6287957323d1f780d85b.regexp":"^§c([^§]+)§r§4 requires your agility skill to be at least §r§c(\\d+)\\.§r$",
 	"chat.c5ffc6104b452961b04858dbde63d4cd9f22f6d9":"§4You still have %s unused skill points! Click with your compass to use them!§r",
 	"chat.c5ffc6104b452961b04858dbde63d4cd9f22f6d9.regexp":"^§4You still have (\\d+) unused skill points! Click with your compass to use them!§r$",
+
 
 
 	"_":"-------------------------------------- PLAYER STATUS -------------------------------------",
@@ -199,7 +201,7 @@
 	"item_lore.a78782c0f9af7f387cf5e9015326abf02775f9f7.regexp":"^§5\\[LLR\\] §r§dDagger Aura Spell: §r§f(\\d+)-(\\d+)§r$",
 
 	"item_name.8e181148d28bde4a42373c662bd5a385956bf0f2":"§fⓀ §6Fishing Profession §8[Gathering]",
-	"item_lore.56e3e28090b9070ac8fa2b2f5491919945fa29b3":"§7Can gather Unprocessed Fish§r",
+	"item_lore.56e3e28090b9070ac8fa2b2f5491919945fa29b3":"§7 Unprocessed Fish§r",
 	"item_name.95116cc7bab20f4d46152d03bc9ca5c379652202":"§fⒺ §6Scribing Profession §8[Crafting]",
 	"item_lore.3214fe9fe4829b0df8eb160b150a4fb1abd6871b":"§7Can make Scrolls§r",
 	"item_name.75910fb3d832488137385cf07a527bd1094c9c5f":"§fⒼ §6Weaponsmithing Profession §8[Crafting]",
@@ -216,6 +218,7 @@
 	"item_lore.71a81a44882157906ba1eb4247337361d0000dda":"§7Can make Potions§r",
 	"item_name.62598d25869b5f28a851c0e1323ef487772bc784":"§fⒾ §6Woodworking Profession §8[Crafting]",
 	"item_lore.5075970d5dc32a92dec371eb25e95c0c2eac568d":"§7Can make Bows and Wands§r",
+	"item_lore.56c27edea6fe02f488b6bacaec506f4c820d7245":"§7Can make Bows, Wands and Reliks§r",
 	"item_name.25c5c56a9f444e72b492b4fbd83b7c057a39032d":"§fⒿ §6Farming Profession §8[Gathering]",
 	"item_lore.f9ec1ff0f80466297ce43a20fe10975e1f1cfa7a":"§7Can gather Unprocessed Crops§r",
 	"item_name.e88415df1de2177367ace671ee658c1efbceada1":"§fⒶ §6Cooking Profession §8[Crafting]",

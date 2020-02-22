@@ -69,6 +69,10 @@
 
 	"item_name.e387ab109b22b872cd0e16126d6f2c669b74574a":"§fCanyon Chart",
 	
-	"item_name.2b3f1c44efded5b4281b9f33e7d4b9a336e013ab":"§rBlue-Ring Grook Egg"
+	"item_name.2b3f1c44efded5b4281b9f33e7d4b9a336e013ab":"§rBlue-Ring Grook Egg",
 
+	"item_name.b0eb023f58f1a43f10e4ff7a4d3e0ec68cf9d4d4":"§6TNT",
+	"item_lore.eb7e420a556eff9c5ea10f9476b150a8607b8237":"§7Use on an obstacle§r",
+	
+	"item_name.261636dcb2fd043c60b41663165ccf49cf7869bc":"§rMechanical Key"
 }

@@ -1,6 +1,6 @@
 {
 	"_":"---------------------------------------------- COMMON ----------------------------------------",
-	"entity_name.be1fdd124b83b5257bbda60539d9a734a67fa668":"§f%s§7''s horse",
+	"entity_name.be1fdd124b83b5257bbda60539d9a734a67fa668":"§f%s§7's horse",
 	"entity_name.be1fdd124b83b5257bbda60539d9a734a67fa668.regexp":"§f(\\w+)§7's horse",
 	
 	"entity_name.ffae2e73c7f9b2536b188889c048bbb6b663cc56":"§7NPC",
@@ -178,6 +178,7 @@
 	"entity_name.91be7103072ab0b3e43462e789f670e5723f80b8":"§7[Left click to harvest]",
 	"entity_name.4f9c49a2e037c6edcbb15772ba07d90556af5677":"§2Ragon",
 	"entity_name.1790ecb80e9f4006852569bef6d355e6d50e99a5":"§2Yahya",
+	"entity_name.8e7f7f4b324e17313710c2e18517945cee3f921a":"§aMushroom",
 
 	"_":"---------------------------------------------- KATOA RANCH ----------------------------------------",
 	"entity_name.825d4d8ff863d0239beabe613556790eb9bbb3e6":"§2Jenprest",
@@ -355,6 +356,14 @@
 	"_":"-----------------------------------------SAND SWEPT TOMB ------------------------------------",
 	"entity_name.0e1298c0192e2937ba397b670b5ba22a67abc047":"§2Vault Guard",
 
+
+
+	"_":"-------------------------------------------- LUSUCO -----------------------------------------",
+	"entity_name.26e4f65d08fdb51b8206cd4e56c4a38d57dc1714":"§2§fLusuco Citizen",
+	"chat.952bf86ef08cd370dfa40d5e63036146b857d0c0":"§7[1/2] §r§2Lusuco Citizen: §r§aThe small ice wall in the center of the town has always struck me as odd.§r",
+	"chat.93068767e1991065517365a201e8700f49322fbd":"§7[2/2] §r§2Lusuco Citizen: §r§aOne day, as I was walking past it, I could have sworn I saw something behind it...§r",
+	"chat.fabb054f1a9017afcfc7e7528720b79a755747ff":"§7[1/2] §r§2Lusuco Citizen: §r§aHello! Are you looking for the Wynnter Fair? Well, sadly, it\u0027s already left town.§r",
+	"chat.83db8326b3ca781c18aaf953f91fa5031283e54d":"§7[2/2] §r§2Lusuco Citizen: §r§aBut it\u0027ll be here again before you know it. Come back next December!§r",
 
 	"_":"-------------------------------------------- JUNGLE -----------------------------------------",
 	"entity_name.467cc343f284b805689be79c5c0457f69514aea8":"§2Monte",

@@ -1,1 +1,19 @@
-{}
+{
+
+	"_":"--------------------- WYNN EXCAVATION SITE B [46] ---------------------",
+	"entity_name.3e7a79b6c9961c43d66718b4d2c77a6e6ba99f0c":"§2Excavator Lykron",
+
+
+	"_":"--------------------------- FROST BITE [48] ---------------------------",
+	"entity_name.8bd5dff7fc2d45499218e367ea3e916e6a1a22f8":"§2Eppo",
+	"chat.1b95cf7088048b05e8e42c1d3a0b37c40cc4aa23":"§7[1/1] §r§2Eppo: §r§aLet\u0027s give it another try!§r",
+	"chat.df3e9bb535f3231af32a023e1e72aba5012c517c":"§7[1/1] §r§2Eppo: §r§aReady the drill, men!§r",
+	"chat.f2ae009c4b5698fa19ddddec402cb5a3c9b33c36":"§7[1/9] §r§2Eppo: §r§aDarn. The drill just won\u0027t start.§r",
+	"chat.ae64fd63adc66ce54045753cc0007e2af9d7d064":"§7[2/9] §r§2Eppo: §r§aHey, Guard! Do you know anything about Electromagic? Come up here to the drill, maybe you can take a look?§r",
+
+	"_":"------------------------ A GRAVE MISTAKE [50] ------------------------",
+	"entity_name.6141c4b341e7353fd2c1d693d3134c5cd39cc2c0":"§2Alem",
+	"chat.652ffa0c82a358157b719539b2fec685cf5ab522":"§7[1/1] §r§2Alem: §r§aI have warned you...§r",
+	"entity_name.ee60ef514a837a1132c98a7d8f00c7b2d36d64c8":"§2Twendle",
+	"chat.4c3385e49edb25506cf9c6f2294a9222952560a4":"§7A strong spiritual force pulls you towards the graveyard, making it impossible to leave the area any other way than walking.§r"
+}

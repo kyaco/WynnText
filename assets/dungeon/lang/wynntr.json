@@ -1,0 +1,24 @@
+{
+	"entity_name.d5e28744dd423ad754c801c2737084f0a5fa687b":"§6Dungeon",
+	"entity_name.82b41109cf53a53515e7da2e387da8259d03dc6b":"§7Difficulty: §aEasy",
+	"entity_name.59d0608ba51759d89c382700180b3057ec8d5ae8":"§7Difficulty: §eMedium",
+	"entity_name.bbd97e2caed3c922ebb33f57a1d014decaaf9e18":"§7Difficulty: §cHard",
+
+
+
+	"entity_name.3a2d6ea7d03d4f7eb81ef92611a125fdc8614ac3":"§7§lDecrepit Sewers",
+	"entity_name.a8ccb0908b03f7232f24bad2603fb08a7af8f26c":"§7Level: §f9",
+
+	"entity_name.33c027bf09d87daf112506baeb2df3d3b40a26de":"§2§lUnderworld Crypt",
+	"entity_name.6c8120d404e55e185189e4eb434212a2d0dada14":"§7Level: §f27",
+
+	"entity_name.6e0522bbec1e77ab2daad48dc5ccd37eb4e6bb95":"§4§lInfested Pit",
+	"entity_name.46a9e839a6a4eab3421e9b455f50c71445bcb060":"§7Level: §f18",
+	
+	"entity_name.5bb3565415656490f583ac891cc13da1c0b0ac02":"§e§lSand-Swept Tomb",
+	"entity_name.93b691c63ba7974878d5830aa17749e8731d09ae":"§7Level: §f36",
+	
+	"entity_name.d703417be840742760c28dea2ea86d58faff150c":"§b§lIce Barrows",
+	"entity_name.3ef58b17064df2a8dc3278163c46164b3399adee":"§7Level: §f45",
+	"chat.434ec509a6a30536da8863c696266e83ba9ca03f":"§5Key Collector: §r§dYou cannot enter this dungeon unless you give me §r§3[1 IceÀÀÀBarrows Key]§r§d.§r"
+}

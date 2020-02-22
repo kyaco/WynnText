@@ -4,6 +4,8 @@
 	"item_name.1f95dc2e4ed6ff1bd45caaf674587d329c6e2388":"§dUnidentified Helmet",
 	"item_name.2b7882cfd350d2c5a1431c9c0f5c27c2fe947699":"§bUnidentified Helmet",
 
+	"item_name.0826073e6eeaf30995622938865455479544fdcf":"§fBrilliant Diamond Helmet",
+	
 	"item_name.999e15ac0fb6d5a457d46279eb85fa01e2c34422":"§fChipped Leather Cap",
 
 	"item_name.e036ff878d9bfd7c220ad418b5c84a1ccc8d8aa7":"§eBlushwind",
@@ -129,7 +131,8 @@
 	"item_lore.1dcca7319ec652afede05750fcdc93c87e7d1465":"§a✔§r§7 Quest Req: Tower of Ascension§r",
 
 	"item_name.b3c0aaffeed10ffd1b8ad4eb81489cd29a8a6a35":"§eAquamarine",
-
+	
+	"item_name.d235ca5ba5abbbcae0c37a47d74c76662947503d":"§eSoft Helmet",
 
 
 
@@ -139,6 +142,7 @@
 	"_":"------------------------------------------------------- CHESTPLATE ------------------------------------------------------",
 	"item_name.730d041371de3b630c6727e8a09bfa396a86aaf8":"§dUnidentified Chestplate",
 	"item_name.fb55e4316b43353406255c71651e71d56743b355":"§eUnidentified Chestplate",
+	"item_name.5ddcdf084338a7d3adcf3c6374ea1c8aafb4a7c1":"§bUnidentified Chestplate",
 
 	"item_name.780a88aea0b14db64b1292f6b1e27962583ade38":"§fChipped Leather Tunic",
 
@@ -503,6 +507,8 @@
 
 	"item_name.3a17f0632c3b9fd5d5e0ddf6bc1cd1e6836b6039":"§eThe Stokers",
 
+	"item_name.b593e15f81aecd8f62a03d0c1c3ccb8353ce9a0e":"§eSapphire",
+
 
 
 
@@ -714,32 +720,31 @@
 	"item_lore.bd0aa66d41547ce110afd77ca9249ffda2bd8b7a.regexp":"^§(a✔|c✖)§r§7 Defence Min: (\\d{1,3})§r$",
 	"item_lore.ee9b60a3212966f99cfcdc6d6916366f7b829d8e.regexp":"^§(a✔|c✖)§r§7 Intelligence Min: (\\d{1,3})§r$",
 	"item_lore.d1e8dbcd089bcc806adfa33e91fd5e773a69adfa.regexp":"^§(a✔|c✖)§r§7 Dexterity Min: (\\d{1,3})§r$",
-
-
+	
 	"item_lore.96e2463f43367c03058a9611f0415bb271dd0968":"§c-1 tier §r§7Attack Speed§r",
 	"item_lore.59cd5de08dbc7b787a8b1e444dc4ad17ec651d19":"§a+2 tier §r§7Attack Speed§r",
 	"item_lore.e3c82d0aad6f1c75f1d43697a379f5f4b8ebe0c0":"§a+2 tier§r§2* §r§7Attack Speed§r",
 	"item_lore.7fc5609f0247493b02fe53d687fc782d93687c60":"§a+3 tier§r§2** §r§7Attack Speed§r",
 	"item_lore.04fa5a52e691bbc9437a2eb7c83d882d44f03f70":"§a+3 tier§r§2*** §r§7Attack Speed§r",
 	"item_lore.8fe001a281f4e8b398f72b7ecaaca887e4758a7d":"§a+11 tier§r§2* §r§7Attack Speed§r",
-	"item_lore.bfc059fac0a7262b3f8641aebacf3eec490b48c7":"§%s §r§7Spell Damage§r",
-	"item_lore.4ede6c951987e6696e0465c9a97d86d1cafb9c7b":"§%s §r§7Melee Damage§r",
-	"item_lore.a721ad407e2bba3c2d600b67ec4cbf7c2e40322f":"§%s §r§7Intelligence§r",
-	"item_lore.5c09c420f08f28dc90c7d4fb7f50b8dc43b063fe":"§%s §r§7Strength§r",
 	"item_lore.055fa3750126e1f244ed6521b74ccf787326e6cd":"§%s §r§7Agility§r",
-	"item_lore.393c90e5056f2856ce144ca3fa38baf1a35256bb":"§%s §r§7Dexterity§r",
 	"item_lore.3f06ae8d04ecb9e199bf60eff659c8bf383c79bb":"§%s §r§7Defence§r",
+	"item_lore.393c90e5056f2856ce144ca3fa38baf1a35256bb":"§%s §r§7Dexterity§r",
 	"item_lore.740b1988e6ea8e79c983d997e35107c0ec189734":"§%s §r§7Health§r",
 	"item_lore.116003c415b672a7fd41577b3fd500073ff57bc2":"§%s §r§7Health Regen§r",
-	"item_lore.4ede6c951987e6696e0465c9a97d86d1cafb9c7b.regexp":"^§((?:a\\+|c\\-)\\d{1,5}(?:§r§2\\*+)?) §r§7Melee Damage§r$",
-	"item_lore.bfc059fac0a7262b3f8641aebacf3eec490b48c7.regexp":"^§((?:a\\+|c\\-)\\d{1,5}(?:§r§2\\*+)?) §r§7Spell Damage§r$",
-	"item_lore.a721ad407e2bba3c2d600b67ec4cbf7c2e40322f.regexp":"^§((?:a\\+|c\\-)\\d{1,5}(?:§r§2\\*+)?) §r§7Intelligence§r$",
-	"item_lore.5c09c420f08f28dc90c7d4fb7f50b8dc43b063fe.regexp":"^§((?:a\\+|c\\-)\\d{1,5}(?:§r§2\\*+)?) §r§7Strength§r$",
+	"item_lore.a721ad407e2bba3c2d600b67ec4cbf7c2e40322f":"§%s §r§7Intelligence§r",
+	"item_lore.4ede6c951987e6696e0465c9a97d86d1cafb9c7b":"§%s §r§7Melee Damage§r",
+	"item_lore.bfc059fac0a7262b3f8641aebacf3eec490b48c7":"§%s §r§7Spell Damage§r",
+	"item_lore.5c09c420f08f28dc90c7d4fb7f50b8dc43b063fe":"§%s §r§7Strength§r",
 	"item_lore.055fa3750126e1f244ed6521b74ccf787326e6cd.regexp":"^§((?:a\\+|c\\-)\\d{1,5}(?:§r§2\\*+)?) §r§7Agility§r$",
-	"item_lore.393c90e5056f2856ce144ca3fa38baf1a35256bb.regexp":"^§((?:a\\+|c\\-)\\d{1,5}(?:§r§2\\*+)?) §r§7Dexterity§r$",
 	"item_lore.3f06ae8d04ecb9e199bf60eff659c8bf383c79bb.regexp":"^§((?:a\\+|c\\-)\\d{1,5}(?:§r§2\\*+)?) §r§7Defence§r$",
+	"item_lore.393c90e5056f2856ce144ca3fa38baf1a35256bb.regexp":"^§((?:a\\+|c\\-)\\d{1,5}(?:§r§2\\*+)?) §r§7Dexterity§r$",
 	"item_lore.740b1988e6ea8e79c983d997e35107c0ec189734.regexp":"^§((?:a\\+|c\\-)\\d{1,5}(?:§r§2\\*+)?) §r§7Health§r$",
 	"item_lore.116003c415b672a7fd41577b3fd500073ff57bc2.regexp":"^§((?:a\\+|c\\-)\\d{1,5}(?:§r§2\\*+)?) §r§7Health Regen§r$",
+	"item_lore.a721ad407e2bba3c2d600b67ec4cbf7c2e40322f.regexp":"^§((?:a\\+|c\\-)\\d{1,5}(?:§r§2\\*+)?) §r§7Intelligence§r$",
+	"item_lore.4ede6c951987e6696e0465c9a97d86d1cafb9c7b.regexp":"^§((?:a\\+|c\\-)\\d{1,5}(?:§r§2\\*+)?) §r§7Melee Damage§r$",
+	"item_lore.bfc059fac0a7262b3f8641aebacf3eec490b48c7.regexp":"^§((?:a\\+|c\\-)\\d{1,5}(?:§r§2\\*+)?) §r§7Spell Damage§r$",
+	"item_lore.5c09c420f08f28dc90c7d4fb7f50b8dc43b063fe.regexp":"^§((?:a\\+|c\\-)\\d{1,5}(?:§r§2\\*+)?) §r§7Strength§r$",
 	"item_lore.4066e89771c30500bed655e6528d59ff53b03074":"§%s%%%s §r§7Exploding§r",
 	"item_lore.ed9333c6b66d7141f05a875fc88e3ddab61a0efd":"§%s%%%s §r§7Health Regen§r",
 	"item_lore.3005e21f1c454c9c230cabd457cc906474dbab55":"§%s%%%s §r§7Loot Bonus§r",
@@ -789,6 +794,17 @@
 	"item_lore.878ba1075e41dcc15f096576d34aeffe45c6f331.regexp":"^§((?:a\\+|c\\-)\\d+/\\ds(?:§r§2\\*+)?) §r§7Mana Regen§r$",
 	"item_lore.587470cf0943ca32c666c3bf748d6cb5ae92ad92.regexp":"^§((?:a\\+|c\\-)\\d+/\\ds(?:§r§2\\*+)?) §r§7Mana Steal§r$",
 	"item_lore.9c69d73b5f63eb04e9ff11f32a805cc5c95a8802.regexp":"^§((?:a\\+|c\\-)\\d+/\\ds(?:§r§2\\*+)?) §r§7Life Steal§r$",
-	"item_lore.fce49e5f965bb599ac842d61c44393875b4b9a83.regexp":"^§((?:a\\+|c\\-)\\d+/\\ds(?:§r§2\\*+)?) §r§7Poison§r$"
+	"item_lore.fce49e5f965bb599ac842d61c44393875b4b9a83.regexp":"^§((?:a\\+|c\\-)\\d+/\\ds(?:§r§2\\*+)?) §r§7Poison§r$",
+
+	
+
+
+	"_":"----------------------------------------------------- UNCATEGORIZED --------------------------------------------------------",
+	"item_lore.94edb63c71045d62c5a8dbd4c507eafb0d081058":"§a+10%% §r§7Main Attack Damage§r",
+	"item_lore.74d93a236a1483c4b3ad5720d43010f290111908":"§a+19%%§r§2* §r§7Main Attack Damage§r",
+	"item_lore.fb79bee49a38c5e2f50e94e767441c675a8ceac4":"§d- §r§7Main Attack Damage: §r§f+10%%§r",
+	"item_lore.e1d70eb60256200e723111e48f277931ed5360f8":"§a+150 §r§7Neutral Spell Damage§r",
+	"item_lore.8649eda344ab519f6a3f09cc73f173ab84cc6a9b":"§b+Lightweight: §r§3Removes fall§r",
+	"item_lore.a4c742f1be6dfae62f3fccf20eed4264e4488a2b":"§3damage§r"
 	
 }

@@ -18,15 +18,24 @@
 	"chat.ba4fb72c996611874be1980e06424c1c897ab265":"§7[%s]§r§5 [§r§dVet§r§5]§r §5%s: §r%s§r",
 	"chat.08290b524c2e8ccd3aac3d4909e9853ed178f51c":"§7[%s]§r§6 [§r§eMod§r§6]§r §6%s: §r%s§r",
 	"chat.ccce6124a441536b85ef889e780e52440a055c58":"§7[%s]§r §7§l☠§r §f%s: §r%s§r",
-	"chat.002a1354bca234eb9fc9eb96f3a327d222f1f834.regexp":"^§7\\[(\\d+\\**/(?:Ar|Wa|Ma|As|Hu|Kn|Da|Ni)(?:/[✫★]*\\w+)?)\\]§r (§[7f]\\w+): §r(§[78f][^§]+)§r$",
-	"chat.56a6e3e72219b45580e3e61d7cb1ffb439eb28b4.regexp":"^§7\\[(\\d+\\**/(?:Ar|Wa|Ma|As|Hu|Kn|Da|Ni)(?:/[✫★]*\\w+)?)\\]§r§2 \\[§r§aVIP§r§2\\]§r §2(\\w+): §r(§[78f][^§]+)§r$",
-	"chat.00a9a929e8cdd84997f69d17112b560315b05f88.regexp":"^§7\\[(\\d+\\**/(?:Ar|Wa|Ma|As|Hu|Kn|Da|Ni)(?:/[✫★]*\\w+)?)\\]§r§b \\[§r§3VIP\\+§r§b\\]§r §b(\\w+): §r(§[78f][^§]+)§r$",
-	"chat.1a1b9b60507a76afbe0496cdc89fb7b834066ad9.regexp":"^§7\\[(\\d+\\**/(?:Ar|Wa|Ma|As|Hu|Kn|Da|Ni)(?:/[✫★]*\\w+)?)\\]§r§5 \\[§r§dHERO§r§5\\]§r §5(\\w+): §r(§[78f][^§]+)§r$",
-	"chat.f2e6d411cac2a10a61ddba015279a272f572bZZZ.regexp":"^§7\\[(\\d+\\**/(?:Ar|Wa|Ma|As|Hu|Kn|Da|Ni)(?:/[✫★]*\\w+)?)\\]§r§2 \\[§r§aVet§r§2\\]§r §2(\\w+): §r(§[78f][^§]+)§r$",
-	"chat.f2e6d411cac2a10a61ddba015279a272f572b55c.regexp":"^§7\\[(\\d+\\**/(?:Ar|Wa|Ma|As|Hu|Kn|Da|Ni)(?:/[✫★]*\\w+)?)\\]§r§b \\[§r§3Vet§r§b\\]§r §b(\\w+): §r(§[78f][^§]+)§r$",
-	"chat.ba4fb72c996611874be1980e06424c1c897ab265.regexp":"^§7\\[(\\d+\\**/(?:Ar|Wa|Ma|As|Hu|Kn|Da|Ni)(?:/[✫★]*\\w+)?)\\]§r§5 \\[§r§dVet§r§5\\]§r §5(\\w+): §r(§[78f][^§]+)§r$",
-	"chat.08290b524c2e8ccd3aac3d4909e9853ed178f51c.regexp":"^§7\\[(\\d+\\**/(?:Ar|Wa|Ma|As|Hu|Kn|Da|Ni)(?:/[✫★]*\\w+)?)\\]§r§6 \\[§r§eMod§r§6\\]§r §6(\\w+): §r(§[78f][^§]+)§r$",
-	"chat.ccce6124a441536b85ef889e780e52440a055c58.regexp":"^§7\\[(\\d+\\**/(?:Ar|Wa|Ma|As|Hu|Kn|Da|Ni)(?:/[✫★]*\\w+)?)\\]§r §7§l☠§r §f(\\w+): §r(§[78f][^§]+)§r$",
+	"chat.002a1354bca234eb9fc9eb96f3a327d222f1f834.regexp":"^§7\\[(\\d+\\**/(?:Ar|Hu|Wa|Kn|Ma|Da|As|Ni|Sh|Sk)(?:/[✫★]*\\w+)?)\\]§r (§[7f]\\w+): §r(§[78f][^§]+)§r$",
+	"chat.56a6e3e72219b45580e3e61d7cb1ffb439eb28b4.regexp":"^§7\\[(\\d+\\**/(?:Ar|Hu|Wa|Kn|Ma|Da|As|Ni|Sh|Sk)(?:/[✫★]*\\w+)?)\\]§r§2 \\[§r§aVIP§r§2\\]§r §2(\\w+): §r(§[78f][^§]+)§r$",
+	"chat.00a9a929e8cdd84997f69d17112b560315b05f88.regexp":"^§7\\[(\\d+\\**/(?:Ar|Hu|Wa|Kn|Ma|Da|As|Ni|Sh|Sk)(?:/[✫★]*\\w+)?)\\]§r§b \\[§r§3VIP\\+§r§b\\]§r §b(\\w+): §r(§[78f][^§]+)§r$",
+	"chat.1a1b9b60507a76afbe0496cdc89fb7b834066ad9.regexp":"^§7\\[(\\d+\\**/(?:Ar|Hu|Wa|Kn|Ma|Da|As|Ni|Sh|Sk)(?:/[✫★]*\\w+)?)\\]§r§5 \\[§r§dHERO§r§5\\]§r §5(\\w+): §r(§[78f][^§]+)§r$",
+	"chat.f2e6d411cac2a10a61ddba015279a272f572bZZZ.regexp":"^§7\\[(\\d+\\**/(?:Ar|Hu|Wa|Kn|Ma|Da|As|Ni|Sh|Sk)(?:/[✫★]*\\w+)?)\\]§r§2 \\[§r§aVet§r§2\\]§r §2(\\w+): §r(§[78f][^§]+)§r$",
+	"chat.f2e6d411cac2a10a61ddba015279a272f572b55c.regexp":"^§7\\[(\\d+\\**/(?:Ar|Hu|Wa|Kn|Ma|Da|As|Ni|Sh|Sk)(?:/[✫★]*\\w+)?)\\]§r§b \\[§r§3Vet§r§b\\]§r §b(\\w+): §r(§[78f][^§]+)§r$",
+	"chat.ba4fb72c996611874be1980e06424c1c897ab265.regexp":"^§7\\[(\\d+\\**/(?:Ar|Hu|Wa|Kn|Ma|Da|As|Ni|Sh|Sk)(?:/[✫★]*\\w+)?)\\]§r§5 \\[§r§dVet§r§5\\]§r §5(\\w+): §r(§[78f][^§]+)§r$",
+	"chat.08290b524c2e8ccd3aac3d4909e9853ed178f51c.regexp":"^§7\\[(\\d+\\**/(?:Ar|Hu|Wa|Kn|Ma|Da|As|Ni|Sh|Sk)(?:/[✫★]*\\w+)?)\\]§r§6 \\[§r§eMod§r§6\\]§r §6(\\w+): §r(§[78f][^§]+)§r$",
+	"chat.ccce6124a441536b85ef889e780e52440a055c58.regexp":"^§7\\[(\\d+\\**/(?:Ar|Hu|Wa|Kn|Ma|Da|As|Ni|Sh|Sk)(?:/[✫★]*\\w+)?)\\]§r §7§l☠§r §f(\\w+): §r(§[78f][^§]+)§r$",
+
+
+
+	"chat.aeb6571da96fccf341aa92d3a0bcf09b644a8776":"§8[%s] §r§7[%s] %s: §r§7%s§r",
+	"chat.aeb6571da96fccf341aa92d3a0bcf09b644a8776.regexp":"^§8\\[(\\d+/(?:Ar|Hu|Wa|Kn|Ma|Da|As|Ni|Sh|Sk)(?:/\\w+)?)\\] §r§7\\[(WC|EU\\d)\\] (\\w+): §r§7([^§]+)§r$",
+	"chat.68d2b694d957135bcd51a5fd4f31526f9b563f91":"§8[%s] §r§7[%s] §r§5[§r§dHERO§r§5] %s: §r§7%s§r",
+	"chat.68d2b694d957135bcd51a5fd4f31526f9b563f91.regexp":"^§8\\[(\\d+/(?:Ar|Hu|Wa|Kn|Ma|Da|As|Ni|Sh|Sk)(?:/\\w+)?)\\] §r§7\\[(WC|EU\\d)\\] §r§5\\[§r§dHERO§r§5\\] (\\w+): §r§7([^§]+)§r$",
+
+
 
 	"show_text.cd6ea06138654cd0de76c427a1b6a80d65786b75":"§7%s\n\n§7Class: §f%s\n§7Combat Level: §f%s\n\n§fⒸ §7Woodcutting Lv: §f%s\n§fⒷ §7Mining Lv: §f%s\n§fⒿ §7Farming Lv: §f%s\n§fⓀ §7Fishing Lv: §f%s\n\n§fⒽ §7Armouring Lv: §f%s\n§fⒼ §7Weaponsmithing Lv: §f%s\n§fⒻ §7Tailoring Lv: §f%s\n§fⒾ §7Woodworking Lv: §f%s\n§fⒹ §7Jeweling Lv: §f%s\n§fⒶ §7Cooking Lv: §f%s\n§fⒺ §7Scribing Lv: §f%s\n§fⓁ §7Alchemism Lv: §f%s\n\n§6Total Level: §e%s",
 	"show_text.58556df9455fc5575b8472742afcd4e403b95d17":"§7%s\n§7Recruit of the %s [%s] Guild\n\n§7Class: §f%s\n§7Combat Level: §f%s\n\n§fⒸ §7Woodcutting Lv: §f%s\n§fⒷ §7Mining Lv: §f%s\n§fⒿ §7Farming Lv: §f%s\n§fⓀ §7Fishing Lv: §f%s\n\n§fⒽ §7Armouring Lv: §f%s\n§fⒼ §7Weaponsmithing Lv: §f%s\n§fⒻ §7Tailoring Lv: §f%s\n§fⒾ §7Woodworking Lv: §f%s\n§fⒹ §7Jeweling Lv: §f%s\n§fⒶ §7Cooking Lv: §f%s\n§fⒺ §7Scribing Lv: §f%s\n§fⓁ §7Alchemism Lv: §f%s\n\n§6Total Level: §e%s",
@@ -49,6 +58,7 @@
 	"show_text.bbd7ff56a0cbce7c1c9d39756e55ff7ce8f521fc":"§f§lPrevious Names: - %s",
 	"show_text.bbd7ff56a0cbce7c1c9d39756e55ff7ce8f521fc.regexp":"^§f§lPrevious Names:((?:\n§7 - \\w+)+|\n§7 - No former names available)$",
 
+	"chat.720c2655e0f06c30f2ee3070cb4cbb3d84081c38":"§7[99/Hu/✫Phi]§r §3§l⛏§r§b [§r§3Vet§r§b]§r §b%s: §r§fCHATMESSAGE§r",
 
 
 
@@ -78,6 +88,7 @@
 	"chat.1a063cee7a73de00cf9c008c20d9041cc2b50968":"§8[§r§7!§r§8] §r§7Congratulations to §r§f%s§r§7 for reaching combat §r§flevel %s§r§7!§r",
 	"chat.5c2cf499316e66551383add49e7ec985cde8ec84":"§8[§r§7!§r§8] §r§7Congratulations to §r§f%s§7 for reaching §r§flevel %s in §r§fⓀ§r§7 Fishing§r§7!§r",
 	"chat.01cdf274812f74805428963d2db86bd2faf97118":"§8[§r§7!§r§8] §r§7Congratulations to §r§f%s§r§7 for reaching §r§flevel %s in §r§fⒷ§r§7 Mining§r§7!§r",
+	"chat.f2083f16f2346088444d31d76c6cfe0a1d0f3f99":"§8[§r§7!§r§8] §r§7Congratulations to §r§f%s§r§7 for reaching §r§flevel 105 in §r§fⒿ§r§7 Farming§r§7!§r",
 	"chat.bfb35d41d7a1f3bb4aca28f61d05859a611db0de":"§8[§r§7!§r§8] §r§7Congratulations to §r§f%s§r§7 for reaching §r§flevel %s in §r§fⒺ§r§7 Scribing§r§7!§r",
 	"chat.6f32bcea8341f8e790f8b1d13c89c85c6f232016":"§8[§r§7!§r§8] §r§7Congratulations to §r§f%s§r§7 for reaching §r§flevel %s in §r§fⓁ§r§7 Alchemism§r§7!§r",
 	"chat.947c604dad4adeab94521c76535403709d26701a":"§8[§r§7!§r§8] §r§7Congratulations to §r§f%s§r§7 for reaching §r§flevel %s in §r§fⒼ§r§7 Weaponsmithing§r§7!§r",
@@ -85,6 +96,7 @@
 	"chat.1a063cee7a73de00cf9c008c20d9041cc2b50968.regexp":"^§8\\[§r§7!§r§8\\] §r§7Congratulations to §r§f(\\w+)§r§7 for reaching combat §r§flevel (\\d+)§r§7!§r$",
 	"chat.5c2cf499316e66551383add49e7ec985cde8ec84.regexp":"^§8\\[§r§7!§r§8\\] §r§7Congratulations to §r§f(\\w+)§r§7 for reaching §r§flevel (\\d+) in §r§fⓀ§r§7 Fishing§r§7!§r$",
 	"chat.01cdf274812f74805428963d2db86bd2faf97118.regexp":"^§8\\[§r§7!§r§8\\] §r§7Congratulations to §r§f(\\w+)§r§7 for reaching §r§flevel (\\d+) in §r§fⒷ§r§7 Mining§r§7!§r$",
+	"chat.f2083f16f2346088444d31d76c6cfe0a1d0f3f99.regexp":"^§8\\[§r§7!§r§8\\] §r§7Congratulations to §r§f(\\w+)§r§7 for reaching §r§flevel (\\d+) in §r§fⒿ§r§7 Farming§r§7!§r",
 	"chat.bfb35d41d7a1f3bb4aca28f61d05859a611db0de.regexp":"^§8\\[§r§7!§r§8\\] §r§7Congratulations to §r§f(\\w+)§r§7 for reaching §r§flevel (\\d+) in §r§fⒺ§r§7 Scribing§r§7!§r$",
 	"chat.6f32bcea8341f8e790f8b1d13c89c85c6f232016.regexp":"^§8\\[§r§7!§r§8\\] §r§7Congratulations to §r§f(\\w+)§r§7 for reaching §r§flevel (\\d+) in §r§fⓁ§r§7 Alchemism§r§7!§r$",
 	"chat.947c604dad4adeab94521c76535403709d26701a.regexp":"^§8\\[§r§7!§r§8\\] §r§7Congratulations to §r§f(\\w+)§r§7 for reaching §r§flevel (\\d+) in §r§fⒼ§r§7 Weaponsmithing§r§7!§r$",
@@ -105,8 +117,8 @@
 	"title.5b582ca7c7c6cf581af05f77e2f19be8de36eb6d.regexp":"^§8\\[§7!§8\\] §7Congratulations to §f(\\w+)§7 for reaching §flevel (\\d+) in §fⒸ§7 Woodcutting§7!$",
 
 
-	
 
+	
 	"_":"---------------------------------------------------- CRATES ------------------------------------------------------",
 	"chat.9571b37aacfa36a5fcd72d863036c87e383107be":"§6§l              Thank you for your purchase!§r",
 	"chat.7f3789dbeb828a505e2a027d10e8164f9dd24799":"§7     Your continuous support is what keeps Wynncraft alive§r",
@@ -313,6 +325,46 @@
 	"chat.916ba99118e6a50e95e86a968bc78c878da345b6":"§5[Info] §r§dYou can buy perks to support Wynncraft! You receive ranks, bombs, crates and much more for your generosity! §r§5Visit §r§5store.wynncraft.com§r§5 for more!§r",
 	"chat.12060b2feb1d3bed16ffff057c93f3abeea11933":"§6[§r§eInfo§r§6] §r§7You can find Boss Altars in the world requiring ingredients to fight powerful bosses! They give you exclusive items and ingredients! §r§fFor more information, visit §r§fwynncraft.com§r§f!§r",
 	"chat.e867abdfeb45a39b87d28b257441f96a37a0cd61":"§6[Info] §r§7You can make a higher profit by selling your items on the global Trade Market! §r§fFor more information, visit §r§fwynncraft.com§r§f!§r",
-	"chat.17a3db4bce2ceaf79555e34f2aff54cfad23df99":"§6[Info] §r§7You can skip the class selection by typing \"/toggle autojoin\"! §r§fFor more information, visit §r§fwynncraft.com§r§f!§r"
+	"chat.17a3db4bce2ceaf79555e34f2aff54cfad23df99":"§6[Info] §r§7You can skip the class selection by typing \"/toggle autojoin\"! §r§fFor more information, visit §r§fwynncraft.com§r§f!§r",
 
+
+	"_":"---------------------------------------------------- WHAT ARE THESE ------------------------------------------------------",
+	"entity_name.d9be350262fedd9e14b38edb4701fc30653de9a7":"MEME BOT V4.20",
+	"entity_name.24881ebdacc7ad72d58e71cfb1cf03afae3e188a":"RaveGhostTestMain",
+	"entity_name.e9cf90741b4f12179d45f9c74d7b6ce836f5e09a":"RaveGhostTestWool",
+	"entity_name.539af0256504a608eefec18d42dcd2299fe2ac84":"RaveGhostTestBone",
+	"entity_name.cc90b7ef71299b90baffe326f541ee00b9ff0f81":"RaveGhostTestBook",
+	"entity_name.2259bde28392b8f8382b4d75da23cfca4250caf9":"Pikachu",
+	"entity_name.1191ea871587b64a2fd12e45677d21b6868eb410":"TipsySpinda",
+	"entity_name.a665cbd0333d1a56951ca608089a4caac547b056":"_Tiger",
+	"entity_name.333ad385dafdeaaccea34c9e9cbca15d58eb68f2":"H2O",
+	"entity_name.c7fb3177257942197ffaf1f26b2e8b00b4f667b2":"Entity",
+	"entity_name.730883cf5dae3f4f65cc37b58776fa5cf2a3e177":"InfiniteSlashX",
+	"entity_name.c9a95188cac931570b96c9b18c827059fb1c4341":"_jazzzii_",
+	"entity_name.996b405ebb2b063ff3b566eb452448ba9f51f797":"therealgman_",
+	"entity_name.c99c23a76d7f4b1f4f1c9d18829c8f9ad7f2e642":"RaveAquaductWater2",
+	"entity_name.bd87e1fb48288c7f1e95cd2ef301f7903e0815f4":"RaveAquaductWater",
+	"entity_name.be79b80bcf124e97f403d5455bbd2e67a88ae592":"aqueCorpse",
+	"entity_name.7c5382def40671959c139ed7c811f925db068c7c":"mEle",
+	"entity_name.56104a4bca6eab73a9497f0b15a50274a47dce26":"cookedheck1",
+	"entity_name.2e4d38ab44dab6276918c1bfdfb4c8f40407c48b":"cookedheck2",
+	"entity_name.1f64784067cd9a6c92f9e2cc4ad7c345e2ef1b90":"VTheorickStaffPlaysound",
+	"entity_name.7d9571a261298e0042c47ede9635d1efa7f97d12":"theoricktwainstaff1",
+	"entity_name.6b98eb54c63b17c9864e76e1da008b283f2c27a1":"UndericeFishRandomizer",
+	"entity_name.8821500df19434e5e00e2de6fcb2b7a29b54cba5":"mobTwoChecker",
+	"entity_name.a822f91228bb7e601afa8eb2ab5f0eb4cf064596":"mobThreeChecker",
+	"entity_name.e5adc1961944db3e9052d4dfea8489ec51cdb943":"HaunterX3",
+	"entity_name.e5748f5738e0d9a732aca43643374c2c4ea280f1":"Arm",
+	"entity_name.4452d71687b6bc2c9389c3349fdc17fbd73b833b":"sd",
+	"entity_name.9a4f1863c329ce4d96fd419380fa97adc7b09288":"jboxar4",
+	"entity_name.888feb7ce4182135c4e8dac821c12603fc198143":"HW16Peeping",
+	"entity_name.211dbef6748f6f7a58565eb0712899f257a45416":"jbox",
+	"entity_name.464c56491414dfd6afe9e5c95c8d25bd5e0939eb":"jbox2",
+	"entity_name.be2f42c7e53e10bbffc29b15422b4b571aaa27ed":"villpt0",
+	"entity_name.bbf736b4992f31bcb13554c5b43c2336aedf132c":"Lamp",
+	"entity_name.e77bccae637146136818e73c289944522e0d91de":"aarondoorlock",
+	"entity_name.45ed01727cd68b2fac4c32f1e97447643a2396f4":"aarondoorlocktop1",
+	"entity_name.2631bdfa5333ea6d242c6f103368361916c07b01":"VDaggerOnGround",
+	"entity_name.1d92650f9f0b787339bdb9e2e780deeabad9a539":"thLavaMarker",
+	"scoreboard_objective.d51ababcddc81363a5c88806cd3ccf36bbfae1d3":"corpeEyeVoidHole"
 }

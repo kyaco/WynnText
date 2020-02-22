@@ -31,6 +31,10 @@
 	"title.1be7a887cd4b941a0b5d73415f2c348713c5de2d":"§7[You are now entering Nemract]",
 	"chat.a0bdfcdc1cadf36c5f739f38b848f7a79f29ee86":"§7[You are now leaving Nemract]§r",
 	"title.7a4544e280e117ce46d1df5445c945a4aca5ec0a":"§7[You are now leaving Nemract]",
+	"chat.5d77acac350acc982c2c1e443bce4c25ac6a5c8a":"§7[You are now entering InfestedÀÀÀPitÀÀÀEntrance]§r",
+	"title.ea2d2897bfcb6c613cd8276d0f65157a1f5ada16":"§7[You are now entering InfestedÀÀÀPitÀÀÀEntrance]",
+	"chat.083d141bb0fa21242460e495c8ff60ac7e3d7ed6":"§7[You are now leaving InfestedÀÀÀPitÀÀÀEntrance]§r",
+	"title.a5e1cf57af380142b918c6b4d2e974b107a42f1f":"§7[You are now leaving InfestedÀÀÀPitÀÀÀEntrance]",
 	"chat.b0ece773f38097b3789d6cfa07aee0ab16edf7e6":"§7[You are now entering Elkurn]§r",
 	"title.80f55fb873a40936fa5542eadf022cb807aac723":"§7[You are now entering Elkurn]",
 	"chat.0ad8c8ce75239ab3217e97b03a728913343d0e7a":"§7[You are now leaving Elkurn]§r",
@@ -39,6 +43,10 @@
 	"title.4d87215c23ce7dcef21f5aff66d1003d1fa59642":"§7[You are now entering Ternaves]",
 	"chat.701e34424f774f292a060c243e4a2c0e0a124896":"§7[You are now leaving Ternaves]§r",
 	"title.868e06a5d723b3ce88e726e14d1daf943512ff6f":"§7[You are now leaving Ternaves]",
+	"chat.0ca2c59ea97ed8ed23b2593cf19461837ed3093e":"§7[You are now entering UnderworldÀÀÀCryptÀÀÀEntrance]§r",
+	"title.223d71ca816f75706708f582a089fb222771395b":"§7[You are now entering UnderworldÀÀÀCryptÀÀÀEntrance]",
+	"chat.7c3a32d2414a064f8d948d3f1e35809ba73ed9b9":"§7[You are now leaving UnderworldÀÀÀCryptÀÀÀEntrance]§r",
+	"title.bd03a94725c6cc03475658e69a7bfed7990bc737":"§7[You are now leaving UnderworldÀÀÀCryptÀÀÀEntrance]",
 	"chat.eb94ecf279df99cd17244e446d3abf7917267b7d":"§7[You are now entering Rymek]§r",
 	"title.e47943c0c38e15fdbd9adafcc1a258cad5115b8d":"§7[You are now entering Rymek]",
 	"chat.3535f3eefb97b60d84137ed8a48df2e6ba700a98":"§7[You are now leaving Rymek]§r",
@@ -59,6 +67,10 @@
 	"title.59e7c378860ebb2048fab7e9347a4e32cc59e2cd":"§7[You are now entering UndergrowthÀÀÀRuinsÀÀÀEntrance]",
 	"chat.a365f2af2e7864e2039489ad2ef88087fab809f3":"§7[You are now leaving UndergrowthÀÀÀRuinsÀÀÀEntrance]§r",
 	"title.4b24b0b845b6411a0f47e72c34cc593d66fb0811":"§7[You are now leaving UndergrowthÀÀÀRuinsÀÀÀEntrance]",
+	"chat.46aec1c907506e20696e45241563287cd26a974f":"§7[You are now entering Lusuco]§r",
+	"title.fc6d6d01040ffeb322036d8d526ac91d86b87471":"§7[You are now entering Lusuco]",
+	"chat.eb98238f1d50ee1b6c5d2f4f4b3579ab4f3b93cb":"§7[You are now leaving Lusuco]§r",
+	"title.7bd3f6f7a09ba5b194a889a643184e7037d122cf":"§7[You are now leaving Lusuco]",
 	"chat.69de0c2d646fb1c3bc4b261e0921ba3fc9a3698b":"§7[You are now entering Iboju Village]§r",
 	"title.99854c471f1713cec7d697c8ff5d2e4da805df7a":"§7[You are now entering Iboju Village]",
 	"chat.17dc7e86dd9ca88aded366987cc184b83d5796e2":"§7[You are now leaving Iboju Village]§r",
@@ -106,6 +118,15 @@
 
 	
 	"chat.dd021922c8741570fdf8107408489d79ba2cfc73":"                               Mummy's Tomb",
-	"chat.5fa37569897e2507333430db59d1838d5dc3e55c":"§d     -§r§7 +§r§f300§r§7 Experience Points§r"
+	"chat.5fa37569897e2507333430db59d1838d5dc3e55c":"§d     -§r§7 +§r§f300§r§7 Experience Points§r",
+	
+	"entity_name.6ffa581cb274d7fd601be9dbf4d88d174c1ff11a":"§f§lTwain Lake",
+	"chat.c2e47196c38d79a12c264033f9fb84ee25526888":"                                Twain Lake",
+	"chat.35356a8d20fabf76752b7738bc3e4fd7bf8326be":"§d     -§r§7 +§r§f540§r§7 Experience Points§r",
+
+	"title.c800fab432ba6ec7d1ce5c895f0354528c87fce8":"§eThe House of Twain",
+	"chat.3c38d664fd250b63a7d9190f89ae9101e2d2f81f":"                           §eThe House of Twain§r",
+	"chat.6e48a821dabd44feb16320e38cd658af2f961747":"§d     -§r§7 +§r§f3750§r§7 Experience Points§r",
+	"chat.8d2d73c95b787c0d824c933a20bb294727ccb2a9":"§d     -§r§7 Lore: §r§f§oOnce the home of the most gifted defenders of Wynn, it now lies in ruins and haunted by the spirits that could not move on.§r"
 
 }

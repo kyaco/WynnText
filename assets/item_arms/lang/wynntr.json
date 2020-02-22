@@ -1,6 +1,7 @@
 {
 	"_":"----------------------------------------------------- ARROW --------------------------------------------------------",
 	"item_name.56ddeac161edac6cd4e3febb85da995f10c3f08e":"§dUnidentified Bow",
+	"item_name.effe7dad4bfe669b4950eadb4b662ab1f8bfe276":"§eUnidentified Bow",
 
 	"item_name.21239a02cc87e045824c45faac0ecb5799040347":"§bZero",
 	"item_lore.fec9b11af9b3f71053d727816c80189d64b97529":"§8The unstable power within§r",
@@ -76,10 +77,14 @@
 	
 	"_":"----------------------------------------------------- SPEAR --------------------------------------------------------",
 	"item_name.49b2821f353bf6c7c4f50dc82f187848389fce54":"§eUnidentified Spear",
+	"item_name.308eca1b2bed655349742cab9860f1eec0be833b":"§dUnidentified Spear",
 
 	"item_name.a760d2da01016c9f8109e9ca2230643c6c274f19":"§eSledge",
+	"item_name.873a4f8fcb73e75cad2eae1198032845694785f1":"§dCrack the Skies",
+	"item_name.5d0bbb96680f45b6d132ba45cf0acac37f06f9e5":"§eFrenzy",
 	"_":"----------------------------------------------------- WAND --------------------------------------------------------",
 	"item_name.2e359c834f71b4300601310c3221c019cc0de1bd":"§dUnidentified Wand",
+	"item_name.1dcece92e8d7139e47dd46ce6093ffa256ea3f6a":"§eUnidentified Wand",
 	
 	"item_lore.8e9d2022c2886db04632e7f70978daf5c10e5ac3":"§3Crafted Wand§r§8 [%s/%s Durability]§r",
 	"item_lore.5dc2e413ea0a06053252023b26c3466f73a33020.regexp":"^§3Crafted Bow§r§8 \\[(\\d+)/(\\d+) Durability\\]§r$",
